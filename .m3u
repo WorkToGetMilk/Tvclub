@@ -1008,406 +1008,262 @@ http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150104
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150105
 #EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="http://127.0.0.1/" group-title="El Salvador 🇸🇻",TVO
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150106
-#EXTINF:-1 tvg-id="" tvg-name="US: A&E" tvg-logo="http://streamgo.vip:8008/images/62f28b7e7e4a05ccfe49b4b29ccb471a.png" group-title="Usa 🇺🇸",US: A&E
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150111
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="http://streamgo.vip:8008/images/b7fe3d5b286be607282dd8e155f8e892.png" group-title="Usa 🇺🇸",US: ABC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150112
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="http://streamgo.vip:8008/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" group-title="Usa 🇺🇸",US: AMC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150113
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC +" tvg-logo="http://streamgo.vip:8008/images/c2a06b12ede32b6bc14f9826baa6d24f.jpg" group-title="Usa 🇺🇸",US: AMC +
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150114
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC PRESENTS" tvg-logo="http://streamgo.vip:8008/images/68e7e2e9df90dabfaa41e498037b4d73.png" group-title="Usa 🇺🇸",US: AMC PRESENTS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150115
-#EXTINF:-1 tvg-id="" tvg-name="US: AMG TV" tvg-logo="http://streamgo.vip:8008/images/2c07751f7f1eb57dae0ae2188bde1cbb.png" group-title="Usa 🇺🇸",US: AMG TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150116
-#EXTINF:-1 tvg-id="" tvg-name="US: AMERICAN HEROES CHANNEL" tvg-logo="http://streamgo.vip:8008/images/41b60bedce7778b77acaf64cfa067f2d.png" group-title="Usa 🇺🇸",US: AMERICAN HEROES CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150117
-#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET" tvg-logo="http://streamgo.vip:8008/images/f933f437d4d03eae8fd68c98baa39c6b.png" group-title="Usa 🇺🇸",US: ANIMAL PLANET
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150118
-#EXTINF:-1 tvg-id="" tvg-name="US: ANTENNA TV" tvg-logo="http://streamgo.vip:8008/images/c2c1e527f02a615d096c56ac577f4216.png" group-title="Usa 🇺🇸",US: ANTENNA TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150119
-#EXTINF:-1 tvg-id="" tvg-name="US: ASPIRE" tvg-logo="http://streamgo.vip:8008/images/73cef6c3411c25ee858525550899bf3d.png" group-title="Usa 🇺🇸",US: ASPIRE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150120
-#EXTINF:-1 tvg-id="" tvg-name="US: AWE" tvg-logo="http://streamgo.vip:8008/images/3f3575221cf4993838e239a7c2b2a9ca.png" group-title="Usa 🇺🇸",US: AWE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150121
-#EXTINF:-1 tvg-id="" tvg-name="US: AXS TV" tvg-logo="http://streamgo.vip:8008/images/f8940140a6782beff4c7eddcb4b02b8a.png" group-title="Usa 🇺🇸",US: AXS TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150122
-#EXTINF:-1 tvg-id="" tvg-name="US: BET EAST" tvg-logo="http://streamgo.vip:8008/images/0c23eba97720c742fe3ad8210e57e13d.png" group-title="Usa 🇺🇸",US: BET EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150123
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HER" tvg-logo="http://streamgo.vip:8008/images/9bcf1c764ac9461a4cf4d1e12a24bd6a.png" group-title="Usa 🇺🇸",US: BET HER
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150124
-#EXTINF:-1 tvg-id="" tvg-name="US: BET JAMS" tvg-logo="http://streamgo.vip:8008/images/0c0ab352cd3bc627d6a71119bb05ff6b.png" group-title="Usa 🇺🇸",US: BET JAMS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150125
-#EXTINF:-1 tvg-id="" tvg-name="US: BET SOUL" tvg-logo="http://streamgo.vip:8008/images/bb2d41d852b054999a0a72405ca31407.png" group-title="Usa 🇺🇸",US: BET SOUL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150126
-#EXTINF:-1 tvg-id="" tvg-name="US: BET WEST" tvg-logo="http://streamgo.vip:8008/images/0c23eba97720c742fe3ad8210e57e13d.png" group-title="Usa 🇺🇸",US: BET WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150127
-#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE" tvg-logo="http://streamgo.vip:8008/images/a8e0e416c7a7ee8cff2acc3fd91fb6c7.png" group-title="Usa 🇺🇸",US: BOUNCE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150128
-#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO" tvg-logo="http://streamgo.vip:8008/images/7b44a30de71c6832621a79844e8838da.png" group-title="Usa 🇺🇸",US: BRAVO
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150129
-#EXTINF:-1 tvg-id="" tvg-name="US: BUZZR TV" tvg-logo="http://streamgo.vip:8008/images/c437eb8e130142f4884bfdb1a2a862b2.png" group-title="Usa 🇺🇸",US: BUZZR TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150130
-#EXTINF:-1 tvg-id="" tvg-name="US: CHARGE!" tvg-logo="http://streamgo.vip:8008/images/c47bef60ebe951efbd14a738dcb71c4f.png" group-title="Usa 🇺🇸",US: CHARGE!
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150131
-#EXTINF:-1 tvg-id="" tvg-name="US: CHIVE" tvg-logo="http://streamgo.vip:8008/images/355367481ee0abe15773470f5c53dd9b.jpg" group-title="Usa 🇺🇸",US: CHIVE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150132
-#EXTINF:-1 tvg-id="" tvg-name="US: CLAN" tvg-logo="http://streamgo.vip:8008/images/d0701e031b8ab0056cd8da7660e56d55.png" group-title="Usa 🇺🇸",US: CLAN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150133
-#EXTINF:-1 tvg-id="" tvg-name="US: CMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CMC_Logo.svg/1200px-CMC_Logo.svg.png" group-title="Usa 🇺🇸",US: CMC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150134
-#EXTINF:-1 tvg-id="" tvg-name="US: CMT" tvg-logo="http://streamgo.vip:8008/images/7af7edec6eb54299fa1e76f63ab79fad.png" group-title="Usa 🇺🇸",US: CMT
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150135
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC" tvg-logo="http://streamgo.vip:8008/images/57e2eaef87a8510e0b7f91060b2b7817.png" group-title="Usa 🇺🇸",US: CNBC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150136
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC WORLD" tvg-logo="http://streamgo.vip:8008/images/e7eea064b8a7ad91bb6c09113c787326.png" group-title="Usa 🇺🇸",US: CNBC WORLD
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150137
-#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY CENTRAL" tvg-logo="http://streamgo.vip:8008/images/76b4decddc2f0f9e1de62972b5215afc.png" group-title="Usa 🇺🇸",US: COMEDY CENTRAL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150138
-#EXTINF:-1 tvg-id="" tvg-name="US: COMET" tvg-logo="http://streamgo.vip:8008/images/edfbacd6a358b585d160cf9a20819d96.png" group-title="Usa 🇺🇸",US: COMET
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150139
-#EXTINF:-1 tvg-id="" tvg-name="US: CONTV" tvg-logo="http://streamgo.vip:8008/images/4860dbf6e3b4cc0e52546f9cfac1f8ce.png" group-title="Usa 🇺🇸",US: CONTV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150140
-#EXTINF:-1 tvg-id="" tvg-name="US: COOKING CHANNEL" tvg-logo="http://streamgo.vip:8008/images/924644c4e8e776ad0542dc342b41d2bb.png" group-title="Usa 🇺🇸",US: COOKING CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150141
-#EXTINF:-1 tvg-id="" tvg-name="US: COURT TV" tvg-logo="http://streamgo.vip:8008/images/766dbb8c489ff98425bd5c252a259028.png" group-title="Usa 🇺🇸",US: COURT TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150142
-#EXTINF:-1 tvg-id="" tvg-name="US: COZI TV" tvg-logo="http://streamgo.vip:8008/images/e5f0426d38093d68c1ee37ad4e8f2e86.png" group-title="Usa 🇺🇸",US: COZI TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150143
-#EXTINF:-1 tvg-id="" tvg-name="US: CRIME AND INVESTIGATION" tvg-logo="http://streamgo.vip:8008/images/f64d93cd3a250276d0da6ad9a7117362.png" group-title="Usa 🇺🇸",US: CRIME AND INVESTIGATION
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150144
-#EXTINF:-1 tvg-id="" tvg-name="US: CW" tvg-logo="http://streamgo.vip:8008/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="Usa 🇺🇸",US: CW
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150145
-#EXTINF:-1 tvg-id="" tvg-name="US: DABL" tvg-logo="http://streamgo.vip:8008/images/259b324eed750c651439ce9a89307d9b.png" group-title="Usa 🇺🇸",US: DABL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150146
-#EXTINF:-1 tvg-id="" tvg-name="US: DECADES" tvg-logo="http://streamgo.vip:8008/images/8bed939f4876e4cb6235b37042804837.png" group-title="Usa 🇺🇸",US: DECADES
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150147
-#EXTINF:-1 tvg-id="" tvg-name="US: DESTINATION AMERICA" tvg-logo="http://streamgo.vip:8008/images/714c1395c1db930be3408474f5307c1c.png" group-title="Usa 🇺🇸",US: DESTINATION AMERICA
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150148
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/813513ce030768aab17b38d54a047587.png" group-title="Usa 🇺🇸",US: DISCOVERY CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150149
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FAMILY" tvg-logo="http://streamgo.vip:8008/images/10530365e0ee56cba31169318a730557.png" group-title="Usa 🇺🇸",US: DISCOVERY FAMILY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150150
-#EXTINF:-1 tvg-id="" tvg-name="US: RUSH BY AMC" tvg-logo="http://streamgo.vip:8008/images/f79df03711a8cb7fcf6ce4b64c34249b.png" group-title="Usa 🇺🇸",US: RUSH BY AMC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150151
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY LIFE" tvg-logo="http://streamgo.vip:8008/images/68c8c7f8417d7e4fd093507b43f8e859.png" group-title="Usa 🇺🇸",US: DISCOVERY LIFE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150152
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY VELOCITY" tvg-logo="http://streamgo.vip:8008/images/6a46e19b7fdb022bdda4a6c561b451a4.png" group-title="Usa 🇺🇸",US: DISCOVERY VELOCITY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150153
-#EXTINF:-1 tvg-id="" tvg-name="US: DIY NETWORK" tvg-logo="http://streamgo.vip:8008/images/d2ce38a5aa93af3bb9c67398247730b1.png" group-title="Usa 🇺🇸",US: DIY NETWORK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150154
-#EXTINF:-1 tvg-id="" tvg-name="US: E! ENTERTAINMENT EAST" tvg-logo="http://streamgo.vip:8008/images/eff2bfe037339d40d23334aeda8ce672.png" group-title="Usa 🇺🇸",US: E! ENTERTAINMENT EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150155
-#EXTINF:-1 tvg-id="" tvg-name="US: E! ENTERTAINMENT WEST" tvg-logo="http://streamgo.vip:8008/images/eff2bfe037339d40d23334aeda8ce672.png" group-title="Usa 🇺🇸",US: E! ENTERTAINMENT WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150156
-#EXTINF:-1 tvg-id="" tvg-name="USA: FETV" tvg-logo="http://streamgo.vip:8008/images/84eb522bbedee32bde2fbb04583fd575.png" group-title="Usa 🇺🇸",USA: FETV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150157
-#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK" tvg-logo="http://streamgo.vip:8008/images/2588b95ee34e39f115e859619c350c33.png" group-title="Usa 🇺🇸",US: FOOD NETWORK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150158
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX BUSINESS" tvg-logo="http://streamgo.vip:8008/images/c2e4fe7e17555febcb658a237a77d16f.png" group-title="Usa 🇺🇸",US: FOX BUSINESS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150159
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX" tvg-logo="http://streamgo.vip:8008/images/bb803f905d8cac524fb5315c4e2aed40.png" group-title="Usa 🇺🇸",US: FOX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150160
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SOUL" tvg-logo="http://streamgo.vip:8008/images/f2cf8b8205385cf3d9c9f679a9e7b714.png" group-title="Usa 🇺🇸",US: FOX SOUL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150161
-#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM" tvg-logo="http://streamgo.vip:8008/images/4ea3147216f3d8b63268ef1d55750f26.png" group-title="Usa 🇺🇸",US: FREEFORM
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150162
-#EXTINF:-1 tvg-id="" tvg-name="US: FUSE" tvg-logo="http://streamgo.vip:8008/images/3752357110c8147a62242eed5dcb8b8b.png" group-title="Usa 🇺🇸",US: FUSE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150163
-#EXTINF:-1 tvg-id="" tvg-name="US: FUSION" tvg-logo="http://streamgo.vip:8008/images/cf7ba28862efac71ffa2603534dbe132.png" group-title="Usa 🇺🇸",US: FUSION
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150164
-#EXTINF:-1 tvg-id="" tvg-name="US: FX" tvg-logo="http://streamgo.vip:8008/images/fe943df7ac4737b7d0f62d0bc86fe26a.png" group-title="Usa 🇺🇸",US: FX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150165
-#EXTINF:-1 tvg-id="" tvg-name="US: FXM" tvg-logo="http://streamgo.vip:8008/images/167534a2eb0447bc65ef87de0d4fd428.png" group-title="Usa 🇺🇸",US: FXM
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150166
-#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="http://streamgo.vip:8008/images/89f43b4ae4b3506c74aaf9ddd6a1b74a.png" group-title="Usa 🇺🇸",US: FXX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150167
-#EXTINF:-1 tvg-id="" tvg-name="US: FYI" tvg-logo="http://streamgo.vip:8008/images/603e2bc19150fc24cf41e37b72b18110.png" group-title="Usa 🇺🇸",US: FYI
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150168
-#EXTINF:-1 tvg-id="" tvg-name="US: GetTV" tvg-logo="http://streamgo.vip:8008/images/35a84f2c56fc1cc05331d27dce84cda0.png" group-title="Usa 🇺🇸",US: GetTV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150169
-#EXTINF:-1 tvg-id="" tvg-name="US: GREAT AMERICAN COUNTRY" tvg-logo="http://streamgo.vip:8008/images/bc263031b01aeaa875f450753b05322c.png" group-title="Usa 🇺🇸",US: GREAT AMERICAN COUNTRY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150170
-#EXTINF:-1 tvg-id="" tvg-name="US: GRIT" tvg-logo="http://streamgo.vip:8008/images/065665ce79099ec4e2f354997731b8eb.png" group-title="Usa 🇺🇸",US: GRIT
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150171
-#EXTINF:-1 tvg-id="" tvg-name="US: GSN" tvg-logo="http://streamgo.vip:8008/images/dfd94c28ed9bdf9339a6b3c17d6bcbad.png" group-title="Usa 🇺🇸",US: GSN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150172
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK" tvg-logo="http://streamgo.vip:8008/images/fc3547042b986b27d2c4e424651e5075.png" group-title="Usa 🇺🇸",US: HALLMARK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150173
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK DRAMA" tvg-logo="http://streamgo.vip:8008/images/c9b22d4a8b9988ba96579c2f2f774e9e.png" group-title="Usa 🇺🇸",US: HALLMARK DRAMA
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150174
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK MOVIES AND MYSTERIES" tvg-logo="http://streamgo.vip:8008/images/1eac9f40fa52168aec8ea909292fec6f.png" group-title="Usa 🇺🇸",US: HALLMARK MOVIES AND MYSTERIES
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150175
-#EXTINF:-1 tvg-id="" tvg-name="US: HEROS AND ICONS TV" tvg-logo="http://streamgo.vip:8008/images/c67f7059f172320dfc45654c3081491c.png" group-title="Usa 🇺🇸",US: HEROS AND ICONS TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150176
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV EAST" tvg-logo="http://streamgo.vip:8008/images/974af8a22c31b8865ef0a01cc9c1859c.png" group-title="Usa 🇺🇸",US: HGTV EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150177
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV WEST" tvg-logo="http://streamgo.vip:8008/images/974af8a22c31b8865ef0a01cc9c1859c.png" group-title="Usa 🇺🇸",US: HGTV WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150178
-#EXTINF:-1 tvg-id="" tvg-name="US: HISTORY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/ac4458c31ff83c5acfdb64d7a66d89a8.png" group-title="Usa 🇺🇸",US: HISTORY CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150179
-#EXTINF:-1 tvg-id="" tvg-name="US: History Military" tvg-logo="http://127.0.0.1/" group-title="Usa 🇺🇸",US: History Military
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150180
-#EXTINF:-1 tvg-id="" tvg-name="US: HLN" tvg-logo="http://streamgo.vip:8008/images/abd6bc8a521eea496510713591704a33.png" group-title="Usa 🇺🇸",US: HLN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150181
-#EXTINF:-1 tvg-id="" tvg-name="US: HSN" tvg-logo="http://streamgo.vip:8008/images/49be3c9ad5c7a299df8bff896bcf3e0d.png" group-title="Usa 🇺🇸",US: HSN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150182
-#EXTINF:-1 tvg-id="" tvg-name="US: IFC" tvg-logo="http://streamgo.vip:8008/images/5847d64359f4867027c95ca358a30ea4.png" group-title="Usa 🇺🇸",US: IFC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150183
-#EXTINF:-1 tvg-id="" tvg-name="US: INSP" tvg-logo="https://tinyurl.com/y433cfqh" group-title="Usa 🇺🇸",US: INSP
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150184
-#EXTINF:-1 tvg-id="" tvg-name="US: INVESTIGATION DISCOVERY" tvg-logo="http://streamgo.vip:8008/images/18a74daffe35475a922b8615802afad2.png" group-title="Usa 🇺🇸",US: INVESTIGATION DISCOVERY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150185
-#EXTINF:-1 tvg-id="" tvg-name="US: ION TV" tvg-logo="http://streamgo.vip:8008/images/20ab4dd527614a86269e681e1944b906.png" group-title="Usa 🇺🇸",US: ION TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150186
-#EXTINF:-1 tvg-id="" tvg-name="US: LAFF TV" tvg-logo="http://streamgo.vip:8008/images/ecadc7724a66c4b2d4907a81270cc183.png" group-title="Usa 🇺🇸",US: LAFF TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150187
-#EXTINF:-1 tvg-id="" tvg-name="US: LIFETIME" tvg-logo="http://streamgo.vip:8008/images/331ed07e7de0e7b5866cc1af25123d5b.png" group-title="Usa 🇺🇸",US: LIFETIME
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150188
-#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime Real Woman" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0522/brand.gif" group-title="Usa 🇺🇸",US: Lifetime Real Woman
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150189
-#EXTINF:-1 tvg-id="" tvg-name="US: LMN" tvg-logo="http://streamgo.vip:8008/images/cfb6063fd95f74f0a736fe51d0905e6d.png" group-title="Usa 🇺🇸",US: LMN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150190
-#EXTINF:-1 tvg-id="" tvg-name="US: LOGO TV" tvg-logo="http://streamgo.vip:8008/images/931babe325f2ac373817942ed5a4a581.png" group-title="Usa 🇺🇸",US: LOGO TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150191
-#EXTINF:-1 tvg-id="" tvg-name="US: METV" tvg-logo="http://streamgo.vip:8008/images/b74e931973e5a1b4e755dbe06a6c56e2.png" group-title="Usa 🇺🇸",US: METV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150192
-#EXTINF:-1 tvg-id="" tvg-name="US: MOTORTREND" tvg-logo="http://streamgo.vip:8008/images/5fa98ada6e9a43268f00d7f0e127b7e1.png" group-title="Usa 🇺🇸",US: MOTORTREND
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150193
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV" tvg-logo="http://streamgo.vip:8008/images/e4d93f392f132d6313eb0f067fd7796c.png" group-title="Usa 🇺🇸",US: MTV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150194
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV2" tvg-logo="http://streamgo.vip:8008/images/5681de4ccbeaa07166f301fb798878a6.png" group-title="Usa 🇺🇸",US: MTV2
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150195
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Usa 🇺🇸",US: MTV CLASSIC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150196
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTVU East" tvg-logo="http://streamgo.vip:8008/images/ec09242f091d2cf09fe0969613bc796e.jpg" group-title="Usa 🇺🇸",USA: MTVU East
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150197
-#EXTINF:-1 tvg-id="" tvg-name="US: NASA" tvg-logo="http://streamgo.vip:8008/images/8c6a89aa27350b2222efae0f0dc586b6.png" group-title="Usa 🇺🇸",US: NASA
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150198
-#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO" tvg-logo="http://streamgo.vip:8008/images/bbc6152be681f21578fb4844fb7925b3.png" group-title="Usa 🇺🇸",US: NAT GEO
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150199
-#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD" tvg-logo="http://streamgo.vip:8008/images/31685bc726016ea89563466eb99193f5.png" group-title="Usa 🇺🇸",US: NAT GEO WILD
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150200
-#EXTINF:-1 tvg-id="" tvg-name="US: NAUTICAL CHANNEL" tvg-logo="http://streamgo.vip:8008/images/90dd339d0d4a6bd0d7e6d6073cd11cb7.png" group-title="Usa 🇺🇸",US: NAUTICAL CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150201
-#EXTINF:-1 tvg-id="" tvg-name="US: Nova" tvg-logo="http://127.0.0.1/" group-title="Usa 🇺🇸",US: Nova
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150202
-#EXTINF:-1 tvg-id="" tvg-name="US: OUTDOOR CHANNEL" tvg-logo="http://streamgo.vip:8008/images/236b3827992ee085e54b26e7a9531b27.png" group-title="Usa 🇺🇸",US: OUTDOOR CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150203
-#EXTINF:-1 tvg-id="" tvg-name="US: OUTSIDE TV" tvg-logo="http://streamgo.vip:8008/images/6cae45ba034463534a7eda292274f956.png" group-title="Usa 🇺🇸",US: OUTSIDE TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150204
-#EXTINF:-1 tvg-id="" tvg-name="US: OVATION" tvg-logo="http://streamgo.vip:8008/images/f0dbc6ce9691cfa457c23bd7a9411472.png" group-title="Usa 🇺🇸",US: OVATION
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150205
-#EXTINF:-1 tvg-id="" tvg-name="US: OWN" tvg-logo="http://streamgo.vip:8008/images/4217c88379b2f49f0b6b4a19e57ed81e.png" group-title="Usa 🇺🇸",US: OWN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150206
-#EXTINF:-1 tvg-id="" tvg-name="US: OXYGEN" tvg-logo="http://streamgo.vip:8008/images/8f7051fc951227193cbce71f3a71d323.png" group-title="Usa 🇺🇸",US: OXYGEN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150207
-#EXTINF:-1 tvg-id="" tvg-name="US: Oxygen (West)" tvg-logo="http://streamgo.vip:8008/images/8f7051fc951227193cbce71f3a71d323.png" group-title="Usa 🇺🇸",US: Oxygen (West)
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150208
-#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT CHANNEL" tvg-logo="http://streamgo.vip:8008/images/b8d23ce5088382253e9cf0eb42cec19e.png" group-title="Usa 🇺🇸",US: PARAMOUNT CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150209
-#EXTINF:-1 tvg-id="" tvg-name="US: PBS US" tvg-logo="http://streamgo.vip:8008/images/b5d1bc1b2998164187a638008a2fd453.png" group-title="Usa 🇺🇸",US: PBS US
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150210
-#EXTINF:-1 tvg-id="" tvg-name="US: PIXL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiVt52jNTAb8wE54DXKpik5DYJe3J20vHzAq7-C8tUcUEPl5TUsLNaalUQVauqRfnYzuQ&usqp=CAU" group-title="Usa 🇺🇸",US: PIXL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150211
-#EXTINF:-1 tvg-id="" tvg-name="US: POP" tvg-logo="http://streamgo.vip:8008/images/5185b1a5488f3160655535684d715168.png" group-title="Usa 🇺🇸",US: POP
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150212
-#EXTINF:-1 tvg-id="" tvg-name="US: PURSUIT" tvg-logo="http://streamgo.vip:8008/images/830ad4117fed4101ab8db4570446b509.png" group-title="Usa 🇺🇸",US: PURSUIT
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150213
-#EXTINF:-1 tvg-id="" tvg-name="US: QVC" tvg-logo="https://tinyurl.com/y4mnof6z" group-title="Usa 🇺🇸",US: QVC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150214
-#EXTINF:-1 tvg-id="" tvg-name="US: QVC 2" tvg-logo="http://streamgo.vip:8008/images/b740e211dff5258167ab5c75e876ac65.png" group-title="Usa 🇺🇸",US: QVC 2
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150215
-#EXTINF:-1 tvg-id="" tvg-name="US: REELZ" tvg-logo="http://streamgo.vip:8008/images/0873377fc02b98be8b02e6905a07abd1.png" group-title="Usa 🇺🇸",US: REELZ
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150216
-#EXTINF:-1 tvg-id="" tvg-name="US: REVOLT TV" tvg-logo="http://streamgo.vip:8008/images/c36cb59a04d5bd6a93a944d28d607291.png" group-title="Usa 🇺🇸",US: REVOLT TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150217
-#EXTINF:-1 tvg-id="" tvg-name="US: RFD-TV" tvg-logo="http://streamgo.vip:8008/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="Usa 🇺🇸",US: RFD-TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150218
-#EXTINF:-1 tvg-id="" tvg-name="US: SCIENCE" tvg-logo="http://streamgo.vip:8008/images/04c34c35dd92d3555bd17392f7adeb65.png" group-title="Usa 🇺🇸",US: SCIENCE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150219
-#EXTINF:-1 tvg-id="" tvg-name="US: SMITHSONIAN" tvg-logo="http://streamgo.vip:8008/images/de9d9004412aa61754891d866b372fd4.png" group-title="Usa 🇺🇸",US: SMITHSONIAN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150220
-#EXTINF:-1 tvg-id="" tvg-name="US: SUNDANCE" tvg-logo="http://streamgo.vip:8008/images/58c3468a42a003ea61269b1a996c0ea9.png" group-title="Usa 🇺🇸",US: SUNDANCE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150221
-#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="http://streamgo.vip:8008/images/097f237bd4aab234fc91e5dd8c911ca5.png" group-title="Usa 🇺🇸",US: SYFY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150222
-#EXTINF:-1 tvg-id="" tvg-name="US: Tastemade" tvg-logo="http://streamgo.vip:8008/images/de88a4541c2fb21e99f27333154f0866.png" group-title="Usa 🇺🇸",US: Tastemade
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150223
-#EXTINF:-1 tvg-id="" tvg-name="US: TBS EAST" tvg-logo="http://streamgo.vip:8008/images/d55a490cbf95c2f83462f0849c6e0ae8.png" group-title="Usa 🇺🇸",US: TBS EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150224
-#EXTINF:-1 tvg-id="" tvg-name="US: TBS WEST" tvg-logo="http://streamgo.vip:8008/images/d01e66e54992c09f8bff75a01944c78d.png" group-title="Usa 🇺🇸",US: TBS WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150225
-#EXTINF:-1 tvg-id="" tvg-name="US: TCM" tvg-logo="http://streamgo.vip:8008/images/c99dfa5fca0f170df35093538a5c429c.png" group-title="Usa 🇺🇸",US: TCM
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150226
-#EXTINF:-1 tvg-id="" tvg-name="USA: THE COWBOY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/3bb559c5304483317bd41b4d463592b5.png" group-title="Usa 🇺🇸",USA: THE COWBOY CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150227
-#EXTINF:-1 tvg-id="" tvg-name="US: TLC EAST" tvg-logo="http://streamgo.vip:8008/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="Usa 🇺🇸",US: TLC EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150228
-#EXTINF:-1 tvg-id="" tvg-name="US: TLC WEST" tvg-logo="http://streamgo.vip:8008/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="Usa 🇺🇸",US: TLC WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150229
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT EAST" tvg-logo="http://streamgo.vip:8008/images/133dca75c260cab04f909eba8567a43f.png" group-title="Usa 🇺🇸",US: TNT EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150230
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT WEST" tvg-logo="http://streamgo.vip:8008/images/133dca75c260cab04f909eba8567a43f.png" group-title="Usa 🇺🇸",US: TNT WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150231
-#EXTINF:-1 tvg-id="" tvg-name="US: TRAVEL CHANNEL" tvg-logo="http://streamgo.vip:8008/images/91e9466842c4ddd266095fa313f1ac39.png" group-title="Usa 🇺🇸",US: TRAVEL CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150232
-#EXTINF:-1 tvg-id="" tvg-name="US: TRUTV" tvg-logo="http://streamgo.vip:8008/images/7c0de871e877a74a2f390dcb6dd98d73.png" group-title="Usa 🇺🇸",US: TRUTV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150233
-#EXTINF:-1 tvg-id="" tvg-name="US: TV LAND" tvg-logo="http://streamgo.vip:8008/images/2f585bd733be6f769910cc1ee8c17b4f.png" group-title="Usa 🇺🇸",US: TV LAND
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150234
-#EXTINF:-1 tvg-id="" tvg-name="US: TV ONE" tvg-logo="http://streamgo.vip:8008/images/77e7a18f5716489c9e4c378e0385725b.png" group-title="Usa 🇺🇸",US: TV ONE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150235
-#EXTINF:-1 tvg-id="" tvg-name="US: Up TV" tvg-logo="http://streamgo.vip:8008/images/c62df3e58ccca64d5eb15b410b2a5826.png" group-title="Usa 🇺🇸",US: Up TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150236
-#EXTINF:-1 tvg-id="" tvg-name="US: USA NETWORK" tvg-logo="http://streamgo.vip:8008/images/4e1e487929068d58af9fde212d80d0bd.png" group-title="Usa 🇺🇸",US: USA NETWORK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150237
-#EXTINF:-1 tvg-id="" tvg-name="US: USA NETWORK WEST" tvg-logo="http://streamgo.vip:8008/images/4e1e487929068d58af9fde212d80d0bd.png" group-title="Usa 🇺🇸",US: USA NETWORK WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150238
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 CLASSIC" tvg-logo="http://streamgo.vip:8008/images/495190acd9b6f7e1761965e9b0336672.png" group-title="Usa 🇺🇸",US: VH1 CLASSIC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150239
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 EAST" tvg-logo="http://streamgo.vip:8008/images/35e1b11ee5382d17d25615f5ff31a989.png" group-title="Usa 🇺🇸",US: VH1 EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150240
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 WEST" tvg-logo="http://streamgo.vip:8008/images/35e1b11ee5382d17d25615f5ff31a989.png" group-title="Usa 🇺🇸",US: VH1 WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150241
-#EXTINF:-1 tvg-id="" tvg-name="US: VICELAND" tvg-logo="http://streamgo.vip:8008/images/109d54acaf0d09c982c9a72a1b1aef04.png" group-title="Usa 🇺🇸",US: VICELAND
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150242
-#EXTINF:-1 tvg-id="" tvg-name="US: WE TV" tvg-logo="http://streamgo.vip:8008/images/a8e5fac63ef984263e382e2de270b9e2.png" group-title="Usa 🇺🇸",US: WE TV
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150243
-#EXTINF:-1 tvg-id="" tvg-name="US: WEATHER CHANNEL" tvg-logo="http://streamgo.vip:8008/images/cc56a1e72bad7cee58b236b78d01eee8.png" group-title="Usa 🇺🇸",US: WEATHER CHANNEL
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150244
-#EXTINF:-1 tvg-id="" tvg-name="US: WGN AMERICA" tvg-logo="http://streamgo.vip:8008/images/86fec32cfa4c0dd4cfa6d3da05370d85.png" group-title="Usa 🇺🇸",US: WGN AMERICA
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150245
-#EXTINF:-1 tvg-id="" tvg-name="US: WWE NETWORK" tvg-logo="http://streamgo.vip:8008/images/75b2c8a4731cc4bbbc373b3b642aa917.png" group-title="Usa 🇺🇸",US: WWE NETWORK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150246
-#EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK EAST" tvg-logo="http://streamgo.vip:8008/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="Usa Childish 🇺🇸👲",US: CARTOON NETWORK EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150338
-#EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK WEST" tvg-logo="http://streamgo.vip:8008/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="Usa Childish 🇺🇸👲",US: CARTOON NETWORK WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150339
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY CHANNEL EAST" tvg-logo="http://streamgo.vip:8008/images/b1cb87605741a3a22c8d565d74a8b57b.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY CHANNEL EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150340
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY CHANNEL WEST" tvg-logo="http://streamgo.vip:8008/images/b1cb87605741a3a22c8d565d74a8b57b.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY CHANNEL WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150341
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JR EAST" tvg-logo="http://streamgo.vip:8008/images/b458ba2e0b1ddce0447e7c295b2727f2.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY JR EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150342
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JR WEST" tvg-logo="http://streamgo.vip:8008/images/b458ba2e0b1ddce0447e7c295b2727f2.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY JR WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150343
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY XD EAST" tvg-logo="http://streamgo.vip:8008/images/9d1e90b52d8e37e2ddcd7196050bf210.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY XD EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150344
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY XD WEST" tvg-logo="http://streamgo.vip:8008/images/9d1e90b52d8e37e2ddcd7196050bf210.png" group-title="Usa Childish 🇺🇸👲",US: DISNEY XD WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150345
-#EXTINF:-1 tvg-id="" tvg-name="US: NICK JR EAST" tvg-logo="http://streamgo.vip:8008/images/5bbf39a28b02248c39a46a5cff29ba02.png" group-title="Usa Childish 🇺🇸👲",US: NICK JR EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150346
-#EXTINF:-1 tvg-id="" tvg-name="US: NICKELODEON EAST" tvg-logo="http://streamgo.vip:8008/images/180f63515c439b40eeb811d569cc97c0.png" group-title="Usa Childish 🇺🇸👲",US: NICKELODEON EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150347
-#EXTINF:-1 tvg-id="" tvg-name="US: NICK JR WEST" tvg-logo="http://streamgo.vip:8008/images/5bbf39a28b02248c39a46a5cff29ba02.png" group-title="Usa Childish 🇺🇸👲",US: NICK JR WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150348
-#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS" tvg-logo="http://streamgo.vip:8008/images/232962179b90b841bccb22148b25de77.png" group-title="Usa Childish 🇺🇸👲",US: NICKTOONS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150349
-#EXTINF:-1 tvg-id="" tvg-name="US: PBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PBS_Kids_-_Logo.svg/1200px-PBS_Kids_-_Logo.svg.png" group-title="Usa Childish 🇺🇸👲",US: PBS KIDS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150350
-#EXTINF:-1 tvg-id="" tvg-name="US: TEENNICK" tvg-logo="http://streamgo.vip:8008/images/21b06ba231e569645cbc9c2191f46845.png" group-title="Usa Childish 🇺🇸👲",US: TEENNICK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150351
-#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon West" tvg-logo="http://streamgo.vip:8008/images/180f63515c439b40eeb811d569cc97c0.png" group-title="Usa Childish 🇺🇸👲",US: Nickelodeon West
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150352
-#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS" tvg-logo="http://streamgo.vip:8008/images/cc11efda967beefe7e171f4e498690e5.png" group-title="Usa Childish 🇺🇸👲",US: UNIVERSAL KIDS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150353
-#EXTINF:-1 tvg-id="" tvg-name="US: BOOMERANG" tvg-logo="http://streamgo.vip:8008/images/89811a832e9d53669788f2444c1841e0.png" group-title="Usa Childish 🇺🇸👲",US: BOOMERANG
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150354
-#EXTINF:-1 tvg-id="" tvg-name="US: BABY FIRST" tvg-logo="http://streamgo.vip:8008/images/4b69d946ca782775cbafbf4d54fd3ee0.png" group-title="Usa Childish 🇺🇸👲",US: BABY FIRST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150355
-#EXTINF:-1 tvg-id="" tvg-name="US: 5 STARMAX" tvg-logo="http://streamgo.vip:8008/images/a74acac51a09c41d12051fdaaf459476.png" group-title="Usa Movies 🇺🇸▶️",US: 5 STARMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150357
-#EXTINF:-1 tvg-id="" tvg-name="US: ACTIONMAX" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png" group-title="Usa Movies 🇺🇸▶️",US: ACTIONMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150358
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="Usa Movies 🇺🇸▶️",US: CINEMAX EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150359
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX WEST" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="Usa Movies 🇺🇸▶️",US: CINEMAX WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150360
-#EXTINF:-1 tvg-id="" tvg-name="US: OUTERMAX" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png" group-title="Usa Movies 🇺🇸▶️",US: OUTERMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150361
-#EXTINF:-1 tvg-id="" tvg-name="US: MOREMAX" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png" group-title="Usa Movies 🇺🇸▶️",US: MOREMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150362
-#EXTINF:-1 tvg-id="" tvg-name="US: THRILLERMAX" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png" group-title="Usa Movies 🇺🇸▶️",US: THRILLERMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150363
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png" group-title="Usa Movies 🇺🇸▶️",US: EPIX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150364
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX 2" tvg-logo="http://streamgo.vip:8008/images/33ed80c31a5ceece1d8b42930f283060.png" group-title="Usa Movies 🇺🇸▶️",US: EPIX 2
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150365
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE-IN" tvg-logo="http://streamgo.vip:8008/images/449ef154d647d703f5f7d6b604740c60.png" group-title="Usa Movies 🇺🇸▶️",US: EPIX DRIVE-IN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150366
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HITS" tvg-logo="http://streamgo.vip:8008/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="Usa Movies 🇺🇸▶️",US: EPIX HITS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150367
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO EAST" tvg-logo="http://streamgo.vip:8008/images/10718ab4dbde3899bbc31dc48d8a5f91.png" group-title="Usa Movies 🇺🇸▶️",US: HBO EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150368
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2" tvg-logo="http://streamgo.vip:8008/images/f2973347dfd89ca735e8ee43bbfbb48b.png" group-title="Usa Movies 🇺🇸▶️",US: HBO 2
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150369
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO FAMILY" tvg-logo="http://streamgo.vip:8008/images/bd92803d5defb80f6e80c2243301375e.png" group-title="Usa Movies 🇺🇸▶️",US: HBO FAMILY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150370
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE" tvg-logo="http://streamgo.vip:8008/images/c202c96c71d0e8817ece662524bdce7a.png" group-title="Usa Movies 🇺🇸▶️",US: HBO SIGNATURE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150371
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO PLUS" tvg-logo="http://streamgo.vip:8008/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="Usa Movies 🇺🇸▶️",US: HBO PLUS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150372
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO WEST" tvg-logo="http://streamgo.vip:8008/images/192ecbac40cd27d775f99337ba93b913.png" group-title="Usa Movies 🇺🇸▶️",US: HBO WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150373
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE" tvg-logo="http://streamgo.vip:8008/images/9db33946c136281a913bdfd2447c9bf9.png" group-title="Usa Movies 🇺🇸▶️",US: HBO ZONE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150374
-#EXTINF:-1 tvg-id="" tvg-name="US: HDNET MOVIES" tvg-logo="http://streamgo.vip:8008/images/e09db8638d2bcbe4fd768d1c9672a57f.png" group-title="Usa Movies 🇺🇸▶️",US: HDNET MOVIES
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150375
-#EXTINF:-1 tvg-id="" tvg-name="US: MOVIE PLEX" tvg-logo="http://streamgo.vip:8008/images/4c1321feb975219e202367390d69e53a.png" group-title="Usa Movies 🇺🇸▶️",US: MOVIE PLEX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150376
-#EXTINF:-1 tvg-id="" tvg-name="US: INDIE PLEX" tvg-logo="http://streamgo.vip:8008/images/db059dc8a47602a03922791832109693.png" group-title="Usa Movies 🇺🇸▶️",US: INDIE PLEX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150377
-#EXTINF:-1 tvg-id="" tvg-name="US: RETRO PLEX" tvg-logo="http://streamgo.vip:8008/images/de80c3b033cac62b8c199ef866d3d3cd.png" group-title="Usa Movies 🇺🇸▶️",US: RETRO PLEX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150378
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EAST" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150379
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME WEST" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150380
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME SHOWCASE" tvg-logo="http://epg.justco.cc/guide/logos/SHOWTIME BEYOND.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME SHOWCASE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150381
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EXTREME" tvg-logo="http://streamgo.vip:8008/images/22a09eae943b6174e51accf5da586360.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME EXTREME
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150382
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME FAMILY ZONE" tvg-logo="http://streamgo.vip:8008/images/ea686ff21bf525a3d06c7b346dbc6a37.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME FAMILY ZONE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150383
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME NEXT" tvg-logo="http://streamgo.vip:8008/images/92447e03a06cc805b279c38c9e35c671.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME NEXT
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150384
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME WOMEN" tvg-logo="http://streamgo.vip:8008/images/834818fdffba43917df672392b4d64b4.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME WOMEN
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150385
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ COMEDY" tvg-logo="http://streamgo.vip:8008/images/9ddc776ce1df88425a9d1ca0fb77edc7.png" group-title="Usa Movies 🇺🇸▶️",US: STARZ COMEDY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150386
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png" group-title="Usa Movies 🇺🇸▶️",US: STARZENCORE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150387
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore West" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png" group-title="Usa Movies 🇺🇸▶️",US: Starz Encore West
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150388
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE ACTION" tvg-logo="http://streamgo.vip:8008/images/116e61022a8c5933a759124db21c968c.png" group-title="Usa Movies 🇺🇸▶️",US: STARZENCORE ACTION
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150389
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://streamgo.vip:8008/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="Usa Movies 🇺🇸▶️",US: STARZ ENCORE CLASSIC
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150390
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE SUSPENSE" tvg-logo="http://streamgo.vip:8008/images/324c8d5f876d45cae6c3db4409cf1652.png" group-title="Usa Movies 🇺🇸▶️",US: STARZENCORE SUSPENSE
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150391
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="http://streamgo.vip:8008/images/bb0ce5935f18c27caa7556b6afe5a7fa.png" group-title="Usa Movies 🇺🇸▶️",US: STARZENCORE WESTERNS
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150392
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ IN BLACK" tvg-logo="http://streamgo.vip:8008/images/0c83f368a29d1381e414dec6ecb4f222.png" group-title="Usa Movies 🇺🇸▶️",US: STARZ IN BLACK
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150393
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ KIDS & FAMILY" tvg-logo="http://streamgo.vip:8008/images/19149e7186af1a52b9fb461242f07516.png" group-title="Usa Movies 🇺🇸▶️",US: STARZ KIDS & FAMILY
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150394
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME BET" tvg-logo="http://streamgo.vip:8008/images/0a6909d16b68b1906d5ffbc9827d9b13.png" group-title="Usa Movies 🇺🇸▶️",US: SHOWTIME BET
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150395
-#EXTINF:-1 tvg-id="" tvg-name="US: ACTIONMAX" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png" group-title="Usa Movies 🇺🇸▶️",US: ACTIONMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150396
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="Usa Movies 🇺🇸▶️",US: CINEMAX EAST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150397
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX WEST" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="Usa Movies 🇺🇸▶️",US: CINEMAX WEST
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150398
-#EXTINF:-1 tvg-id="" tvg-name="US: OUTERMAX" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png" group-title="Usa Movies 🇺🇸▶️",US: OUTERMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150399
-#EXTINF:-1 tvg-id="" tvg-name="US: MOREMAX" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png" group-title="Usa Movies 🇺🇸▶️",US: MOREMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150400
-#EXTINF:-1 tvg-id="" tvg-name="US: THRILLERMAX" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png" group-title="Usa Movies 🇺🇸▶️",US: THRILLERMAX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150401
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png" group-title="Usa Movies 🇺🇸▶️",US: EPIX
-http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/150402
+#EXTINF:-1 xui-id="608" tvg-id="" tvg-name="USA ENTERTAINMENT | FOOD NETWORK" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 FOOD NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6vfchQS_ZGVyljfH4zJSmn/ts
+#EXTINF:-1 xui-id="439" tvg-id="" tvg-name="USA ENTERTAINMENT | NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 NATIONAL GEOGRAPHIC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7PWUNC2WeQnzp3B97uT_uX/ts
+#EXTINF:-1 xui-id="440" tvg-id="" tvg-name="USA ENTERTAINMENT | NATIONAL GEOGRAPHIC WILD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 NATIONAL GEOGRAPHIC WILD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6sCLw0pr29Jwd_ZkUdExwt/ts
+#EXTINF:-1 xui-id="441" tvg-id="" tvg-name="USA MOVIE CHANNELS | SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SYFY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7SAhXQsG868X1JdQFLQ0gr/ts
+#EXTINF:-1 xui-id="442" tvg-id="" tvg-name="USA MOVIE CHANNELS | TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE TBS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5ji9BanKjmQIoSb2EiOHg_/ts
+#EXTINF:-1 xui-id="443" tvg-id="" tvg-name="USA MOVIE CHANNELS | TCM" tvg-logo="https://static.epg.best/us/TurnerClassicMovies.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE TCM
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x71obtxR64qLu4mSlNo_GT4/ts
+#EXTINF:-1 xui-id="444" tvg-id="" tvg-name="USA ENTERTAINMENT | WEATHER CHANNEL" tvg-logo="https://static.epg.best/us/WeatherChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 WEATHER CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7imWMRcYZm2LEOkuHWfZ8I/ts
+#EXTINF:-1 xui-id="445" tvg-id="" tvg-name="USA ENTERTAINMENT | TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 TLC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4ijoEU9BNoR9soWkdN8-wV/ts
+#EXTINF:-1 xui-id="446" tvg-id="" tvg-name="USA ENTERTAINMENT | TRAVEL CHANNEL" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 TRAVEL CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4TRV5QAv38u4go_ZfcSdeP/ts
+#EXTINF:-1 xui-id="447" tvg-id="" tvg-name="USA ENTERTAINMENT | E!" tvg-logo="https://static.epg.best/us/EEntertainment.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 E!
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4m6IoyEBIL-ZVEtSOra8wS/ts
+#EXTINF:-1 xui-id="448" tvg-id="" tvg-name="USA ENTERTAINMENT | GALAVISION" tvg-logo="https://static.epg.best/us/Galavision.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 GALAVISION
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6wXa9gmU5kYRXKPpLwC9Rc/ts
+#EXTINF:-1 xui-id="449" tvg-id="" tvg-name="USA ENTERTAINMENT | NBC UNIVERSO" tvg-logo="https://static.epg.best/us/NBCUniverso.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 NBC UNIVERSO
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x64jzt3tJ7767y9JpGC4SYY/ts
+#EXTINF:-1 xui-id="450" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY FAMILIA" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY FAMILIA
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7dgoLGkZIuR6xoNvXc6Sjm/ts
+#EXTINF:-1 xui-id="451" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4WlXrWSo0FTmtUl0ApppsP/ts
+#EXTINF:-1 xui-id="452" tvg-id="" tvg-name="USA KIDS | CARTOON NETWORK" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  CARTOON NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6ef9m4xcuTCIdN39VsFmNC/ts
+#EXTINF:-1 xui-id="453" tvg-id="" tvg-name="USA KIDS | DISNEY CHANNEL" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  DISNEY CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4cKZShAFvdxhyIugPwom8L/ts
+#EXTINF:-1 xui-id="454" tvg-id="" tvg-name="USA KIDS | DISNEY JR" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  DISNEY JR
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5RXFJWkBaswpBN6IUaqOiq/ts
+#EXTINF:-1 xui-id="455" tvg-id="" tvg-name="USA KIDS | DISNEY XD" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  DISNEY XD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4Vt_1TTVIv6xB9lk8oPMPl/ts
+#EXTINF:-1 xui-id="456" tvg-id="" tvg-name="USA KIDS | NICK" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  NICK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6C0NRFIY1UH6_PcjuRRcJI/ts
+#EXTINF:-1 xui-id="457" tvg-id="" tvg-name="USA KIDS | NICK JR" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  NICK JR
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4iN8HVU2hGALPVwTD2vmWY/ts
+#EXTINF:-1 xui-id="458" tvg-id="" tvg-name="USA KIDS | NICKTOONS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  NICKTOONS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5GJjs4nvqo4QfvdFUVCIPs/ts
+#EXTINF:-1 xui-id="459" tvg-id="" tvg-name="USA KIDS | UNIVERSAL KIDS" tvg-logo="https://static.epg.best/us/UniversalKids.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  UNIVERSAL KIDS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4X38ff2b4fyMBZ61oqDbq_/ts
+#EXTINF:-1 xui-id="460" tvg-id="" tvg-name="USA MOVIE CHANNELS | ACTION MAX" tvg-logo="https://static.epg.best/us/ActionMax.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE ACTION MAX
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x40NaZSFlFkKRqQsT8UT8vQ/ts
+#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="USA MOVIE CHANNELS | EPIX HITS" tvg-logo="https://static.epg.best/us/EPIXHits.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE EPIX HITS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7c050GIT4pxWJ2KO9mSzJV/ts
+#EXTINF:-1 xui-id="462" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME SHOWCASE" tvg-logo="https://static.epg.best/us/ShowtimeShowcase.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME SHOWCASE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5y-XMTwyDwODluy6srermk/ts
+#EXTINF:-1 xui-id="463" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME EXTREME" tvg-logo="https://static.epg.best/us/ShowtimeExtreme.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME EXTREME
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5sh4yKyHBldjygb6JB5XZ_/ts
+#EXTINF:-1 xui-id="464" tvg-id="" tvg-name="USA MOVIE CHANNELS | STARZ ENCORE WESTERN" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE STARZ ENCORE WESTERN
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6Pz5Fld4GG4yqNEX1koJQQ/ts
+#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="USA MOVIE CHANNELS | STARZ" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE STARZ
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5YD6aOaTB_irWU_4Fmktwa/ts
+#EXTINF:-1 xui-id="466" tvg-id="" tvg-name="USA MOVIE CHANNELS | STARZ ENCORE" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE STARZ ENCORE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5BphHzRWlGT-53gnOdUefn/ts
+#EXTINF:-1 xui-id="468" tvg-id="" tvg-name="USA MOVIE CHANNELS | HBO ZONE" tvg-logo="https://static.epg.best/us/HBOZone.us.png"  group-title="🇺🇸HBO🇺🇸",🇺🇸 HBO ZONE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4tNzhI0Cy3hAN0Sk5xYsbL/ts
+#EXTINF:-1 xui-id="469" tvg-id="" tvg-name="USA MOVIE CHANNELS | STARZ EDGE" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE STARZ EDGE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6wIMOlMYzqNXWY-1Gxo8KL/ts
+#EXTINF:-1 xui-id="470" tvg-id="" tvg-name="USA MOVIE CHANNELS | HBO SIGNATURE" tvg-logo="https://static.epg.best/us/HBOSignature.us.png"  group-title="🇺🇸HBO🇺🇸",🇺🇸 HBO SIGNATURE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4o1UG1_8ib1TyJFKcHjvXc/ts
+#EXTINF:-1 xui-id="472" tvg-id="" tvg-name="USA MOVIE CHANNELS | HBO LATINO" tvg-logo="https://static.epg.best/us/HBO.us.png"  group-title="🇺🇸HBO🇺🇸",🇺🇸 HBO LATINO
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x68ebMHvzEAxKGtgyJJmq3C/ts
+#EXTINF:-1 xui-id="473" tvg-id="" tvg-name="USA MOVIE CHANNELS | CINEMAX" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE CINEMAX
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7H-B2Lt8BpEcAhzKKJKnja/ts
+#EXTINF:-1 xui-id="474" tvg-id="" tvg-name="USA ENTERTAINMENT | SUNDANCE TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 SUNDANCE TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5ffk28VwmZLlwwfVeLqq93/ts
+#EXTINF:-1 xui-id="475" tvg-id="" tvg-name="USA MOVIE CHANNELS | A&E" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE A&E
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5huR2npwBBl_Fa1dc0gZwI/ts
+#EXTINF:-1 xui-id="476" tvg-id="" tvg-name="USA MOVIE CHANNELS | PARAMOUNT NETWORK" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE PARAMOUNT NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x55ZYQGlUhjKTAxSsxEaWR8/ts
+#EXTINF:-1 xui-id="477" tvg-id="" tvg-name="USA SPORTS | USA NETWORK" tvg-logo="https://static.epg.best/us/USANetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  USA NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6uLk4VN_lERvUoOuK245Zd/ts
+#EXTINF:-1 xui-id="480" tvg-id="" tvg-name="USA NEWS | FOX NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  FOX NEWS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6dKXO6w6kO69nwShW-1BbU/ts
+#EXTINF:-1 xui-id="481" tvg-id="" tvg-name="USA NEWS | FOX 5 NY" tvg-logo="https://static.epg.best/us/FOXWNYW.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  FOX 5 NY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5ZDsuuF74Lxa69EQmz4uTv/ts
+#EXTINF:-1 xui-id="482" tvg-id="" tvg-name="USA NEWS | ABC 7 NY" tvg-logo="https://static.epg.best/us/ABCWABC.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  ABC 7 NY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5aHewDbPBxzf9Lu21DEQ5E/ts
+#EXTINF:-1 xui-id="483" tvg-id="" tvg-name="USA MOVIE CHANNELS | HBO COMEDY" tvg-logo="https://static.epg.best/us/HBOComedy.us.png"  group-title="🇺🇸HBO🇺🇸",🇺🇸 HBO COMEDY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4MyYkLofsdXMnSidwD7HIJ/ts
+#EXTINF:-1 xui-id="484" tvg-id="" tvg-name="USA NEWS | BBC AMERICA" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  BBC AMERICA
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4ZPkHplHTaEWMoli1cNf1A/ts
+#EXTINF:-1 xui-id="485" tvg-id="" tvg-name="USA KIDS | BOOMERANG" tvg-logo="https://static.epg.best/us/Boomerang.us.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  BOOMERANG
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7llagIWlFymiQ3F8rytMpN/ts
+#EXTINF:-1 xui-id="486" tvg-id="" tvg-name="USA ENTERTAINMENT | BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 BRAVO
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7BcJfAaeFjWTPgdov8xA2k/ts
+#EXTINF:-1 xui-id="487" tvg-id="" tvg-name="USA ENTERTAINMENT | TRU TV" tvg-logo="https://static.epg.best/us/truTV.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 TRU TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5H9jRPg6U_MtNt8EKSi3Gs/ts
+#EXTINF:-1 xui-id="488" tvg-id="" tvg-name="USA ENTERTAINMENT | COOKING CHANNEL" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 COOKING CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x48dCGHIPAw3uhMfarDEM4w/ts
+#EXTINF:-1 xui-id="489" tvg-id="" tvg-name="USA SPORTS | DO IT YOURSELF NETWORK" tvg-logo="https://static.epg.best/us/DoItYourselfNetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  DO IT YOURSELF NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6qXAqo9Dwc-kKDJO5OY0KJ/ts
+#EXTINF:-1 xui-id="490" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY VELOCITY" tvg-logo="https://static.epg.best/ca/DiscoveryVelocity.ca.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY VELOCITY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7AQPcuweptAIo7Th4SNBaP/ts
+#EXTINF:-1 xui-id="491" tvg-id="" tvg-name="USA ENTERTAINMENT | OWN CHANNEL" tvg-logo="https://static.epg.best/us/OprahWinfreyNetwork.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 OWN CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4FAhSTi7v7wM1nm5PXjBk2/ts
+#EXTINF:-1 xui-id="492" tvg-id="" tvg-name="USA MOVIE CHANNELS | FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE FXM
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5ZdjcHkSfl3uluUHLhfwpZ/ts
+#EXTINF:-1 xui-id="493" tvg-id="" tvg-name="USA MOVIE CHANNELS | HBO" tvg-logo="https://static.epg.best/us/HBO.us.png"  group-title="🇺🇸HBO🇺🇸",🇺🇸 HBO
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4O5EvXMpoaWVB8BthP1CwY/ts
+#EXTINF:-1 xui-id="494" tvg-id="" tvg-name="USA NEWS | CBS 4 MIAMI" tvg-logo="https://static.epg.best/us/CBSWFOR.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CBS 4 MIAMI
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5_HSCl7ja97XdG0QtOKv4B/ts
+#EXTINF:-1 xui-id="495" tvg-id="" tvg-name="USA NEWS | CNN" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CNN
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x51Us4hm9EWA08jew1ZnE3e/ts
+#EXTINF:-1 xui-id="496" tvg-id="" tvg-name="USA NEWS | CBS HOUSTON" tvg-logo="https://static.epg.best/us/CBSKHOU.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CBS HOUSTON
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5LPR8fAqmjopJx4RJbgSyK/ts
+#EXTINF:-1 xui-id="497" tvg-id="" tvg-name="USA NEWS | NBC 4 NEW YORK" tvg-logo="https://static.epg.best/us/NBCWNBC.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  NBC 4 NEW YORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4kqA-hldrEmeqm6YWEmoUc/ts
+#EXTINF:-1 xui-id="498" tvg-id="" tvg-name="USA ENTERTAINMENT | HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 HGTV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x64_gu9J1FDvVl1UrZxnotP/ts
+#EXTINF:-1 xui-id="499" tvg-id="" tvg-name="USA ENTERTAINMENT | HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 HGTV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6wYlRgFnAkbJIYH1j-DkZe/ts
+#EXTINF:-1 xui-id="500" tvg-id="" tvg-name="USA SPORTS | ESPN DEPORTES" tvg-logo="https://static.epg.best/us/ESPNDeportes.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ESPN DEPORTES
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5bTkUGxf-mMH3tm2EzIpsX/ts
+#EXTINF:-1 xui-id="501" tvg-id="" tvg-name="USA SPORTS | BEIN SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  BEIN SPORTS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6nibbmwWaO2zviOyotfWZa/ts
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="USA SPORTS | TENNIS CHANEL" tvg-logo="https://static.epg.best/us/TennisChannel.us.pngb"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  TENNIS CHANEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5tDBGYv7Q2nNe29bvyl2je/ts
+#EXTINF:-1 xui-id="503" tvg-id="" tvg-name="USA SPORTS | UFC" tvg-logo="https://cdn.mitvstatic.com/channels/co_ufc-network-hd_m.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  UFC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x76MV6t-RbmiI-72s2rlIDn/ts
+#EXTINF:-1 xui-id="504" tvg-id="" tvg-name="USA SPORTS | FIGHT NETWORK" tvg-logo="https://static.epg.best/ca/FightNetwork.ca.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  FIGHT NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6NiaOeOyunTRvB-vn3t-eD/ts
+#EXTINF:-1 xui-id="505" tvg-id="" tvg-name="USA SPORTS | ELEVEN SPORTS" tvg-logo="https://static.epg.best/pt/ElevenSports1.pt.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ELEVEN SPORTS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4hUM1mMiQ_SnJ_J-lT9vOG/ts
+#EXTINF:-1 xui-id="506" tvg-id="" tvg-name="USA SPORTS | ESPN" tvg-logo="https://static.epg.best/us/ESPN.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ESPN
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x77bPwojXsNdIceBEPkZnY5/ts
+#EXTINF:-1 xui-id="507" tvg-id="" tvg-name="USA SPORTS | ESPN NEWS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ESPN NEWS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4m0fWOC-MubzXC_bYipJkU/ts
+#EXTINF:-1 xui-id="508" tvg-id="" tvg-name="USA SPORTS | ESPN U" tvg-logo="https://static.epg.best/us/ESPNU.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ESPN U
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5rh7Sgy0urQR2yqHIuTaP3/ts
+#EXTINF:-1 xui-id="509" tvg-id="" tvg-name="USA SPORTS | FOX SPORTS 1" tvg-logo="https://static.epg.best/us/FoxSports1.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  FOX SPORTS 1
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6CXO8-02umm5LPJirM0I-o/ts
+#EXTINF:-1 xui-id="510" tvg-id="" tvg-name="USA SPORTS | FOX SPORTS 2" tvg-logo="https://static.epg.best/us/FoxSports2.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  FOX SPORTS 2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6j3WBUkcGmPzPm5yNRlJYr/ts
+#EXTINF:-1 xui-id="511" tvg-id="" tvg-name="USA SPORTS | FOX SOCCER PLUS" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  FOX SOCCER PLUS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4sWE6YwUUhV8zenDQeMFrZ/ts
+#EXTINF:-1 xui-id="512" tvg-id="" tvg-name="USA SPORTS | GINX ESPORTS" tvg-logo="https://static.epg.best/ca/GINXeSportsTVCanada.ca.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  GINX ESPORTS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5kWawrBwEmZrdt-VXhfUGp/ts
+#EXTINF:-1 xui-id="513" tvg-id="" tvg-name="USA SPORTS | GOLF" tvg-logo="https://static.epg.best/us/GolfChannel.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  GOLF
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6y34opz-zdr5hmyAVSJq3j/ts
+#EXTINF:-1 xui-id="514" tvg-id="" tvg-name="USA ENTERTAINMENT | LONGHORN NETWORK" tvg-logo="https://static.epg.best/us/LonghornNetwork.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 LONGHORN NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6wUT7qfjddE8OqJ5AfV3-8/ts
+#EXTINF:-1 xui-id="516" tvg-id="" tvg-name="USA NEWS | MSG" tvg-logo="https://static.epg.best/us/MadisonSquareGarden.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  MSG
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4Nnt21_aN3ZKAFksfQTdsz/ts
+#EXTINF:-1 xui-id="517" tvg-id="" tvg-name="USA NEWS | MSNBC" tvg-logo="https://static.epg.best/us/MSNBC.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  MSNBC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7AogzZxn_iYlqygnqFH1Pl/ts
+#EXTINF:-1 xui-id="518" tvg-id="" tvg-name="USA SPORTS | NFL NETWORK" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  NFL NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5RMC9vByxxUk9Hk5NrG7TE/ts
+#EXTINF:-1 xui-id="519" tvg-id="" tvg-name="USA SPORTS | NHL NETWORK" tvg-logo="https://static.epg.best/us/NHLNetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  NHL NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6n5qXEzVdzGM-rS3W1mPoi/ts
+#EXTINF:-1 xui-id="520" tvg-id="" tvg-name="USA ENTERTAINMENT | OUTDOOR CHANNEL" tvg-logo="https://static.epg.best/us/OutdoorChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 OUTDOOR CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5uLVmGwC7ycd8y8E_igBww/ts
+#EXTINF:-1 xui-id="521" tvg-id="" tvg-name="USA SPORTS | SNY" tvg-logo="https://static.epg.best/us/SportsNetNewYork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  SNY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7fZDxBERLohElsbnpCueZZ/ts
+#EXTINF:-1 xui-id="522" tvg-id="" tvg-name="USA SPORTS | YES NETWORK" tvg-logo="https://static.epg.best/us/YESNetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  YES NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7qGbAh5qyiq_WAmCGui5Z6/ts
+#EXTINF:-1 xui-id="524" tvg-id="" tvg-name="USA NEWS | NBC5N" tvg-logo="https://static.epg.best/us/NBC5KSDK.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  NBC5N
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4R7FqfNIIh5DFtSF3kT6sL/ts
+#EXTINF:-1 xui-id="525" tvg-id="" tvg-name="USA SPORTS | GOL TV" tvg-logo="https://static.epg.best/us/GolTVEnglish.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  GOL TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6z6PZAx7v9oE_AEXcGuETR/ts
+#EXTINF:-1 xui-id="526" tvg-id="" tvg-name="USA SPORTS | TUDN" tvg-logo="https://static.epg.best/us/TUDN.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  TUDN
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6p6ECLUm-5omQ7s9xE46mQ/ts
+#EXTINF:-1 xui-id="527" tvg-id="" tvg-name="USA SPORTS | WWE US" tvg-logo="https://static.epg.best/us/WWE.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  WWE US
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4nkT_igo6KlgjpGY-4lP02/ts
+#EXTINF:-1 xui-id="528" tvg-id="" tvg-name="USA NEWS | ABC 7 NEW YORK" tvg-logo="https://static.epg.best/us/ABCWABC.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  ABC 7 NEW YORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7iB_VwH73ytfFxu-Sm1yir/ts
+#EXTINF:-1 xui-id="529" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7bRU-X4zKxFqU62cDoxVmd/ts
+#EXTINF:-1 xui-id="530" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME 2" tvg-logo="https://static.epg.best/us/Showtime2.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME 2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5RJI2pjkTqNw7Mz7QuKBNn/ts
+#EXTINF:-1 xui-id="531" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME WEST" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME WEST
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7NiwOCMaDdne3kGZ49E8wC/ts
+#EXTINF:-1 xui-id="532" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5OGHgJMdXBY6QUNNMZ_5Zb/ts
+#EXTINF:-1 xui-id="533" tvg-id="" tvg-name="USA MOVIE CHANNELS | SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE SHOWTIME
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6R-RTDHFvTfQKpZigYIDxj/ts
+#EXTINF:-1 xui-id="534" tvg-id="" tvg-name="USA MOVIE CHANNELS | AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE AMC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6WSIY0SrUr7dKNY0IInL9I/ts
+#EXTINF:-1 xui-id="535" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY ID" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY ID
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6NxGVdMgG3dPj8VJL_PhZH/ts
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="USA NEWS | CNBC" tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CNBC
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7pZxg6hJjKUbsVNxqTHdV4/ts
+#EXTINF:-1 xui-id="537" tvg-id="" tvg-name="USA MOVIE CHANNELS | COMEDY CENTRAL" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE COMEDY CENTRAL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5c5-34kVDMriXGz111taOr/ts
+#EXTINF:-1 xui-id="538" tvg-id="" tvg-name="USA ENTERTAINMENT | DESTINATION AMERICA" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DESTINATION AMERICA
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7rnJwnVijBItwt6o_xYMU3/ts
+#EXTINF:-1 xui-id="539" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY FAMILY" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY FAMILY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x45oRyFq5p3bwMzJVc-XmW8/ts
+#EXTINF:-1 xui-id="540" tvg-id="" tvg-name="USA ENTERTAINMENT | DISCOVERY LIFE" tvg-logo="https://static.epg.best/us/DiscoveryLife.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 DISCOVERY LIFE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5x60UqcbDWNyKxk2wnJWRl/ts
+#EXTINF:-1 xui-id="541" tvg-id="" tvg-name="USA ENTERTAINMENT | SCIENCE" tvg-logo="https://static.epg.best/us/Science.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 SCIENCE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4amgEE07sKWZth29fYBf0m/ts
+#EXTINF:-1 xui-id="542" tvg-id="" tvg-name="USA MOVIE CHANNELS | FX" tvg-logo="https://static.epg.best/us/FX.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE FX
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7K19ZTGxemxHe65o8Q15Kp/ts
+#EXTINF:-1 xui-id="543" tvg-id="" tvg-name="USA MOVIE CHANNELS | FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE FXX
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4VSUH0Iy1Rt4_8G7XSWKqm/ts
+#EXTINF:-1 xui-id="544" tvg-id="" tvg-name="USA MOVIE CHANNELS | HALLMARK" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE HALLMARK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x493xr4jbYtFODfWuseroo1/ts
+#EXTINF:-1 xui-id="545" tvg-id="" tvg-name="USA ENTERTAINMENT | HISTORY CHANNEL" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 HISTORY CHANNEL
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7c5mxMv2YqFsJolDAtHv9o/ts
+#EXTINF:-1 xui-id="546" tvg-id="" tvg-name="USA ENTERTAINMENT | LIFETIME NETWORK" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 LIFETIME NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7FlvNqlocNVvWDuOnltrBn/ts
+#EXTINF:-1 xui-id="547" tvg-id="" tvg-name="USA MOVIE CHANNELS | TNT" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE TNT
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x63ve-9wfBb90-wdQkiE0pF/ts
+#EXTINF:-1 xui-id="548" tvg-id="" tvg-name="USA MOVIE CHANNELS | CW" tvg-logo="https://static.epg.best/us/CWWSFL.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE CW
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x54kW42AE-tOKvZ18k_ZEys/ts
+#EXTINF:-1 xui-id="549" tvg-id="" tvg-name="USA ENTERTAINMENT | GALAVISION NY" tvg-logo="https://static.epg.best/us/Galavision.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 GALAVISION NY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x53GwsPL87WY12pXJfm0u_R/ts
+#EXTINF:-1 xui-id="550" tvg-id="" tvg-name="USA NEWS | CBS 2 NEW YORK" tvg-logo="https://static.epg.best/us/CBSWCBS.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CBS 2 NEW YORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7OWmJgJ-lW8TBnrM8a2CJ9/ts
+#EXTINF:-1 xui-id="551" tvg-id="" tvg-name="USA ENTERTAINMENT | GRIT" tvg-logo="https://static.epg.best/us/Grit.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 GRIT
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5bn-JNsYr_KfFkFfnCOLTu/ts
+#EXTINF:-1 xui-id="552" tvg-id="" tvg-name="USA ENTERTAINMENT | PBS BUFFALO" tvg-logo="https://static.epg.best/us/WNED.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 PBS BUFFALO
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x70dH-o-aiJyb07xoY6Y_P7/ts
+#EXTINF:-1 xui-id="553" tvg-id="" tvg-name="USA NEWS | BLOOMBERG" tvg-logo="https://static.epg.best/us/BloombergTV.us.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  BLOOMBERG
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5f5rPxv8thGXRbD5_DvIxk/ts
+#EXTINF:-1 xui-id="554" tvg-id="" tvg-name="USA MOVIE CHANNELS | OMNI 1" tvg-logo="https://static.epg.best/ca/OMNI1.ca.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE OMNI 1
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6_UiCxN5WDHLpCfRjY2BKi/ts
+#EXTINF:-1 xui-id="555" tvg-id="" tvg-name="USA MOVIE CHANNELS | OMNI 2" tvg-logo="https://static.epg.best/ca/OMNI2.ca.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE OMNI 2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x63_bNx-DrYR4oC0D7iwaEf/ts
+#EXTINF:-1 xui-id="556" tvg-id="" tvg-name="USA NEWS | CTV 2" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CTV 2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x78EjPaOpmHE0Xeqio6mu-J/ts
+#EXTINF:-1 xui-id="557" tvg-id="" tvg-name="USA NEWS | CTV NEWS" tvg-logo="https://static.epg.best/ca/CTVNews.ca.png" group-title="USA NEWS🇺🇸",🇺🇸NEWS  CTV NEWS
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x59DjK_2LSDf29C28zgTt0E/ts
+#EXTINF:-1 xui-id="558" tvg-id="" tvg-name="USA KIDS | TELETOON" tvg-logo="https://static.epg.best/ca/Teletoon.ca.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  TELETOON
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7zm-KfXLTctUaP9sgaHSDM/ts
+#EXTINF:-1 xui-id="559" tvg-id="" tvg-name="USA KIDS | TREE HOUSE" tvg-logo="https://static.epg.best/ca/Treehouse.ca.png" group-title="USA KIDS 🇺🇸",🇺🇸KIDS  TREE HOUSE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4uz0u_eUhVhXNz15tQ04FD/ts
+#EXTINF:-1 xui-id="565" tvg-id="" tvg-name="USA MOVIE CHANNELS | CMT" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE CMT
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5RF5TZ3Pz8-NRtu5M_HCUJ/ts
+#EXTINF:-1 xui-id="566" tvg-id="" tvg-name="USA MOVIE CHANNELS | CTV COMEDY" tvg-logo="https://static.epg.best/ca/CTVComedy.ca.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE CTV COMEDY
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6cckaokNXouEbosghTQD93/ts
+#EXTINF:-1 xui-id="567" tvg-id="" tvg-name="USA MOVIE CHANNELS | CTV SCI-FI" tvg-logo="https://static.epg.best/ca/CTVSciFi.ca.png" group-title="USA MOVIE 🇺🇸",🇺🇸MOVIE CTV SCI-FI
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7bhDP1cK3-b_V6qZGSZnjx/ts
+#EXTINF:-1 xui-id="569" tvg-id="" tvg-name="USA ENTERTAINMENT | MOTOR TREND" tvg-logo="https://static.epg.best/us/MotorTrend.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 MOTOR TREND
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7q1Md53C2k9MLps4a0DbPU/ts
+#EXTINF:-1 xui-id="570" tvg-id="" tvg-name="USA ENTERTAINMENT | H2" tvg-logo="https://static.epg.best/ca/History2.ca.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 H2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6V3pOLHXlODCxzv2p_DUQr/ts
+#EXTINF:-1 xui-id="571" tvg-id="" tvg-name="USA ENTERTAINMENT | LOVE NATURE" tvg-logo="http://Fastvplayer.com:8080/images/qw9Sd5JnDX2uSQDrGmMculSRs9K9UZZoA7feHhFpmm-AyA8efm4l11ewm0ljMJ_H.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 LOVE NATURE
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6NKjQrF2wZJXUkm4Cm41Bf/ts
+#EXTINF:-1 xui-id="572" tvg-id="" tvg-name="USA SPORTS | SPORTSMAN" tvg-logo="https://static.epg.best/us/SportsmanChannel.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  SPORTSMAN
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7dyn6CYMVJp_MI_9AJ-EKg/ts
+#EXTINF:-1 xui-id="573" tvg-id="" tvg-name="USA ENTERTAINMENT | ANIMAL PLANET" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 ANIMAL PLANET
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6e0eWs6N2_6A4HVikRxyaJ/ts
+#EXTINF:-1 xui-id="574" tvg-id="" tvg-name="USA SPORTS | ESPN 2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  ESPN 2
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5BIJQCV7iDzeirrKdPemh2/ts
+#EXTINF:-1 xui-id="575" tvg-id="" tvg-name="USA SPORTS | CBS SPORTS NETWORK" tvg-logo="https://static.epg.best/us/CBSSportsNetwork.us.png"  group-title="USA SPORTS 🇺🇸",🇺🇸SPORTS  CBS SPORTS NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6nvkz2w5CpCr64RA7gvas9/ts
+#EXTINF:-1 xui-id="576" tvg-id="" tvg-name="USA ENTERTAINMENT | BIG TEN NETWORK" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 BIG TEN NETWORK
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4V2z2HPJzhdDK7JS9_kfn3/ts
+#EXTINF:-1 xui-id="577" tvg-id="" tvg-name="USA ENTERTAINMENT | PASIONES" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="USA ENTERTAIMENT 🇺🇸",🇺🇸 PASIONES
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6qAp5eoS8V7hKwOVA__00C/ts
 #EXTINF:-1 tvg-id="" tvg-name="Hit List" tvg-logo="http://streamgo.vip:8008/images/4ff261560cb18f170b18681a554d4680.png" group-title="Musica 🎶🎶",Hit List
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/158851
 #EXTINF:-1 tvg-id="" tvg-name="Hip-Hop/R&B" tvg-logo="http://streamgo.vip:8008/images/4ff261560cb18f170b18681a554d4680.png" group-title="Musica 🎶🎶",Hip-Hop/R&B
@@ -6590,8 +6446,6 @@ http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173356.mp4
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173358.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="http://streamgo.vip:8008/images/d2ba263192e505d95dea00950c6ea58f.jpg" group-title="Películas  2022 ▶️",Black Adam (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El último juego (2021)" tvg-logo="http://streamgo.vip:8008/images/20d1aedef3afba48186d9f2bf5766342.jpg" group-title="Películas 2021 ▶️",El último juego (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173362.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boon (2022)" tvg-logo="http://streamgo.vip:8008/images/e21b8962bf4b409af0f8180a99091607.jpg" group-title="Películas  2022 ▶️",Boon (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173363.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Broad Peak (2022)" tvg-logo="http://streamgo.vip:8008/images/6e2a288cd123c0aaaa4b80df079044da.jpg" group-title="Películas  2022 ▶️",Broad Peak (2022)
@@ -6608,8 +6462,6 @@ http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173369.mp4
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bullet Train (HQ)  " tvg-logo="http://streamgo.vip:8008/images/241553263d3f5a861db141b685ed1a99.jpg" group-title="Películas  2022 ▶️",Bullet Train (HQ)  
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bull: La hora de la venganza (2021)" tvg-logo="http://streamgo.vip:8008/images/afa66eb38ba96e47e1841cdf8d676514.jpg" group-title="Películas 2021 ▶️",Bull: La hora de la venganza (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173372.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bull Shark (2022)" tvg-logo="http://streamgo.vip:8008/images/edecfb57e4527e837acce65b68e252e8.jpg" group-title="Películas  2022 ▶️",Bull Shark (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173373.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Burbujas (2022)" tvg-logo="http://streamgo.vip:8008/images/01d0956733fef5590bc027973b8906e6.jpg" group-title="Películas  2022 ▶️",Burbujas (2022)
@@ -6626,8 +6478,6 @@ http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173380.mp4
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173381.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicas con Glamur (2022)" tvg-logo="http://streamgo.vip:8008/images/d476916faecd4e33c26992b788252364.jpg" group-title="Películas  2022 ▶️",Chicas con Glamur (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Willkommen in Siegheilkirchen (2021)" tvg-logo="http://streamgo.vip:8008/images/63ab8a48109ed6e305cbce02ca0997c9.jpg" group-title="Películas 2021 ▶️",Willkommen in Siegheilkirchen (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173383.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chip y Dale: Al rescate (2022)" tvg-logo="http://streamgo.vip:8008/images/9f06b10487c237649d6cd5ce549e7534.jpg" group-title="Películas  2022 ▶️",Chip y Dale: Al rescate (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173384.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ciberinfierno: La investigación que destapó el horror (2022)" tvg-logo="http://streamgo.vip:8008/images/3055f462589ff76ae841e48b37d2225e.jpg" group-title="Películas  2022 ▶️",Ciberinfierno: La investigación que destapó el horror (2022)
@@ -6860,14 +6710,10 @@ http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173520.mp4
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173521.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tormenta Mortal (2022)" tvg-logo="http://streamgo.vip:8008/images/44374b54310c0fccd9bc977691f9fc26.jpg" group-title="Películas  2022 ▶️",Tormenta Mortal (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Instinto peligroso (2021)" tvg-logo="http://streamgo.vip:8008/images/25df9a66a5da640c738ffbea567d0014.jpg" group-title="Películas 2021 ▶️",Instinto peligroso (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173524.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="http://streamgo.vip:8008/images/5824f94ab32027dc5586f9d7f5c8ca68.jpg" group-title="Películas  2022 ▶️",Interceptor (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173525.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="http://streamgo.vip:8008/images/5824f94ab32027dc5586f9d7f5c8ca68.jpg" group-title="Películas  2022 ▶️",Interceptor (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: El Despertar (2021)" tvg-logo="http://streamgo.vip:8008/images/3b63cb041a1e4417e2d7baed15a465e1.jpg" group-title="Películas 2021 ▶️",Ip Man: El Despertar (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173528.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel: Especial Carnaval Bruttal (2022)" tvg-logo="http://streamgo.vip:8008/images/adb8e75bf7c301680b258eee15aaa77f.jpg" group-title="Películas  2022 ▶️",Irmão do Jorel: Especial Carnaval Bruttal (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173529.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jackass 4.5 (2022)" tvg-logo="http://streamgo.vip:8008/images/fd7d707391b0da585a3835dc4cb93b6c.jpg" group-title="Películas  2022 ▶️",Jackass 4.5 (2022)
@@ -6904,7 +6750,285 @@ http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173546.mp4
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173547.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Escuela del Bien y del Mal (2022)" tvg-logo="http://streamgo.vip:8008/images/9eb48fa998f1be73a62e64e527f5fa2d.jpg" group-title="Películas  2022 ▶️",La Escuela del Bien y del Mal (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Ex (2021)" tvg-logo="http://streamgo.vip:8008/images/fd56dbd0d04cd6abdcbdb4cffe1d93f6.jpg" group-title="Películas 2021 ▶️",La Ex (2021)
-http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173549.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Fierecilla Indomable (2022)" tvg-logo="http://streamgo.vip:8008/images/af4ebab67ad3ccc506f38201afed796d.jpg" group-title="Películas  2022 ▶️",La Fierecilla Indomable (2022)
 http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura de Blue en la Ciudad (2022)" tvg-logo="http://streamgo.vip:8008/images/792f996c1cc30cc07f77005359a048b0.jpg" group-title="Películas  2022 ▶️",La Gran Aventura de Blue en la Ciudad (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Rey (2022)" tvg-logo="http://streamgo.vip:8008/images/5deff84db02d7f96972118a44622e87f.jpg" group-title="Películas  2022 ▶️",La hija del Rey (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana: El origen (2022)" tvg-logo="http://streamgo.vip:8008/images/2852416354d13719452c6108e8cc3dec.jpg" group-title="Películas  2022 ▶️",La huérfana: El origen (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invitación al Infierno (2022)" tvg-logo="http://streamgo.vip:8008/images/558a1e36009cec8f235339cc4a99bf83.jpg" group-title="Películas  2022 ▶️",Invitación al Infierno (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La jefa (2022)" tvg-logo="http://streamgo.vip:8008/images/3ff0186bda3c4e1c29c72e184969307b.jpg" group-title="Películas  2022 ▶️",La jefa (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (2022)" tvg-logo="http://streamgo.vip:8008/images/4bc21637e1caad13ab10160ba453c4b1.jpg" group-title="Películas  2022 ▶️",La masacre de Texas (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entregas navideñas (2022)" tvg-logo="http://streamgo.vip:8008/images/30e8e9f4165df860855af316dc6f208c.jpg" group-title="Películas  2022 ▶️",Entregas navideñas (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Máquina infernal (2022)" tvg-logo="http://streamgo.vip:8008/images/0c83ee419fc1173da840d42e934541f6.jpg" group-title="Películas  2022 ▶️",La Máquina infernal (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La octava cláusula (2022)" tvg-logo="http://streamgo.vip:8008/images/7ddf5dc1c50b41a1f4c2c8fa330131c9.jpg" group-title="Películas  2022 ▶️",La octava cláusula (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa (2022)" tvg-logo="http://streamgo.vip:8008/images/d3dae06345b157164e9e03ec12df14ed.jpg" group-title="Películas  2022 ▶️",La Princesa (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Dulce Monstruo (2022)" tvg-logo="http://streamgo.vip:8008/images/f3438915c727611c75ada21a5beb7fad.jpg" group-title="Películas  2022 ▶️",Mi Dulce Monstruo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las niñas de cristal (2022)" tvg-logo="http://streamgo.vip:8008/images/ae1394c79c05b0a8350c867e44b664f6.jpg" group-title="Películas  2022 ▶️",Las niñas de cristal (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Vocales (2022)" tvg-logo="http://streamgo.vip:8008/images/5b638a66124a22de16ec388dc5d63313.jpg" group-title="Películas  2022 ▶️",Las Vocales (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laura Pausini: Un placer conocerte (2022)" tvg-logo="http://streamgo.vip:8008/images/65495c25ce5c10c40eebd6c72043dcfe.jpg" group-title="Películas  2022 ▶️",Laura Pausini: Un placer conocerte (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavandería Nancy Sport (2022)" tvg-logo="http://streamgo.vip:8008/images/968061a43f9da064cf253f5ade98fb69.jpg" group-title="Películas  2022 ▶️",Lavandería Nancy Sport (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romance en Verona (Love in the Villa) (2022)" tvg-logo="http://streamgo.vip:8008/images/8651dbc2d3a59d469631e5df066be268.jpg" group-title="Películas  2022 ▶️",Romance en Verona (Love in the Villa) (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo que dejamos atrás (2022)" tvg-logo="http://streamgo.vip:8008/images/f2a5a3f24c6aa29448381c1c9e29fa2f.jpg" group-title="Películas  2022 ▶️",Lo que dejamos atrás (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La familia Monster (2022)" tvg-logo="http://streamgo.vip:8008/images/8cb7b7849e5d1a8817df5ebcf2e7b3b6.jpg" group-title="Películas  2022 ▶️",La familia Monster (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore (2022)" tvg-logo="http://streamgo.vip:8008/images/93c2346bb2bf2e9c09bca8937b5949ad.jpg" group-title="Películas  2022 ▶️",Animales Fantásticos: Los Secretos de Dumbledore (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Tipos Malos (2022)" tvg-logo="http://streamgo.vip:8008/images/45f129ee8c402f8c64dea4b28d5ca2a1.jpg" group-title="Películas  2022 ▶️",Los Tipos Malos (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Survivors (2022)" tvg-logo="http://streamgo.vip:8008/images/70f6ffe04742e230539ddbae3b2b9845.jpg" group-title="Películas  2022 ▶️",Last Survivors (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="http://streamgo.vip:8008/images/a49bc4e5f04dc8c93e2a1bdcc128baa2.jpg" group-title="Películas  2022 ▶️",Lou (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madelines (2022)" tvg-logo="http://streamgo.vip:8008/images/0c391b1d49205b0e8a7d361801d5d50c.jpg" group-title="Películas  2022 ▶️",Madelines (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maneater (2022)" tvg-logo="http://streamgo.vip:8008/images/6f9b46a56f679b5c518b38d0928be026.jpg" group-title="Películas  2022 ▶️",Maneater (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke (2022)" tvg-logo="http://streamgo.vip:8008/images/ea3d2126ff22fdb73b1c3d96e738302b.jpg" group-title="Películas  2022 ▶️",Marmaduke (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matando el tiempo (2022)" tvg-logo="http://streamgo.vip:8008/images/89ef12863468cbb76e0c2bfe664c2362.jpg" group-title="Películas  2022 ▶️",Matando el tiempo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matriarca (2022)" tvg-logo="http://streamgo.vip:8008/images/7cf9420581f90fab75248a97d2671723.jpg" group-title="Películas  2022 ▶️",Matriarca (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me casé con un idiota (2022)" tvg-logo="http://streamgo.vip:8008/images/093a44354e8a400e7b90360d694a0d4f.jpg" group-title="Películas  2022 ▶️",Me casé con un idiota (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medieval (2022)" tvg-logo="http://streamgo.vip:8008/images/ce7d4ec3651de5227cbb7f1e72c34636.jpg" group-title="Películas  2022 ▶️",Medieval (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metal Lords (2022)" tvg-logo="http://streamgo.vip:8008/images/11c2a4216310eb6047d2f0a250d48574.jpg" group-title="Películas  2022 ▶️",Metal Lords (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mete miedo (2022)" tvg-logo="http://streamgo.vip:8008/images/1242b2108b031a58aaafc06c4596c268.jpg" group-title="Películas  2022 ▶️",Mete miedo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Fake Boyfriend (2022)" tvg-logo="http://streamgo.vip:8008/images/a87bd4b760201cfc32d6b16891ed5519.jpg" group-title="Películas  2022 ▶️",My Fake Boyfriend (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="http://streamgo.vip:8008/images/4407e4e35c61ea3fd4c27e241a47ae30.jpg" group-title="Películas  2022 ▶️",Panama (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un misterio de Navidad (2022)" tvg-logo="http://streamgo.vip:8008/images/988ca065fed9c69a94e2f00c087cabf0.jpg" group-title="Películas  2022 ▶️",Un misterio de Navidad (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miénteme (2022)" tvg-logo="http://streamgo.vip:8008/images/33ca7f52e6fe90b33b4a39e5a452de5a.jpg" group-title="Películas  2022 ▶️",Miénteme (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monstrous (2022)" tvg-logo="http://streamgo.vip:8008/images/8f86c0391fb295426a438c84e49cd0ef.jpg" group-title="Películas  2022 ▶️",Monstrous (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall: Impacto Lunar (2022)" tvg-logo="http://streamgo.vip:8008/images/f416895e75b5a2e2771ba424723a4d60.jpg" group-title="Películas  2022 ▶️",Moonfall: Impacto Lunar (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sueños de Marte (2022)" tvg-logo="http://streamgo.vip:8008/images/41dc0db3ffe341941ec9623b1335b9db.jpg" group-title="Películas  2022 ▶️",Sueños de Marte (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="http://streamgo.vip:8008/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="Películas  2022 ▶️",Morbius (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="http://streamgo.vip:8008/images/1636ff79c4dbd7c850a9b423bfa8a580.jpg" group-title="Películas  2022 ▶️",Morbius (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022)" tvg-logo="http://streamgo.vip:8008/images/9b0a8477bf1aa86d93164d7de0594e20.jpg" group-title="Películas  2022 ▶️",Muerte en el Nilo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Múnich en vísperas de una guerra (2022)" tvg-logo="http://streamgo.vip:8008/images/8c8d88e27ba5c6e9b817cbfab2a6269d.jpg" group-title="Películas  2022 ▶️",Múnich en vísperas de una guerra (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nate: Mejor tarde que nunca (2022)" tvg-logo="http://streamgo.vip:8008/images/682e0ee650c5bbd41a6595ed75a22c5a.jpg" group-title="Películas  2022 ▶️",Nate: Mejor tarde que nunca (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navalny (2022)" tvg-logo="http://streamgo.vip:8008/images/4e39e95a808d8bce7be5cb6fbed11247.jpg" group-title="Películas  2022 ▶️",Navalny (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad contigo (2022)" tvg-logo="http://streamgo.vip:8008/images/33d7b905f0e74a1d58501d24547ccec8.jpg" group-title="Películas  2022 ▶️",Navidad contigo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en la granja (2022)" tvg-logo="http://streamgo.vip:8008/images/3b4a0b156df6f9cf704fa1d5b34425f8.jpg" group-title="Películas  2022 ▶️",Navidad en la granja (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night's End (2022)" tvg-logo="http://streamgo.vip:8008/images/23f867167723fe2f94c20f1404c1e763.jpg" group-title="Películas  2022 ▶️",Night's End (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="http://streamgo.vip:8008/images/3edae14ac21fc8af1361c1376628a742.jpg" group-title="Películas  2022 ▶️",Noche de sustos (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No estarás sola (2022)" tvg-logo="http://streamgo.vip:8008/images/e664d2e3386fdf7ebd858ff9a4bbe7a1.jpg" group-title="Películas  2022 ▶️",No estarás sola (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No te preocupes cariño (2022)" tvg-logo="http://streamgo.vip:8008/images/fd4841cad6890997e05ebfa0c195805b.jpg" group-title="Películas  2022 ▶️",No te preocupes cariño (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada Siniestra (2022)" tvg-logo="http://streamgo.vip:8008/images/3296a5e292238f638bb72bb0cb5c6fbb.jpg" group-title="Películas  2022 ▶️",Temporada Siniestra (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llamas de venganza (2022)" tvg-logo="http://streamgo.vip:8008/images/2ae4e0b295d8104dfcc8d1bf109bb826.jpg" group-title="Películas  2022 ▶️",Llamas de venganza (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ola de calor (2022)" tvg-logo="http://streamgo.vip:8008/images/4fef2bef57319ec84df17e255e588e88.jpg" group-title="Películas  2022 ▶️",Ola de calor (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE FILM RED (2022)" tvg-logo="http://streamgo.vip:8008/images/20466d5a7c0ccfb6bba8bb5da3924e25.jpg" group-title="Películas  2022 ▶️",ONE PIECE FILM RED (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operación Cerveza (2022)" tvg-logo="http://streamgo.vip:8008/images/f40a3a00c9958f2675d86d9d279b8e72.jpg" group-title="Películas  2022 ▶️",Operación Cerveza (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osa Polar (2022)" tvg-logo="http://streamgo.vip:8008/images/e5b2cd55ba55cf382b2fe213beac0854.jpg" group-title="Películas  2022 ▶️",Osa Polar (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuestro padre (2022)" tvg-logo="http://streamgo.vip:8008/images/08e1131e9baaf7ab5fd92324ebecfb50.jpg" group-title="Películas  2022 ▶️",Nuestro padre (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Temps des OVNI (2022)" tvg-logo="http://streamgo.vip:8008/images/37ba939eecbdbd1ac3d41cc9dcc5b9d6.jpg" group-title="Películas  2022 ▶️",Le Temps des OVNI (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno 3 (2022)" tvg-logo="http://streamgo.vip:8008/images/3d7ab98fc6f76f5815fd78a85cbc6d08.jpg" group-title="Películas  2022 ▶️",Padre no hay más que uno 3 (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="http://streamgo.vip:8008/images/4407e4e35c61ea3fd4c27e241a47ae30.jpg" group-title="Películas  2022 ▶️",Panama (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panash (2022)" tvg-logo="http://streamgo.vip:8008/images/8b547241a35fb89ae7f5b87e9de27453.jpg" group-title="Películas  2022 ▶️",Panash (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo estuve aquí (2022)" tvg-logo="http://streamgo.vip:8008/images/ba1e4b7cbda98c4a5e7986f5d8e5ece7.jpg" group-title="Películas  2022 ▶️",Yo estuve aquí (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pearl (2022)" tvg-logo="http://streamgo.vip:8008/images/3c09bfd46ffd9c4170933c63f4e7593d.jpg" group-title="Películas  2022 ▶️",Pearl (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peligrosos juegos de familia (2022)" tvg-logo="http://streamgo.vip:8008/images/f1ecda86bc50a10d89149d9f9f43f5d5.jpg" group-title="Películas  2022 ▶️",Peligrosos juegos de familia (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos Contra El Hielo (2022)" tvg-logo="http://streamgo.vip:8008/images/7061465c2cdf87a1da7cd6dbb8c71192.jpg" group-title="Películas  2022 ▶️",Dos Contra El Hielo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdona nuestras ofensas (2022)" tvg-logo="http://streamgo.vip:8008/images/bbc2ffee8ee02b26f475334c09f71c9a.jpg" group-title="Películas  2022 ▶️",Perdona nuestras ofensas (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Persecución mortal (2022)" tvg-logo="http://streamgo.vip:8008/images/6c0775d6fd710e0fcc8f03cadecd1b9f.jpg" group-title="Películas  2022 ▶️",Persecución mortal (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swim Instructor Nightmare (2022)" tvg-logo="http://streamgo.vip:8008/images/d0268c6fd50c75c2450b62b92c206da6.jpg" group-title="Películas  2022 ▶️",Swim Instructor Nightmare (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Petra de San José (2022)" tvg-logo="http://streamgo.vip:8008/images/bb5325a2d1ab630ca00d65a2db4a8aef.jpg" group-title="Películas  2022 ▶️",Petra de San José (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho (2022)" tvg-logo="http://streamgo.vip:8008/images/308f63a8b052ff5f7d750a511ef153fb.jpg" group-title="Películas  2022 ▶️",Pinocho (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas: El último tesoro de la corona (2022)" tvg-logo="http://streamgo.vip:8008/images/0d0a1e223eab162416cadf1cf33739ab.jpg" group-title="Películas  2022 ▶️",Piratas: El último tesoro de la corona (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pita por Jesús.Salva tu alma. (2022)" tvg-logo="http://streamgo.vip:8008/images/ed21f820bf4134d575d31e4aadfd6d9f.jpg" group-title="Películas  2022 ▶️",Pita por Jesús.Salva tu alma. (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon Las crónicas de Arceus (2022) 720p (M)" tvg-logo="http://streamgo.vip:8008/images/ed21f820bf4134d575d31e4aadfd6d9f.jpg" group-title="Películas  2022 ▶️",Pokémon Las crónicas de Arceus (2022) 720p (M)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presencias (2022)" tvg-logo="http://streamgo.vip:8008/images/13fb30d3fa05ec72a1b69f67b69fb9b0.jpg" group-title="Películas  2022 ▶️",Presencias (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pride Jewel (2022)" tvg-logo="http://streamgo.vip:8008/images/dbe2c40b7bdb7b19fbaacbc2aa879340.jpg" group-title="Películas  2022 ▶️",Pride Jewel (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primer Amor (2022)" tvg-logo="http://streamgo.vip:8008/images/177fdf777fc4116c0afcb737fe420449.jpg" group-title="Películas  2022 ▶️",Primer Amor (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Gemini (2022)" tvg-logo="http://streamgo.vip:8008/images/97e5bffe8fe77e08e02c0ba0d9f23356.jpg" group-title="Películas  2022 ▶️",Proyecto Gemini (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una noche movidita (2022)" tvg-logo="http://streamgo.vip:8008/images/f77bbe353f6752e0cecd1b5503f5b8ee.jpg" group-title="Películas  2022 ▶️",Una noche movidita (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bis wir tot sind oder frei (2022)" tvg-logo="http://streamgo.vip:8008/images/1e432553c0365eaf6fe1fca51ddb7ae6.jpg" group-title="Películas  2022 ▶️",Bis wir tot sind oder frei (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que tengas un buen viaje (2022)" tvg-logo="http://streamgo.vip:8008/images/16951c36fcedb8b8f0a9a250c3f0ed4f.jpg" group-title="Películas  2022 ▶️",Que tengas un buen viaje (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que tengas un buen viaje (2022)" tvg-logo="http://streamgo.vip:8008/images/16951c36fcedb8b8f0a9a250c3f0ed4f.jpg" group-title="Películas  2022 ▶️",Que tengas un buen viaje (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiero que vuelvas (2022)" tvg-logo="http://streamgo.vip:8008/images/b3f4cd5af1945b0e17b39e06abea3e6e.jpg" group-title="Películas  2022 ▶️",Quiero que vuelvas (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan, la película (2022)" tvg-logo="http://streamgo.vip:8008/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="Películas  2022 ▶️",Ray Donovan, la película (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan, la película (2022)" tvg-logo="http://streamgo.vip:8008/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="Películas  2022 ▶️",Ray Donovan, la película (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="http://streamgo.vip:8008/images/a83d0a8c48eccd5283b892c1f5bc2315.jpg" group-title="Películas  2022 ▶️",Raymond & Ray (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="http://streamgo.vip:8008/images/e977a3a28f46e271c790a594c45d2eeb.jpg" group-title="Películas  2022 ▶️",Red (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="http://streamgo.vip:8008/images/e977a3a28f46e271c790a594c45d2eeb.jpg" group-title="Películas  2022 ▶️",Red (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Redentor (2022)" tvg-logo="http://streamgo.vip:8008/images/4cd6892f0a1ba5a445ff7252851c3c32.jpg" group-title="Películas  2022 ▶️",Amor Redentor (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reed's Point (2022)" tvg-logo="http://streamgo.vip:8008/images/fa153af0ea46137dd199d32486491294.jpg" group-title="Películas  2022 ▶️",Reed's Point (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al espacio (2022)" tvg-logo="http://streamgo.vip:8008/images/e8cae9d9167e869cc1ba9802b2c48760.jpg" group-title="Películas  2022 ▶️",Regreso al espacio (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reign of Chaos (2022)" tvg-logo="http://streamgo.vip:8008/images/88f8cfcc6c5988b624daf9cf474f3174.jpg" group-title="Películas  2022 ▶️",Reign of Chaos (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Respect the Jux (2022)" tvg-logo="http://streamgo.vip:8008/images/4ea7acc3109ee5a444331eddb7442eba.jpg" group-title="Películas  2022 ▶️",Respect the Jux (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revancha ya (2022)" tvg-logo="http://streamgo.vip:8008/images/9d7f4109c241909c3280832e3b3d27b8.jpg" group-title="Películas  2022 ▶️",Revancha ya (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rise (2022)" tvg-logo="http://streamgo.vip:8008/images/079f2afcace29c5050491b57561e24f5.jpg" group-title="Películas  2022 ▶️",Rise (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RRR (2022)" tvg-logo="http://streamgo.vip:8008/images/b227d7ad904bb7f2b5892dc79856b543.jpg" group-title="Películas  2022 ▶️",RRR (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RRR (2022)" tvg-logo="http://streamgo.vip:8008/images/b227d7ad904bb7f2b5892dc79856b543.jpg" group-title="Películas  2022 ▶️",RRR (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumspringa (2022)" tvg-logo="http://streamgo.vip:8008/images/52e689bf7cec733e3596beb065ea23f5.jpg" group-title="Películas  2022 ▶️",Rumspringa (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S. Mamis: La película (2022)" tvg-logo="http://streamgo.vip:8008/images/cd09de9d26cf729337b5adfe7aec0f99.jpg" group-title="Películas  2022 ▶️",S.O.S. Mamis: La película (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Némesis (2022)" tvg-logo="http://streamgo.vip:8008/images/e83fe6509ae0487c764a3017369cfb1f.jpg" group-title="Películas  2022 ▶️",Némesis (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 5 (2022)" tvg-logo="http://streamgo.vip:8008/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title="Películas  2022 ▶️",Scream 5 (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un jazzista en clave de blues (2022)" tvg-logo="http://streamgo.vip:8008/images/a92973b23997220760ec9ebf9aa492ea.jpg" group-title="Películas  2022 ▶️",Un jazzista en clave de blues (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena Gomez: Mi Mente y Yo (2022)" tvg-logo="http://streamgo.vip:8008/images/6d819211f62aada12fd2ac07309c158c.jpg" group-title="Películas  2022 ▶️",Selena Gomez: Mi Mente y Yo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seminario del mal (2022)" tvg-logo="http://streamgo.vip:8008/images/4a91dc316a4936bcb70fdec3b8677ff4.jpg" group-title="Películas  2022 ▶️",Seminario del mal (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexo, Pudor y Lágrimas 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/eecaf1fd94f9ea5501a15d1f485a62d3.jpg" group-title="Películas  2022 ▶️",Sexo, Pudor y Lágrimas 2 (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seúl Efervescente (2022)" tvg-logo="http://streamgo.vip:8008/images/54fc3dde8f3b87a0001880f982e7c333.jpg" group-title="Películas  2022 ▶️",Seúl Efervescente (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pánico a la deriva (2022)" tvg-logo="http://streamgo.vip:8008/images/08019ceb7e69f8077af1e9726dc417b1.jpg" group-title="Películas  2022 ▶️",Pánico a la deriva (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicosexual (2022)" tvg-logo="http://streamgo.vip:8008/images/2458885b9ef8ea7a7b0f22128d5628ff.jpg" group-title="Películas  2022 ▶️",Sicosexual (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siempre en el mejor momento (2022)" tvg-logo="http://streamgo.vip:8008/images/90c9eda9495fe08dd12801115e9a5a90.jpg" group-title="Películas  2022 ▶️",Siempre en el mejor momento (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Significant Other (2022)" tvg-logo="http://streamgo.vip:8008/images/d974fda0215910675a3f6afbe274b765.jpg" group-title="Películas  2022 ▶️",Significant Other (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin aliento (2022)" tvg-logo="http://streamgo.vip:8008/images/d4203ea2662741db82f520fa7f7c703a.jpg" group-title="Películas  2022 ▶️",Sin aliento (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Respiro (2022)" tvg-logo="http://streamgo.vip:8008/images/a04466926c5a741142aed7839af0b154.jpg" group-title="Películas  2022 ▶️",Sin Respiro (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin ti no puedo (2022)" tvg-logo="http://streamgo.vip:8008/images/c3fa04252a0d2af1696f632e8e663d70.jpg" group-title="Películas  2022 ▶️",Sin ti no puedo (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skandal!: La Caída de Wirecard (2022)" tvg-logo="http://streamgo.vip:8008/images/b4cae0f59db94660dc96220ae7dea69c.jpg" group-title="Películas  2022 ▶️",Skandal!: La Caída de Wirecard (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="http://streamgo.vip:8008/images/218661a317746576e170b0cc0a42d2e9.jpg" group-title="Películas  2022 ▶️",Smile (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonríe (2022)" tvg-logo="http://streamgo.vip:8008/images/22d35619d55e9f2d498aafd1005d2d98.jpg" group-title="Películas  2022 ▶️",Sonríe (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerella (2022)" tvg-logo="http://streamgo.vip:8008/images/c2f3d1199fadf238c865dcfa39be172d.jpg" group-title="Películas  2022 ▶️",Sneakerella (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedad de Honor (2022)" tvg-logo="http://streamgo.vip:8008/images/d90989c938a5a110dce92199038c24d5.jpg" group-title="Películas  2022 ▶️",Sociedad de Honor (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Río Muy Frío (2022)" tvg-logo="http://streamgo.vip:8008/images/d1eb6e27e26b97b2c0ec468cd949b5c1.jpg" group-title="Películas  2022 ▶️",Un Río Muy Frío (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="http://streamgo.vip:8008/images/d52225eee816e805e30100430a299cff.jpg" group-title="Películas  2022 ▶️",Sonic 2: La Película (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="South Park: Las guerras de Streaming (2022)" tvg-logo="http://streamgo.vip:8008/images/2ae89a82ea80219ed01b49961cc32bc6.jpg" group-title="Películas  2022 ▶️",South Park: Las guerras de Streaming (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La cabeza de la araña (2022)" tvg-logo="http://streamgo.vip:8008/images/d2c2067baf6f23516d853e8f9952b08a.jpg" group-title="Películas  2022 ▶️",La cabeza de la araña (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl en Hollywood (2022)" tvg-logo="http://streamgo.vip:8008/images/95d6bc9455ade557e870e20055f73c89.jpg" group-title="Películas  2022 ▶️",Stargirl en Hollywood (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sundown (2022)" tvg-logo="http://streamgo.vip:8008/images/490a9479e3b1bc38e446dcfa93f173c3.jpg" group-title="Películas  2022 ▶️",Sundown (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Susurro (2022)" tvg-logo="http://streamgo.vip:8008/images/b79521e989848712a86566d20619cc64.jpg" group-title="Películas  2022 ▶️",Susurro (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un maridaje perfecto (2022)" tvg-logo="http://streamgo.vip:8008/images/7e9692b2502448d99ef72778eb3e304a.jpg" group-title="Películas  2022 ▶️",Un maridaje perfecto (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarsilinha (2022)" tvg-logo="http://streamgo.vip:8008/images/7f9cbb17a39564587e990211da13849f.jpg" group-title="Películas  2022 ▶️",Tarsilinha (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/c4b73f78b150471c33a729066716f84a.jpg" group-title="Películas  2022 ▶️",Terrifier 2 (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That's Amor (2022)" tvg-logo="http://streamgo.vip:8008/images/2907c43fb83fb1e97479294709c6ba6d.jpg" group-title="Películas  2022 ▶️",That's Amor (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Maid Marian (2022)" tvg-logo="http://streamgo.vip:8008/images/cee43a270a5dc80e08a635a19813286a.jpg" group-title="Películas  2022 ▶️",The Adventures of Maid Marian (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="http://streamgo.vip:8008/images/8e9331d7a59febe81594f25526296763.jpg" group-title="Películas  2022 ▶️",Batman (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi gran pequeña granja: El regreso (2022)" tvg-logo="http://streamgo.vip:8008/images/066bd9ff25ccfe6794966d6d47d7a742.jpg" group-title="Películas  2022 ▶️",Mi gran pequeña granja: El regreso (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La burbuja (2022)" tvg-logo="http://streamgo.vip:8008/images/cada9d333a94906dc15eadf29a5e8df9.jpg" group-title="Películas  2022 ▶️",La burbuja (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del bunker (2022)" tvg-logo="http://streamgo.vip:8008/images/dcc4b54faac8e688f25d98bbb41c97bc.jpg" group-title="Películas  2022 ▶️",El juego del bunker (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escalera al infierno (2022)" tvg-logo="http://streamgo.vip:8008/images/4267f96975293eda5d905d907995e702.jpg" group-title="Películas  2022 ▶️",Escalera al infierno (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado de élite (2022)" tvg-logo="http://streamgo.vip:8008/images/2ff3f3691ac37ae7ddc62ccc0fe75436.jpg" group-title="Películas  2022 ▶️",Soldado de élite (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hijo del demonio (2022)" tvg-logo="http://streamgo.vip:8008/images/49c143b2cc4902ac82b948b46d3a8691.jpg" group-title="Películas  2022 ▶️",El hijo del demonio (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fallout: La vida después (2022)" tvg-logo="http://streamgo.vip:8008/images/ce3935b3fb2fd7ebabfdd2aa9d2e4235.jpg" group-title="Películas  2022 ▶️",The Fallout: La vida después (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunting (2022)" tvg-logo="http://streamgo.vip:8008/images/519f19cd5b169ca7dc4fc084e81ce54f.jpg" group-title="Películas  2022 ▶️",The Hunting (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="http://streamgo.vip:8008/images/86765e5c339135dd7b3dde937bbfb052.jpg" group-title="Películas  2022 ▶️",The Huntress of Auschwitz (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Máquina infernal (2022)" tvg-logo="http://streamgo.vip:8008/images/0c83ee419fc1173da840d42e934541f6.jpg" group-title="Películas  2022 ▶️",La Máquina infernal (2022)
+http://streamgo.vip:8008/movie/etelio0416/enVGNgzc3WTD/173712.mp4
