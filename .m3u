@@ -3562,7 +3562,7 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5doeW
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7trdMcxg6LfekKF7sbiKT4/ts
 #EXTINF:-1 xui-id="1902" tvg-id="" tvg-name="24/7 SERIES INFANTILES (Dual Audio) | JOHNNY TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Johnny_Test_Title_Logo.png" group-title="24/7 INFANTILES ☣️",24/7💢 JOHNNY TEST
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x58f9GBBzCmR0sZw-3jtWE8/ts
-#EXTINF:-1 xui-id="1903" tvg-id="" tvg-name="24/7 SERIES INFANTILES (Dual Audio) | LA CASA DE MICKEY MOUSE" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/08/10/11/590012.jpg" group-title="24/7 INFANTILES ☣️",24/7💢 LA CASA DE MICKEY MOUSE
+#EXTINF:-1 xui-id="1903" tvg-id="" tvg-name="24/7 SERIES INFANTILES (Dual Audio) | LA CASA DE MICKEY MOUSE" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/08/10/11/590012.jpg" group-title="24/7 INFANTILES ☣️",24/7?? LA CASA DE MICKEY MOUSE
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7lVbQo2Xi_Qe9GiCV8Rt8g/ts
 #EXTINF:-1 xui-id="1904" tvg-id="" tvg-name="24/7 SERIES INFANTILES (Dual Audio) | LA PRINCESA SOFIA" tvg-logo="https://i.pinimg.com/originals/62/9f/9d/629f9d3a223489e76f710248ac0a826f.jpg" group-title="24/7 INFANTILES ☣️",24/7💢 LA PRINCESA SOFIA
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6HAv1-jZoHoImuoBSuyziD/ts
@@ -5198,6 +5198,53 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7Tdc9
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6zzI4gKMh2KBjCoxuTaoW5/ts
 #EXTINF:-1 xui-id="1587" tvg-id="" tvg-name="ESPAÑA SD | NICKELEODEON" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="ESPAÑA ☣️",ESP💢 NICKELEODEON
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x55jCjoCbW19TQcKr4fFkKU/ts
+#EXTINF:-1 xui-id="111364" tvg-id="" tvg-name="LAT | ESPN 1 SD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 1 SD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7R1xGeQmGYcpoVoBrar7aa/ts
+#EXTINF:-1 xui-id="111365" tvg-id="" tvg-name="LAT | ESPN 2 HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 2 HD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5Yy-m_UzQIYfO8M_9ezqyN/ts
+#EXTINF:-1 xui-id="111366" tvg-id="" tvg-name="LAT | ESPN 3 HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 3 HD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4kRmB9sqEJNmz5bhn7cm_f/ts
+#EXTINF:-1 xui-id="111367" tvg-id="" tvg-name="LAT | ESPN 1 HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 1 HD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6LpwaYSwAZcn28RqPrdaI4/ts
+#EXTINF:-1 xui-id="111368" tvg-id="" tvg-name="LAT | ESPN 1 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 1 FHD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5V4tMlMyYjIjHtvgnen2tn/ts
+#EXTINF:-1 xui-id="111369" tvg-id="" tvg-name="LAT | ESPN 3 SD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 3 SD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5oGEkmVtBmBoEDj1wrkrjH/ts
+#EXTINF:-1 xui-id="111370" tvg-id="" tvg-name="LAT | ESPN 3 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 3 FHD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7AF989PEsSocqvuAhoDGFH/ts
+#EXTINF:-1 xui-id="111371" tvg-id="" tvg-name="LAT | ESPN 2 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 2 FHD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x55iBcXhlZNzIwMJUSJm7mG/ts
+#EXTINF:-1 xui-id="111372" tvg-id="" tvg-name="LAT | ESPN 4 HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 4 HD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x71F8JsE1Sp7SZuVq7SkmcG/ts
+#EXTINF:-1 xui-id="111373" tvg-id="" tvg-name="LAT | ESPN 4 SD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 4 SD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5AJ-XGUGG9BL8QKApcmoNX/ts
+#EXTINF:-1 xui-id="111374" tvg-id="" tvg-name="LAT | ESPN 4 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="⚽CHAMPIONS LEAGUE ☣️",LAT | ESPN 4 FHD*
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7KINTwWoui5EaU-qEBuX55/ts
+#EXTINF:-1 xui-id="111375" tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="http://daleplay.club:8080/images/285c71664155fd235b744cdc5c20152c.jpg" group-title="⚽CHAMPIONS LEAGUE ☣️",ESPN EXTRA FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x42yIAMGq5KbboMYlU4r2b4/ts
+#EXTINF:-1 xui-id="111376" tvg-id="" tvg-name="Fox Sport 1 HD" tvg-logo="http://daleplay.club:8080/images/84f21a5b39c5cd133c86fac43eec7248.png" group-title="⚽CHAMPIONS LEAGUE ☣️",Fox Sport 1 HD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5pf37bY6qUnEIyTJB3ZM04/ts
+#EXTINF:-1 xui-id="111377" tvg-id="" tvg-name="Fox Sport 2 FHD" tvg-logo="http://daleplay.club:8080/images/6ffb4ee0d2146e7976621889c77dd8f8.png" group-title="⚽CHAMPIONS LEAGUE ☣️",Fox Sport 2 FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5ght4Q52vcYibCdEHGuacF/ts
+#EXTINF:-1 xui-id="111378" tvg-id="" tvg-name="Fox Sport 3 FHD" tvg-logo="http://daleplay.club:8080/images/2305f1ef9ea80d568f70ff2c0971c53d.png" group-title="⚽CHAMPIONS LEAGUE ☣️",Fox Sport 3 FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x57MNOFXvripaG_AEIq4Wax/ts
+#EXTINF:-1 xui-id="111379" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4Furvv5ISZHrNupNvSB30Q/ts
+#EXTINF:-1 xui-id="111380" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES HD" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES HD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6WAUZFY0fYjUlvipL8ADWw/ts
+#EXTINF:-1 xui-id="111381" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES FHD" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4dsmDDUv8mRQ9HlpayoTQ3/ts
+#EXTINF:-1 xui-id="111382" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES HD OP B" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES HD OP B
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4TDJREBLbinTJMO5q4fB83/ts
+#EXTINF:-1 xui-id="111383" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES FHD OP B" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES FHD OP B
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6yK-vfcBM0RRWl9fOcF3eT/ts
+#EXTINF:-1 xui-id="111384" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES 2 FHD" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES 2 FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6NHvDcHmd3qgVL4s5qr7mn/ts
+#EXTINF:-1 xui-id="111385" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES 2 SD" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES 2 SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5FlsraXmpfU2U-Eyb1pPtk/ts
+#EXTINF:-1 xui-id="111386" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES 2 FHD" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES 2 FHD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6MtT14mjt-dmYAhUpkGsU3/ts
+#EXTINF:-1 xui-id="111387" tvg-id="" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="⚽CHAMPIONS LEAGUE ☣️",ES | M+LIGA DE CAMPEONES 3
 #EXTINF:-1 xui-id="110617" tvg-id="" tvg-name="D-ESP | MOVISTAR DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="⚽LA LIGA ESPAÑOLA☣️",ES💢 MOVISTAR DEPORTES
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x75LxoYnyUNtz6CnekKEDC0/ts
 #EXTINF:-1 xui-id="111155" tvg-id="" tvg-name="MOVISTAR  LA LIGA" tvg-logo="http://daleplay.club:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="⚽LA LIGA ESPAÑOLA☣️",ES💢MOVISTAR  LA LIGA
