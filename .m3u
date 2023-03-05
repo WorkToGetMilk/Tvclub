@@ -488,6 +488,12 @@ http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/135525
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/135526
 #EXTINF:-1 tvg-id="" tvg-name="Avivame TV | US" tvg-logo="http://127.0.0.1/" group-title="Tv Religiosos ⭐",Avivame TV | US
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/135527
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="COL| WIN SPORTS + HD" tvg-logo="http://teamnextlevel.xyz:25461/images/cae999b936ec28c6da0d8aa77d347c9d.png" group-title="Deporte Colombia ⚽",COL| WIN SPORTS + HD
+http://go-nextlevel.xyz:25461/Valentin/Valentin/201909
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="COL| WIN SPORTS PLUS FHD**" tvg-logo="http://teamnextlevel.xyz:25461/images/cae999b936ec28c6da0d8aa77d347c9d.png" group-title="Deporte Colombia ⚽",COL| WIN SPORTS PLUS FHD
+http://go-nextlevel.xyz:25461/Valentin/Valentin/201910
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)" tvg-logo="http://teamnextlevel.xyz:25461/images/cae999b936ec28c6da0d8aa77d347c9d.png" group-title="Deporte Colombia ⚽",COL| WIN SPORTS PLUS FHD (EXCLUSIVO)
+http://go-nextlevel.xyz:25461/Valentin/Valentin/201911
 #EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS HD" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="Deporte Colombia ⚽",LAT | WIN SPORTS HD
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/149896
 #EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS + SD" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="Deporte Colombia ⚽",LAT | WIN SPORTS + SD
