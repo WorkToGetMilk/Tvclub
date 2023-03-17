@@ -876,6 +876,100 @@ http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/277010
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/277011
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/e9296075bbdb5f28bfad4fc64f22b0b2.png" group-title="🎦TV-CLUB 24/7🎦",CINEMA INFANTIL 
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/277012
+#EXTINF:-1 xui-id="168978" tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://daleplay.club:8080/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="CH- EVENTOS MLB ( SOLO EVENTOS)",MLB NETWORK
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdmhFVuvj8F8zN9nnXUVsOdFXnZZ1MMcf7N1wyG_e6c_/ts
+#EXTINF:-1 xui-id="168979" tvg-id="" tvg-name="MLB Network" tvg-logo="http://daleplay.club:8080/images/adb500c04c09ac7e1ad69737bb540934.png" group-title="CH- EVENTOS MLB ( SOLO EVENTOS)",MLB Network
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdmhFVuvj8F8zN9nnXUVsOfmmCoTwgxtYFV4nExcmx1A/ts
+#EXTINF:-1 xui-id="169122" tvg-id="" tvg-name="MOVISTAR F1 HD" tvg-logo="http://daleplay.club:8080/images/e725fbfec07bf421d8d82dc3849d0200.png" group-title="CH- FORMULA 1",MOVISTAR F1 HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdRXLeflDOpUx93fCWCnojwzyzkEfLMIweTf1QZEq8L5/ts
+#EXTINF:-1 xui-id="169123" tvg-id="" tvg-name="ES | DAZN F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="CH- FORMULA 1",ES | DAZN F1 HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdRXLeflDOpUx93fCWCnojxtyU6_bcMm8t-a4mqvjibV/ts
+#EXTINF:-1 xui-id="169124" tvg-id="" tvg-name="DAZN MOVISTAR F1 HD" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="CH- FORMULA 1",DAZN MOVISTAR F1 HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdRXLeflDOpUx93fCWCnojzBz600jCdPlHwhdgRU7_vY/ts
+#EXTINF:-1 xui-id="174599" tvg-id="" tvg-name="MOVISTAR F1 HD" tvg-logo="http://daleplay.club:8080/images/e725fbfec07bf421d8d82dc3849d0200.png" group-title="CH- FORMULA 1",MOVISTAR F1 HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRw5Yi2iPcrRBOHtAhswXJB6CDYnEnmXjdNoVqn1hu84/ts
+#EXTINF:-1 xui-id="174600" tvg-id="" tvg-name="MOVISTAR F1 FHD" tvg-logo="http://127.0.0.1/" group-title="CH- FORMULA 1",MOVISTAR F1 FHD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTcF-Y6D_HQfJxVdLdEuFZzW3ZFKhIFyhMkdUJ8VRQas/ts
+#EXTINF:-1 xui-id="174601" tvg-id="" tvg-name="UK | Sky Sports F1 FHD" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMDNIPPABUPTCqUsxN029IPSII5OTzyYGIqmAQJa6IKF.png" group-title="CH- FORMULA 1",UK | Sky Sports F1 FHD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTcF-Y6D_HQfJxVdLdEuFZxVr_qNYIEYnQiCtCYuPU1D/ts
+#EXTINF:-1 xui-id="174603" tvg-id="" tvg-name="DAZN MOVISTAR  F1" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMDNIPPABUPTCqUsxN029IPSII5OTzyYGIqmAQJa6IKF.png" group-title="CH- FORMULA 1",DAZN MOVISTAR  F1
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTcF-Y6D_HQfJxVdLdEuFZzL8bCEJEbDDr83nwQ323ld/ts
+#EXTINF:-1 xui-id="174604" tvg-id="" tvg-name="DAZN MOVISTAR F1 4k" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="CH- FORMULA 1",DAZN MOVISTAR F1 4k
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTcF-Y6D_HQfJxVdLdEuFZyOEsHU7uAPHuwBjOIlZAh8/ts
+#EXTINF:-1 xui-id="174606" tvg-id="" tvg-name="DAZN MOVISTAR F1 4K" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="CH- FORMULA 1",DAZN MOVISTAR F1 4K
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTcF-Y6D_HQfJxVdLdEuFZzTeQJvgpPY_ZShqTHZR1RR/ts
+#EXTINF:-1 xui-id="178114" tvg-id="" tvg-name="HD ES | DAZN FORMULA 1 F1" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMDNIPPABUPTCqUsxN029IPSII5OTzyYGIqmAQJa6IKF.png" group-title="CH- FORMULA 1",HD ES | DAZN FORMULA 1 F1
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTPllwNq9xXVU1C95fSbiBYdCj5XipaSG8j2CEro8oEP/ts
+#EXTINF:-1 xui-id="178115" tvg-id="" tvg-name="FORMULA1 F1" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMDNIPPABUPTCqUsxN029IPSII5OTzyYGIqmAQJa6IKF.png" group-title="CH- FORMULA 1",FORMULA1 F1
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTPllwNq9xXVU1C95fSbiBbUflkte-hBGTynSNDAOCUE/ts
+#EXTINF:-1 xui-id="178117" tvg-id="" tvg-name="DAZN FORMULA1 F1" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMDNIPPABUPTCqUsxN029IPSII5OTzyYGIqmAQJa6IKF.png" group-title="CH- FORMULA 1",DAZN FORMULA1 F1
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTPllwNq9xXVU1C95fSbiBaPbbwIYZPSTAFH9jlmnrLZ/ts
+#EXTINF:-1 xui-id="169034" tvg-id="" tvg-name="USA: NFL NETWORK" tvg-logo="http://daleplaypro.com:8080/images/6e60cf89e27d9f42a96128ababb32cb6.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",USA: NFL NETWORK
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLFz8ozbpBQVIuqz1yjLtJN0/ts
+#EXTINF:-1 xui-id="169035" tvg-id="" tvg-name="US: NFL REDZONE" tvg-logo="http://daleplaypro.com:8080/images/a05a49fdf349e8ecf9c28fc53102a5f0.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL REDZONE
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLFlpKuCExD5L9-LRwgw-1HL/ts
+#EXTINF:-1 xui-id="169036" tvg-id="" tvg-name="US: NFL Network FHD" tvg-logo="http://latam.deepwebtv.com:8080/images/ed1cdb68e80d947bad93050af913c66a.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL Network FHD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLH2GXXguhnURpwSlKz2XcwZ/ts
+#EXTINF:-1 xui-id="169037" tvg-id="" tvg-name="US: NFL 00: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 00: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLHN2o9T-vgEgu4f4Dsc8ofP/ts
+#EXTINF:-1 xui-id="169038" tvg-id="" tvg-name="US: NFL 01: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 01: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLHmdyHY9Yu0YQWrMGbBkREs/ts
+#EXTINF:-1 xui-id="169039" tvg-id="" tvg-name="US: NFL 02: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 02: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVq_DeTAuM8nCe72_QWbyLFk7Ih6nkYLmSIoQ0uBgbWk/ts
+#EXTINF:-1 xui-id="169040" tvg-id="" tvg-name="US: NFL 03: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 03: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ8wihO4YBOXctGI6aciuSBV/ts
+#EXTINF:-1 xui-id="169041" tvg-id="" tvg-name="US: NFL 04: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 04: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ_dynIPL9ohrs2RLhCOenwk/ts
+#EXTINF:-1 xui-id="169042" tvg-id="" tvg-name="US: NFL 05: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 05: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ98IHNtfOS7QzqrNWYS-CWR/ts
+#EXTINF:-1 xui-id="169043" tvg-id="" tvg-name="US: NFL 06: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 06: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ_mY0KtyyL976GtyBUXuWuB/ts
+#EXTINF:-1 xui-id="169044" tvg-id="" tvg-name="US: NFL 07: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 07: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ83IUFKaBNEfH5282Bvvyif/ts
+#EXTINF:-1 xui-id="169045" tvg-id="" tvg-name="US: NFL 08: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 08: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ9XRbT9fT_WXRJuY1Z2xcnI/ts
+#EXTINF:-1 xui-id="169046" tvg-id="" tvg-name="US: NFL 09: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 09: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ8bH4PmIXOjhJEFEtY2fUq5/ts
+#EXTINF:-1 xui-id="169047" tvg-id="" tvg-name="US: NFL 10: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 10: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ-CudU8wCZxHozuOeNicb4G/ts
+#EXTINF:-1 xui-id="169048" tvg-id="" tvg-name="US: NFL 11: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 11: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ8VEK9ZRARg-vbczxvm1S4s/ts
+#EXTINF:-1 xui-id="169049" tvg-id="" tvg-name="US: NFL 12: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 12: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZUE_E0F05xm9EfU-A_EAZ9PwcZ8oDCyM0hnJPnLeHJy/ts
+#EXTINF:-1 xui-id="169050" tvg-id="" tvg-name="US: NFL 13: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 13: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZvITRKuIq2KfT1T6f3jQM9F/ts
+#EXTINF:-1 xui-id="169051" tvg-id="" tvg-name="US: NFL 14: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 14: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZs5sp_SDy1AMLnGISBj0dgN/ts
+#EXTINF:-1 xui-id="169052" tvg-id="" tvg-name="US: NFL 15: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 15: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZsnOLBc0XxRzHN5F-TFAIh7/ts
+#EXTINF:-1 xui-id="169053" tvg-id="" tvg-name="US: NFL 16: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 16: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZsyn9XHhqaPjEaskQHZsHBY/ts
+#EXTINF:-1 xui-id="169054" tvg-id="" tvg-name="US: NFL 17: Game Only" tvg-logo="http://daleplaypro.com:8080/images/eb81fd458513b1a46071f139e8bf09df.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL 17: Game Only
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZt6fVz2OX5il-TSxtbPQNKH/ts
+#EXTINF:-1 xui-id="169055" tvg-id="" tvg-name="US: NFL Draftkings 24/7 HD" tvg-logo="http://daleplaypro.com:8080/images/5ee72623145b8f87f4f1973c2ca2af40.png" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",US: NFL Draftkings 24/7 HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZuVnnHAfqaCVY-sijQ_zC4N/ts
+#EXTINF:-1 xui-id="169056" tvg-id="" tvg-name="CANADA | NFL Network HD" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",CANADA | NFL Network HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZuMQXcyaasMs0e7f48LyqTr/ts
+#EXTINF:-1 xui-id="169057" tvg-id="" tvg-name="USA | NFL Network HD" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",USA | NFL Network HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZvjusAogfHgPDwmZvCoeDLC/ts
+#EXTINF:-1 xui-id="169058" tvg-id="" tvg-name="USA | NFL Redzone HD" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",USA | NFL Redzone HD
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZvLWyLCqxj3HrX-ZHy83Svr/ts
+#EXTINF:-1 xui-id="169059" tvg-id="" tvg-name="NFL Channel" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",NFL Channel
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzdIXJAhoHW7T-50G_h_7lZsgtJRQWszxIeU22KJOX284/ts
+#EXTINF:-1 xui-id="169060" tvg-id="" tvg-name="NFL Network" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",NFL Network
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzGNXOrhb_6eMOHcT1Bs1-A6/ts
+#EXTINF:-1 xui-id="169061" tvg-id="" tvg-name="USA: NFL NETWORK-ALT" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",USA: NFL NETWORK-ALT
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzEIwoWcNo8HGTqsc4Ex1WBR/ts
+#EXTINF:-1 xui-id="169062" tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://127.0.0.1/" group-title="CH-EVENTOS NFL (SOLO EVENTOS)",NFL REDZONE
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzFAqzUzEK1JrLW1016mAnaG/ts
+#EXTINF:-1 xui-id="169063" tvg-id="" tvg-name="USA | UFC FIGHT PASS." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="PPV UFC BOXING (SOLO EVENTOS)",USA | UFC FIGHT PASS.
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzFQrsBIMlvZWEDmcDayVWZE/ts
+#EXTINF:-1 xui-id="169064" tvg-id="" tvg-name="USA | UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhwVSuh6enCGZfKpQAQasmKmG0Fl8bt29WQ&usqp=CAU" group-title="PPV UFC BOXING (SOLO EVENTOS)",USA | UFC
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzHpp3L0HbmRP9fWOJoTE3i7/ts
+#EXTINF:-1 xui-id="169065" tvg-id="" tvg-name="WWE NETWORK" tvg-logo="http://127.0.0.1/" group-title="PPV UFC BOXING (SOLO EVENTOS)",WWE NETWORK
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzH2YnxVz8A4hcqSW5o2t3sJ/ts
+#EXTINF:-1 xui-id="169066" tvg-id="" tvg-name="USA: UFC FIGHT PASS" tvg-logo="http://latinoamericatv.vip:3334/images/7986a52513cb9d926497aa6a96700f3d.png" group-title="PPV UFC BOXING (SOLO EVENTOS)",USA: UFC FIGHT PASS
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb5Che-jqdS73ZRjr2N1zzF0AQ2x3orjc4pQ4OG70liQ/ts
 #EXTINF:-1 xui-id="177517" tvg-id="" tvg-name="HD | A&E" tvg-logo="http://51.81.83.189:80/images/z_hDjAnw98TyytvGkDE54EoSnYgqQTyTcUoVio1B-2ZUYFQ3aAhyMl_ST_El3I6Y.png" group-title="CH- PREMIUM LATINO",HD | A&E
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcEj5uF3a1NeadXEo0c6_0W7ekg7ALYwdAQq8U7Du5Az/ts
 #EXTINF:-1 xui-id="177518" tvg-id="" tvg-name="HD | AMC" tvg-logo="http://51.81.83.189:80/images/z_hDjAnw98TyytvGkDE54FO-H8iZGGXDjhXDXhqc2H0UTAu_3hAaBF_GI4etm0A8.png" group-title="CH- PREMIUM LATINO",HD | AMC
@@ -994,11 +1088,11 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BfVxaz
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BfDHHUOqUskOtcjBzRHxGOH/ts
 #EXTINF:-1 xui-id="174745" tvg-id="TUDNC" tvg-name="⚽️TUDN EVENTOS⚽️" tvg-logo="http://odenfull.co:2086/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="⭐EVENTOS DIARIOS⭐",⚽️TUDN EVENTOS⚽️
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_Bc-gcO8du6AeHn9fEhmLeyo/ts
-#EXTINF:-1 xui-id="174747" tvg-id="" tvg-name="⚽️LA LIGA 2⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="⭐EVENTOS DIARIOS⭐",⚽️LA LIGA 2⚽️
+#EXTINF:-1 xui-id="174747" tvg-id="LALIGA2" tvg-name="⚽️LA LIGA 2⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="⭐EVENTOS DIARIOS⭐",⚽️LA LIGA 2⚽️
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BfJmPMDlMkVR03g5QtT2qt8/ts
 #EXTINF:-1 xui-id="174748" tvg-id="UNVSO" tvg-name="⚽️UNIVERSO⚽️" tvg-logo="http://odenfull.co:2086/images/10b1dd9bf2d53e4a51d390887781657f.png" group-title="⭐EVENTOS DIARIOS⭐",⚽️UNIVERSO⚽️
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BdFF3MjNH1L48OqRWCgn4V-/ts
-#EXTINF:-1 xui-id="174749" tvg-id="K28HID" tvg-name="⚽️OUTSIDE TV⚽️" tvg-logo="http://fanc.tmsimg.com/assets/s68295_ll_h3_aa.png" group-title="⭐EVENTOS DIARIOS⭐",⚽️OUTSIDE TV⚽️
+#EXTINF:-1 xui-id="174749" tvg-id="XAZOTV" tvg-name="⚽️OUTSIDE TV⚽️" tvg-logo="http://fanc.tmsimg.com/assets/s68295_ll_h3_aa.png" group-title="⭐EVENTOS DIARIOS⭐",⚽️OUTSIDE TV⚽️
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BdqE_r5WhdUErMktdDtikTL/ts
 #EXTINF:-1 xui-id="174750" tvg-id="MOLIGA" tvg-name="⚽️MOVISTAR  LA LIGA⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="⭐EVENTOS DIARIOS⭐",⚽️MOVISTAR  LA LIGA⚽️
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXf4Dzn6Scl6j8moe0Z1-cuE/ts
@@ -1008,7 +1102,7 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXeGx1W
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXfh0uQzJ-Ja6y95oykOPQeb/ts
 #EXTINF:-1 xui-id="174753" tvg-id="FS2AR" tvg-name="COPA LIBERTADORES⚽️ (SOLO EVENTOS)" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="⭐EVENTOS DIARIOS⭐",COPA LIBERTADORES⚽️ (SOLO EVENTOS)
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXe1IljThVRA5bijE6iWdr1F/ts
-#EXTINF:-1 xui-id="174754" tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="⭐EVENTOS DIARIOS⭐",DIRECTV SPORTS 2
+#EXTINF:-1 xui-id="174754" tvg-id="SPO218" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="⭐EVENTOS DIARIOS⭐",DIRECTV SPORTS 2
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXeXJnh67fRSm2F--2H1TLz6/ts
 #EXTINF:-1 xui-id="174755" tvg-id="SPOARHD" tvg-name="DIRECTV EVENTOS" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="⭐EVENTOS DIARIOS⭐",DIRECTV EVENTOS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXC3R-Uj1eFDMJAfoa1AtXdiXEF2eo02ECbawqN--Tdh/ts
@@ -1030,7 +1124,7 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVsnPhZa
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVsmN_PZ5Ks0C_HPHNblJf82s/ts
 #EXTINF:-1 xui-id="174746" tvg-id="" tvg-name="LIGA PROFESIONAL SAUDI" tvg-logo="http://odenfull.co:2086/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="⭐EVENTOS DIARIOS⭐",LIGA PROFESIONAL SAUDI
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzaYZn4FCV9YPnQR5HvRL_BcfPo4x-Pv5IA6apCgFSeHQ/ts
-#EXTINF:-1 xui-id="181145" tvg-id="" tvg-name="FIGHT SPORTS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b1ca64787f3a351f549ef6d9e974c24.webp" group-title="⭐EVENTOS DIARIOS⭐",FIGHT SPORTS
+#EXTINF:-1 xui-id="181145" tvg-id="FIGHTNO" tvg-name="FIGHT SPORTS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b1ca64787f3a351f549ef6d9e974c24.webp" group-title="⭐EVENTOS DIARIOS⭐",FIGHT SPORTS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzceqxNhPtEANzZy1FxZu3YyF7LrgY5lB0-Gt5zwpLjSz/ts
 #EXTINF:-1 xui-id="181146" tvg-id="" tvg-name="COMBATE GLOBAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRul1GE2mLdc74eXjRqyLZuiW3OcLMd5R_ssmu5CVs&s" group-title="⭐EVENTOS DIARIOS⭐",COMBATE GLOBAL
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzceqxNhPtEANzZy1FxZu3YwcP6MUbFGbmBc3QjDUykuS/ts
@@ -1284,8 +1378,6 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuza3PVvi_YZSAgJ0rbXfvFeInJXq
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzd2RoUOXF5Sts7hZB1W5u4ULFU_RnUEsDNNEXJPBm87V/ts
 #EXTINF:-1 xui-id="181415" tvg-id="" tvg-name="24/7 Cine Terror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA2gblqMeYKFSusb8LMOqszFpmTp93WmMnQ&usqp=CAU" group-title="CH | 24/7 CINE",24/7 Cine Terror
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTl0OrKi7oa_3GZbz9Vt9Pitxb4gMEHxCq1Ql7IVlS6m/ts
-#EXTINF:-1 xui-id="181416" tvg-id="" tvg-name="24/7 Cine Romance" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD1OWX3IbBJmg8Ok1UK1sau8qrXdYACclRw&usqp=CAU" group-title="CH | 24/7 CINE",24/7 Cine Romance
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTl0OrKi7oa_3GZbz9Vt9Pj4Ijb524mePwxd2meK1F29/ts
 #EXTINF:-1 xui-id="181417" tvg-id="" tvg-name="24/7 Peliculas Anime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4HIWYJc4_ZRzUF6djJmB9pMmMdHVhps2PQ&usqp=CAU" group-title="CH | 24/7 CINE",24/7 Peliculas Anime
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTl0OrKi7oa_3GZbz9Vt9PgKcE5Ja0BxC1jGbqFnLnLO/ts
 #EXTINF:-1 xui-id="181147" tvg-id="" tvg-name="24/7 El príncipe del rap en  Bel-Air" tvg-logo="https://i.pinimg.com/550x/8f/7d/e6/8f7de6d3c71fd904e869cc13eeb22f5c.jpg" group-title="CH | 24/7 SERIES",24/7 El príncipe del rap en  Bel-Air
@@ -1540,15 +1632,15 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcvpUjV2YSC8ZMy2zwF2P533An3
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcvpUjV2YSC8ZMy2zwF2P50nG2-u5QgMLgmAHSF_nTW0/ts
 #EXTINF:-1 xui-id="174210" tvg-id="" tvg-name="LOS 4 FANTASTICOS 1967" tvg-logo="http://odenfull.co:2086/images/3b2f3a493d32e9aca1df90ef35b587e7.jpg" group-title="CH | 24/7 ESPAÑOL",LOS 4 FANTASTICOS 1967
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3ftpFXYwwWJS6lrYfkBoS_z_79FC1bqicQDX2SyMY0/ts
-#EXTINF:-1 xui-id="174658" tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN EXTRA
+#EXTINF:-1 xui-id="174658" tvg-id="ESPNMLA" tvg-name="ESPN EXTRA" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN EXTRA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXRpqmSFC_t0rOx7KdHXN7a0B3b9PsE0Rv5O2G_5Vw0O/ts
 #EXTINF:-1 xui-id="174659" tvg-id="" tvg-name="ESPN COL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN COL HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXRpqmSFC_t0rOx7KdHXN7YYXV7Fql6CB1aXYuz9EM4g/ts
 #EXTINF:-1 xui-id="174660" tvg-id="" tvg-name="ESPN COL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN COL SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZUbb9DGXmnn46SniOxTZQrM/ts
-#EXTINF:-1 xui-id="174661" tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL HD
+#EXTINF:-1 xui-id="174661" tvg-id="ESPNBRS" tvg-name="ESPN BRASIL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZVZtZ4yq63T0Hd7KcTgc_Xx/ts
-#EXTINF:-1 xui-id="174662" tvg-id="" tvg-name="ESPN BRASIL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL SD
+#EXTINF:-1 xui-id="174662" tvg-id="ESPNBRS" tvg-name="ESPN BRASIL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZU8U932zalxVh5pX7uDZIvf/ts
 #EXTINF:-1 xui-id="174663" tvg-id="" tvg-name="ESPN ARG 1 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN ARG 1 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZX1ZW-rX8uBmFppu_TR9tSl/ts
@@ -1566,7 +1658,7 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZWtH9Y
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRLVM8EyrKPVSP2uLhwkhZXrFz5l6wmYyq_TqwwTuBdi/ts
 #EXTINF:-1 xui-id="174670" tvg-id="" tvg-name="ESPN COL 1 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN COL 1 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfmnA6lZhJL1ijeeeQQGFRsUAm5BXcBX5KkS3uMep9YZ/ts
-#EXTINF:-1 xui-id="174671" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN 2 HD
+#EXTINF:-1 xui-id="174671" tvg-id="ESPNMBR" tvg-name="ESPN 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN 2 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfmnA6lZhJL1ijeeeQQGFRsDHHfmS7zcRrw2X4xSOeI0/ts
 #EXTINF:-1 xui-id="174672" tvg-id="" tvg-name="ESPN PLUS SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN PLUS SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfmnA6lZhJL1ijeeeQQGFRvzM_br7RpTmf18XOdR0L2Z/ts
@@ -1586,9 +1678,9 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfmnA6lZhJL1ijeeeQQGFRvMTjU
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfmnA6lZhJL1ijeeeQQGFRtRHWSSr-5VR5mAZi3tyUbN/ts
 #EXTINF:-1 xui-id="174680" tvg-id="" tvg-name="ESPN COL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN COL SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsMtAwLmIXWeO3wq-AzgfVkJ/ts
-#EXTINF:-1 xui-id="174681" tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL HD
+#EXTINF:-1 xui-id="174681" tvg-id="ESPNBRS" tvg-name="ESPN BRASIL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsMCWNqZJBUyAcK0y8GZRA5t/ts
-#EXTINF:-1 xui-id="174682" tvg-id="" tvg-name="ESPN BRASIL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL SD
+#EXTINF:-1 xui-id="174682" tvg-id="ESPNBRS" tvg-name="ESPN BRASIL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN BRASIL SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsNghjvcuTVSIJlmNhJETOyi/ts
 #EXTINF:-1 xui-id="174683" tvg-id="" tvg-name="ESPN ARG 1 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN ARG 1 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsMjXCha5kqZZV5EmA3dXnmf/ts
@@ -1596,49 +1688,49 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsMjXCh
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsMrqOE3drpBT7XWkpasH84_/ts
 #EXTINF:-1 xui-id="174685" tvg-id="" tvg-name="ESPN MEX 3 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⚽DEPORTES PREMIUM⚽",ESPN MEX 3 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfISdonxSFTSToX6fD9ENsN6W-PiyCUfu2D4RaAjry1j/ts
-#EXTINF:-1 xui-id="174766" tvg-id="" tvg-name="LAT | ESPN 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  SD
+#EXTINF:-1 xui-id="174766" tvg-id="ESPN3D" tvg-name="LAT | ESPN 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVslqx6xjLXCn9CQmSataFK7k/ts
-#EXTINF:-1 xui-id="174767" tvg-id="" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  HD
+#EXTINF:-1 xui-id="174767" tvg-id="ESPN3D" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVskEiIlu_UevN9JfjJo_8vPV/ts
-#EXTINF:-1 xui-id="174768" tvg-id="" tvg-name="LAT | ESPN 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  FHD
+#EXTINF:-1 xui-id="174768" tvg-id="ESPN3D" tvg-name="LAT | ESPN 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVsmx_qdilAP6v5qmWekZ_uHs/ts
-#EXTINF:-1 xui-id="174769" tvg-id="" tvg-name="LAT | ESPN 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 2  FHD
+#EXTINF:-1 xui-id="174769" tvg-id="ESPNMBR" tvg-name="LAT | ESPN 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 2  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXtbHgUwE4LcfS-iFbTDVskbdRWeh1xCd3gHEsxWBpDb/ts
 #EXTINF:-1 xui-id="174770" tvg-id="" tvg-name="LAT | ESPN 1  HD" tvg-logo="http://daleplaypro.com:8080/images/b53036b7258ae3b5df71a67afd1fdc89.png" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 1  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeHYcXE-uD8mYIwuNWeyQW01/ts
 #EXTINF:-1 xui-id="174771" tvg-id="" tvg-name="LAT | ESPN  1  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN  1  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeGDlSaItxIUuaVk4dTNyrhj/ts
-#EXTINF:-1 xui-id="174772" tvg-id="" tvg-name="LAT | FOX SPORTS 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3  SD
+#EXTINF:-1 xui-id="174772" tvg-id="FXSP3NL" tvg-name="LAT | FOX SPORTS 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeGJiseXTywqpZQDNviELUXL/ts
-#EXTINF:-1 xui-id="174773" tvg-id="" tvg-name="LAT | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3 HD
+#EXTINF:-1 xui-id="174773" tvg-id="FXSP3NL" tvg-name="LAT | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3 HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeH7l4U0-U08oJwgv8COEsU_/ts
-#EXTINF:-1 xui-id="174774" tvg-id="" tvg-name="LAT | FOX SPORTS 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3  FHD
+#EXTINF:-1 xui-id="174774" tvg-id="FXSP3NL" tvg-name="LAT | FOX SPORTS 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 3  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeFz85FVT7RVEJzG2_Mt0hKv/ts
-#EXTINF:-1 xui-id="174775" tvg-id="" tvg-name="LAT | FOX SPORTS 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  SD
+#EXTINF:-1 xui-id="174775" tvg-id="FS2" tvg-name="LAT | FOX SPORTS 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeE1MaoNIvXlHK8Tgr6nChRB/ts
-#EXTINF:-1 xui-id="174776" tvg-id="" tvg-name="LAT | FOX SPORTS 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  HD
+#EXTINF:-1 xui-id="174776" tvg-id="FS2" tvg-name="LAT | FOX SPORTS 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeHKEPmiqVt2LMMzICsWm9ZF/ts
-#EXTINF:-1 xui-id="174777" tvg-id="" tvg-name="LAT | FOX SPORTS 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  FHD
+#EXTINF:-1 xui-id="174777" tvg-id="FS2" tvg-name="LAT | FOX SPORTS 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 2  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeE23H3ayeaxkmxR5zir-BFI/ts
-#EXTINF:-1 xui-id="174778" tvg-id="" tvg-name="LAT | FOX SPORTS 1  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 1  SD
+#EXTINF:-1 xui-id="174778" tvg-id="FXSP1NL" tvg-name="LAT | FOX SPORTS 1  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 1  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeETxT0ewPklKWLiGiggZw5j/ts
-#EXTINF:-1 xui-id="174779" tvg-id="" tvg-name="LAT | FOX SPORTS 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 1  HD
+#EXTINF:-1 xui-id="174779" tvg-id="FXSP1NL" tvg-name="LAT | FOX SPORTS 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | FOX SPORTS 1  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzWTqlEGeplgxRz-vQ53vMeGS95x9gjPiOME596Qzxouw/ts
-#EXTINF:-1 xui-id="174780" tvg-id="" tvg-name="DEP | FOX SPORTS 1  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",DEP | FOX SPORTS 1  FHD
+#EXTINF:-1 xui-id="174780" tvg-id="FXSP1NL" tvg-name="DEP | FOX SPORTS 1  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",DEP | FOX SPORTS 1  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5NwgD7h08kqD_8BBVQh13NCH6/ts
-#EXTINF:-1 xui-id="174781" tvg-id="" tvg-name="LAT | TNT SPORTS  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  FHD
+#EXTINF:-1 xui-id="174781" tvg-id="TNTSPOR" tvg-name="LAT | TNT SPORTS  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5Nwg2sx_X1ZPlM9U457Haf_3E/ts
-#EXTINF:-1 xui-id="174782" tvg-id="" tvg-name="LAT | TNT SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  HD
+#EXTINF:-1 xui-id="174782" tvg-id="TNTSPOR" tvg-name="LAT | TNT SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5Nwg-tHnGVUde0LKlOCtJDZeb/ts
-#EXTINF:-1 xui-id="174783" tvg-id="" tvg-name="LAT | TNT SPORTS  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  SD
+#EXTINF:-1 xui-id="174783" tvg-id="TNTSPOR" tvg-name="LAT | TNT SPORTS  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TNT SPORTS  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5NwhKQUAsbp5xYrTLY2bTqTCP/ts
 #EXTINF:-1 xui-id="174784" tvg-id="" tvg-name="LAT | TYC SPORTS  INTERNACIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TYC SPORTS  INTERNACIONAL HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5Nwj9zpGVUSXVt6dQdS2Ksl4d/ts
-#EXTINF:-1 xui-id="174785" tvg-id="" tvg-name="LAT | TYC SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TYC SPORTS  HD
+#EXTINF:-1 xui-id="174785" tvg-id="TYC" tvg-name="LAT | TYC SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | TYC SPORTS  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5NwjEae_jAU9PJDCGZ6u2LHH4/ts
-#EXTINF:-1 xui-id="174786" tvg-id="" tvg-name="LAT | ESPN 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  SD
+#EXTINF:-1 xui-id="174786" tvg-id="ESPN3D" tvg-name="LAT | ESPN 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5NwiiIiQQd4i871quQavO8mjL/ts
-#EXTINF:-1 xui-id="174787" tvg-id="" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  HD
+#EXTINF:-1 xui-id="174787" tvg-id="ESPN3D" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5Nwh5dyUPkXZ2_WX91pNQy-a8/ts
 #EXTINF:-1 xui-id="174788" tvg-id="" tvg-name="LAT | ESPN 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽DEPORTES PREMIUM⚽",LAT | ESPN 3  FHD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVv0zbu1Sg5CXmnOCXk5NwiE1wV-DeqKDMPE5UOJKDuN/ts
@@ -2132,36 +2224,6 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZVabXLFF3U6OL8bgpuY-fQPhmW
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZVabXLFF3U6OL8bgpuY-fTV1F2IfIdxIB8-5E4shOPr/ts
 #EXTINF:-1 xui-id="177735" tvg-id="" tvg-name="ES DEP | MOVISTAR LA LIGA CAMPEONES" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvjfhqq4LSUjX6f0UgtZzvTnGM2PkCmJazj2nG9BVAKh0.png" group-title="CH | ESPAÑA",ES DEP | MOVISTAR LA LIGA CAMPEONES
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZVabXLFF3U6OL8bgpuY-fTHDGCMidLT7ttu3JIV7DjF/ts
-#EXTINF:-1 xui-id="181234" tvg-id="" tvg-name="14:00 Manchester City vs Leipzig (1)" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Manchester City vs Leipzig (1)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcABAQqn9T-_BWFVDFSmp4xMBoqpSc0asjLNV9xYQ5bZ/ts
-#EXTINF:-1 xui-id="181235" tvg-id="" tvg-name="14:00 Manchester City vs Leipzig (2)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Manchester City vs Leipzig (2)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcABAQqn9T-_BWFVDFSmp4zlRdXoMpKZfhzJvFM2rahv/ts
-#EXTINF:-1 xui-id="181236" tvg-id="" tvg-name="14:00 Manchester City vs Leipzig (3)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Manchester City vs Leipzig (3)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcABAQqn9T-_BWFVDFSmp4xn2iuGO7p5kgiMerP_9NPG/ts
-#EXTINF:-1 xui-id="181238" tvg-id="" tvg-name="14:00 Porto vs Internazionale (2)" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Porto vs Internazionale (2)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcABAQqn9T-_BWFVDFSmp4yUH359NrTMv3QroNWcK7iL/ts
-#EXTINF:-1 xui-id="181239" tvg-id="" tvg-name="14:00 Porto vs Internazionale (3)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Porto vs Internazionale (3)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcABAQqn9T-_BWFVDFSmp4yM0fT7dX7Y538JBtGqMKtS/ts
-#EXTINF:-1 xui-id="181319" tvg-id="" tvg-name="14:00 Real Madrid vs Liverpool (1)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Real Madrid vs Liverpool (1)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfx2Jkek5bnOZUUNvQGU8sWzqJXTrhlfPazJR6-lOQKK/ts
-#EXTINF:-1 xui-id="181320" tvg-id="" tvg-name="14:00 Real Madrid vs Liverpool (2)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Real Madrid vs Liverpool (2)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf1yJifLSzg-olIbXmynVk-l/ts
-#EXTINF:-1 xui-id="181321" tvg-id="" tvg-name="14:00 Real Madrid vs Liverpool (3)" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Real Madrid vs Liverpool (3)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf3yPBj-mszWIHalfop5fTAo/ts
-#EXTINF:-1 xui-id="181322" tvg-id="" tvg-name="14:00 Napoli vs Eintracht (1)" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Napoli vs Eintracht (1)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf3ihP5h3Q3s9HVM_aEgG4Nm/ts
-#EXTINF:-1 xui-id="181323" tvg-id="" tvg-name="14:00 Napoli vs Eintracht (2)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Napoli vs Eintracht (2)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf0_LWz8obq4NvFHLS_0ODko/ts
-#EXTINF:-1 xui-id="181324" tvg-id="" tvg-name="14:00 Napoli vs Eintracht (3)" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKioN5Ue-1ZbfSvThdf-H6ti_Lq295JoQcDWvb3BgHiYKQ.png" group-title="⚽CHAMPION LEAGUE ⚽",14:00 Napoli vs Eintracht (3)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf2P-DfiueTYlgyBvnm2C2zz/ts
-#EXTINF:-1 xui-id="167086" tvg-id="" tvg-name="Pluto TV MTV (720p)" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="CH-PLUTO TV",Pluto TV MTV (720p)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRA-PiaF5_0T07N6bQ1RLkZCoMhuBCW2EKN2lVzMgj9B/ts
-#EXTINF:-1 xui-id="167087" tvg-id="" tvg-name="Pluto TV VEVO 70's (1080p)" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="CH-PLUTO TV",Pluto TV VEVO 70's (1080p)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRA-PiaF5_0T07N6bQ1RLkYllQMe9PvgdnCWnF_UPnKH/ts
-#EXTINF:-1 xui-id="167088" tvg-id="" tvg-name="Pluto TV VH1 Classics (720p)" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="CH-PLUTO TV",Pluto TV VH1 Classics (720p)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRA-PiaF5_0T07N6bQ1RLkaeqsS3IbAOgupZDDp2n86C/ts
-#EXTINF:-1 xui-id="167089" tvg-id="" tvg-name="Pluto TV MTV (720p)" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="CH-PLUTO TV",Pluto TV MTV (720p)
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRA-PiaF5_0T07N6bQ1RLkZb7l7Q648Zjtxi7D5E00zv/ts
 #EXTINF:-1 xui-id="167783" tvg-id="" tvg-name="DEP | CLARO SPORTS HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="⚽ CLARO SPORTS⚽",DEP | CLARO SPORTS HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbIuUk7kLlcHSzVV7OK8c-fU4bIzS8vRSzIAMa-3ASzY/ts
 #EXTINF:-1 xui-id="169542" tvg-id="" tvg-name="DEP | CLARO SPORTS HD" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="⚽ CLARO SPORTS⚽",DEP | CLARO SPORTS HD
@@ -2206,6 +2268,20 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTdbRbWf3-Xyne-RwLC2o57qOk0
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTdbRbWf3-Xyne-RwLC2o56ppfDiyQaep5d2IR9zq67l/ts
 #EXTINF:-1 xui-id="173359" tvg-id="" tvg-name="IVC VENEZUELA" tvg-logo="http://odenfull.co:2086/images/e36770538e4d23b55f9cbafde44178d9.jpg" group-title="CH | VENEZUELA",IVC VENEZUELA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzTdbRbWf3-Xyne-RwLC2o57Gj_uKFZkk48B8Brxy3T2M/ts
+#EXTINF:-1 xui-id="181332" tvg-id="" tvg-name="NBA 07 | Mar-15-2023 9:00PM | Golden State Warriors at LA Clippers" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 07 | Mar-15-2023 9:00PM | Golden State Warriors at LA Clippers
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzYarfhtcRCBVf44hHSVA1rCzc5rCASzkkrbtNr3qnjQn/ts
+#EXTINF:-1 xui-id="181331" tvg-id="" tvg-name="NBA 06 | Mar-15-2023 7:30PM | Dallas Mavericks at San Antonio Spurs" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 06 | Mar-15-2023 7:30PM | Dallas Mavericks at San Antonio Spurs
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzYarfhtcRCBVf44hHSVA1rD5Ghyxe5tL19iTIWl9ALLI/ts
+#EXTINF:-1 xui-id="181330" tvg-id="" tvg-name="NBA 05 | Mar-15-2023 7:00PM | Boston Celtics at Minnesota Timberwolves" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 05 | Mar-15-2023 7:00PM | Boston Celtics at Minnesota Timberwolves
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzYarfhtcRCBVf44hHSVA1rBqiW9UH0zYHZ4ffHaU_2BI/ts
+#EXTINF:-1 xui-id="181329" tvg-id="" tvg-name="NBA 04 | Mar-15-2023 7:00PM | Los Angeles Lakers at Houston Rockets" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 04 | Mar-15-2023 7:00PM | Los Angeles Lakers at Houston Rockets
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf3jraydUAYCdO0R-uSfYKBC/ts
+#EXTINF:-1 xui-id="181328" tvg-id="" tvg-name="NBA 03 | Mar-15-2023 7:00PM | Sacramento Kings at Chicago Bulls" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 03 | Mar-15-2023 7:00PM | Sacramento Kings at Chicago Bulls
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf1dgBiXcGl0rzQXTY03DS6S/ts
+#EXTINF:-1 xui-id="181327" tvg-id="" tvg-name="NBA 02 | Mar-15-2023 6:30PM | Memphis Grizzlies at Miami Heat" tvg-logo="http://104.149.129.41:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 02 | Mar-15-2023 6:30PM | Memphis Grizzlies at Miami Heat
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf0h8DYj-MaRX54KFtDiknOg/ts
+#EXTINF:-1 xui-id="181326" tvg-id="" tvg-name="NBA 01 | Mar-15-2023 7:30PM | Philadelphia 76ers at Cleveland Cavaliers" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKhgEzK_NMYrQ0pEFNxIBk9B.png" group-title="CH- EVENTOS NBA (SOLO EVENTOS)",NBA 01 | Mar-15-2023 7:30PM | Philadelphia 76ers at Cleveland Cavaliers
+http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzRpP6jstDrqJSyA_wfR9vf2uwNZt3IFPV4DryBbhqnEL/ts
 #EXTINF:-1 xui-id="180664" tvg-id="" tvg-name="HD AR | ESPN 1" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Kpxb3J44dYdxv7A0bZcdAMGc0kDX8KR4lRUn6g9BxoL.png" group-title="⚽ESPN⚽",HD AR | ESPN 1
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzZP7e1UpAEmZBan01PYHKcF1gY4pLFcRw8eQp4lw9NH7/ts
 #EXTINF:-1 xui-id="180665" tvg-id="" tvg-name="HD AR | ESPN 1" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Kpxb3J44dYdxv7A0bZcdAMGc0kDX8KR4lRUn6g9BxoL.png" group-title="⚽ESPN⚽",HD AR | ESPN 1
@@ -4454,7 +4530,7 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzebhU5o7z3UBPT1EGk9YNkxxGDx
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzQ8fbuPIc2B7Zz9IHxwSTxgm4cBJdWLLG3pDJJTEPnVd/ts
 #EXTINF:-1 xui-id="177379" tvg-id="" tvg-name="TELECARIBE DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1300453305626361856/Py1k_Nhl_400x400.jpg" group-title="CH | COLOMBIA",TELECARIBE DEPORTES
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzQLaO08NwzpuSdOwJkZyEgoY2iHc0rfW2KdbhpXm3i3D/ts
-#EXTINF:-1 xui-id="177437" tvg-id="" tvg-name="MEX HD: ADN 40" tvg-logo="http://odenfull.co:2086/images/a3afd164386a5340a36516b569d09ad1.png" group-title="CH | MEXICO",MEX HD: ADN 40
+#EXTINF:-1 xui-id="177437" tvg-id="ADN40ID" tvg-name="MEX HD: ADN 40" tvg-logo="http://odenfull.co:2086/images/a3afd164386a5340a36516b569d09ad1.png" group-title="CH | MEXICO",MEX HD: ADN 40
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfOSc2xHdIjttYxhb5GWWbwwIeFRHc1kBmAGlnsXDi1D/ts
 #EXTINF:-1 xui-id="177438" tvg-id="" tvg-name="MEX HD: AZ CINEMA" tvg-logo="http://odenfull.co:2086/images/23a1c740ff145d7962d469ec2153bf06.png" group-title="CH | MEXICO",MEX HD: AZ CINEMA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfOSc2xHdIjttYxhb5GWWbxtVVIPh8U8mtM-yv9zmyjH/ts
@@ -4462,73 +4538,73 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfOSc2xHdIjttYxhb5GWWbxtVVI
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfOSc2xHdIjttYxhb5GWWbxC0jSnxrtsZQnlRA-SoPN8/ts
 #EXTINF:-1 xui-id="177440" tvg-id="" tvg-name="MEX HD: AZTECA MUNDO" tvg-logo="http://odenfull.co:2086/images/e299fd60a29fe046164ca1650894d769.png" group-title="CH | MEXICO",MEX HD: AZTECA MUNDO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6N46Dh9vsF2g5WStKwuyGSc/ts
-#EXTINF:-1 xui-id="177441" tvg-id="" tvg-name="MEX HD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX HD: AZTECA 7
+#EXTINF:-1 xui-id="177441" tvg-id="XHIMID2" tvg-name="MEX HD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX HD: AZTECA 7
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6OUZDIsNjshGEKHBp02Da6C/ts
-#EXTINF:-1 xui-id="177442" tvg-id="" tvg-name="MEX: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX: CANAL 4
+#EXTINF:-1 xui-id="177442" tvg-id="MONTTV" tvg-name="MEX: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX: CANAL 4
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6NdONvG_FQ9-d1z1q1a-u2w/ts
-#EXTINF:-1 xui-id="177443" tvg-id="" tvg-name="MEX: NU9VE" tvg-logo="http://odenfull.co:2086/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="CH | MEXICO",MEX: NU9VE
+#EXTINF:-1 xui-id="177443" tvg-id="XEQIZD" tvg-name="MEX: NU9VE" tvg-logo="http://odenfull.co:2086/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="CH | MEXICO",MEX: NU9VE
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6Ot2J6TH1-yxzoDYf6kBltj/ts
-#EXTINF:-1 xui-id="177444" tvg-id="" tvg-name="MEX :CANAL DE LAS ESTRELLAS HD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX :CANAL DE LAS ESTRELLAS HD
+#EXTINF:-1 xui-id="177444" tvg-id="CANESTR" tvg-name="MEX :CANAL DE LAS ESTRELLAS HD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX :CANAL DE LAS ESTRELLAS HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6Mne7cA78j4SOPN6-f_I_oJ/ts
 #EXTINF:-1 xui-id="177445" tvg-id="" tvg-name="MEX HD:CANAL ONCE" tvg-logo="https://i.ibb.co/Bg92zKh/11.png" group-title="CH | MEXICO",MEX HD:CANAL ONCE
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6M7lu1O-hP8iQ49TXr-tAgc/ts
-#EXTINF:-1 xui-id="177446" tvg-id="" tvg-name="MEX: DISTRITO COMEDIA HD" tvg-logo="http://odenfull.co:2086/images/9704c78cc0e70224f1891d0c6534ce7a.png" group-title="CH | MEXICO",MEX: DISTRITO COMEDIA HD
+#EXTINF:-1 xui-id="177446" tvg-id="DISTCOM" tvg-name="MEX: DISTRITO COMEDIA HD" tvg-logo="http://odenfull.co:2086/images/9704c78cc0e70224f1891d0c6534ce7a.png" group-title="CH | MEXICO",MEX: DISTRITO COMEDIA HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6Ps_XKtVCnMXxumT60y-isl/ts
 #EXTINF:-1 xui-id="177447" tvg-id="" tvg-name="MEX: MEXIQUICE" tvg-logo="https://i.ibb.co/DV95v0r/mexi.png" group-title="CH | MEXICO",MEX: MEXIQUICE
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6P_CRTuingbIYMAamfyE9Nx/ts
-#EXTINF:-1 xui-id="177448" tvg-id="" tvg-name="MEX HD: MULTIMEDIOS PLUS" tvg-logo="http://odenfull.co:2086/images/ea8f243d9885cf8ce9876a580224fd3c.png" group-title="CH | MEXICO",MEX HD: MULTIMEDIOS PLUS
+#EXTINF:-1 xui-id="177448" tvg-id="MMEDP" tvg-name="MEX HD: MULTIMEDIOS PLUS" tvg-logo="http://odenfull.co:2086/images/ea8f243d9885cf8ce9876a580224fd3c.png" group-title="CH | MEXICO",MEX HD: MULTIMEDIOS PLUS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6MdiGUu0Mg9ZLLgQFdXjtWP/ts
-#EXTINF:-1 xui-id="177449" tvg-id="" tvg-name="MEX: TELENOVELAS" tvg-logo="http://odenfull.co:2086/images/aa6aad09964ce2a508d987868884c633.png" group-title="CH | MEXICO",MEX: TELENOVELAS
+#EXTINF:-1 xui-id="177449" tvg-id="TLNOHI" tvg-name="MEX: TELENOVELAS" tvg-logo="http://odenfull.co:2086/images/aa6aad09964ce2a508d987868884c633.png" group-title="CH | MEXICO",MEX: TELENOVELAS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUpMlWQov36ubI_HHk34v6O0OrF8AT1u4hIh4FgwQJFD/ts
 #EXTINF:-1 xui-id="177450" tvg-id="" tvg-name="MEX HD: AZTECA  1" tvg-logo="http://odenfull.co:2086/images/e91eebe492eedcd32634722dea18afee.png" group-title="CH | MEXICO",MEX HD: AZTECA  1
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIajmNZvgZq1RQjxvx25NvKUw/ts
-#EXTINF:-1 xui-id="177451" tvg-id="" tvg-name="MEX: CANAL DE LAS ESTRELLAS SD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX: CANAL DE LAS ESTRELLAS SD
+#EXTINF:-1 xui-id="177451" tvg-id="CANESTR" tvg-name="MEX: CANAL DE LAS ESTRELLAS SD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX: CANAL DE LAS ESTRELLAS SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIagq_Gh2KTtUDiVji_qYPaWL/ts
 #EXTINF:-1 xui-id="177452" tvg-id="" tvg-name="MEX: AZTECA CINEMA" tvg-logo="http://odenfull.co:2086/images/23a1c740ff145d7962d469ec2153bf06.png" group-title="CH | MEXICO",MEX: AZTECA CINEMA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIajHgSrfs8gOdlxxTGTsVLde/ts
-#EXTINF:-1 xui-id="177453" tvg-id="" tvg-name="MX SD: CANAL 5" tvg-logo="http://odenfull.co:2086/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CH | MEXICO",MX SD: CANAL 5
+#EXTINF:-1 xui-id="177453" tvg-id="XHGCIZD" tvg-name="MX SD: CANAL 5" tvg-logo="http://odenfull.co:2086/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CH | MEXICO",MX SD: CANAL 5
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIajUO6zY9GZp5q4c_a3Kcsnw/ts
 #EXTINF:-1 xui-id="177454" tvg-id="" tvg-name="MEX SD: AZTECA  1" tvg-logo="http://odenfull.co:2086/images/e91eebe492eedcd32634722dea18afee.png" group-title="CH | MEXICO",MEX SD: AZTECA  1
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIag6_Gzb4CQzSdZlluyp1Oyv/ts
 #EXTINF:-1 xui-id="177455" tvg-id="" tvg-name="MEX SD: CANAL 8" tvg-logo="https://i.ibb.co/ys8Vn46/8.png" group-title="CH | MEXICO",MEX SD: CANAL 8
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIajHub_flmthXgwQ3yDfot6C/ts
-#EXTINF:-1 xui-id="177456" tvg-id="" tvg-name="MEX SD: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX SD: CANAL 4
+#EXTINF:-1 xui-id="177456" tvg-id="MONTTV" tvg-name="MEX SD: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX SD: CANAL 4
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIaih3J3hWQW0WDujqXA1f2wn/ts
-#EXTINF:-1 xui-id="177457" tvg-id="" tvg-name="MEX SD: ADN 40" tvg-logo="http://odenfull.co:2086/images/a3afd164386a5340a36516b569d09ad1.png" group-title="CH | MEXICO",MEX SD: ADN 40
+#EXTINF:-1 xui-id="177457" tvg-id="ADN40ID" tvg-name="MEX SD: ADN 40" tvg-logo="http://odenfull.co:2086/images/a3afd164386a5340a36516b569d09ad1.png" group-title="CH | MEXICO",MEX SD: ADN 40
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIahbDMra6jNy8S2vCOmSphb_/ts
 #EXTINF:-1 xui-id="177458" tvg-id="" tvg-name="MEX SD: AZTECA MUNDO" tvg-logo="http://odenfull.co:2086/images/e299fd60a29fe046164ca1650894d769.png" group-title="CH | MEXICO",MEX SD: AZTECA MUNDO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIagTCqLXhDFDn8vZZxHMEYt5/ts
-#EXTINF:-1 xui-id="177459" tvg-id="" tvg-name="MEX: IMAGENTV HD" tvg-logo="https://i.ibb.co/w0C16gF/ima.png" group-title="CH | MEXICO",MEX: IMAGENTV HD
+#EXTINF:-1 xui-id="177459" tvg-id="IMGIZD4" tvg-name="MEX: IMAGENTV HD" tvg-logo="https://i.ibb.co/w0C16gF/ima.png" group-title="CH | MEXICO",MEX: IMAGENTV HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUT5le_nOQ1Sg6UWs2NxIaies_yFe0BESeBSvWVH09m8/ts
-#EXTINF:-1 xui-id="177460" tvg-id="" tvg-name="MX HD: CANAL 5" tvg-logo="http://odenfull.co:2086/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CH | MEXICO",MX HD: CANAL 5
+#EXTINF:-1 xui-id="177460" tvg-id="XHGCIZD" tvg-name="MX HD: CANAL 5" tvg-logo="http://odenfull.co:2086/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CH | MEXICO",MX HD: CANAL 5
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-T9J_nZh74Fz6Sbv6syq77D/ts
-#EXTINF:-1 xui-id="177461" tvg-id="" tvg-name="MEX HD: Estrella TV" tvg-logo="http://odenfull.co:2086/images/f06039b14c6a0dfef86b4f26c3f85c91.png" group-title="CH | MEXICO",MEX HD: Estrella TV
+#EXTINF:-1 xui-id="177461" tvg-id="ESTRLLA" tvg-name="MEX HD: Estrella TV" tvg-logo="http://odenfull.co:2086/images/f06039b14c6a0dfef86b4f26c3f85c91.png" group-title="CH | MEXICO",MEX HD: Estrella TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-Qoe_drcRYM5pW-83rx2hbj/ts
-#EXTINF:-1 xui-id="177462" tvg-id="" tvg-name="MEX SD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX SD: AZTECA 7
+#EXTINF:-1 xui-id="177462" tvg-id="XHIMID2" tvg-name="MEX SD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX SD: AZTECA 7
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-TMU9zQLZ--dNHH92z7R7NI/ts
-#EXTINF:-1 xui-id="177463" tvg-id="" tvg-name="MEX SD: DISTRITO COMEDIA" tvg-logo="http://odenfull.co:2086/images/9704c78cc0e70224f1891d0c6534ce7a.png" group-title="CH | MEXICO",MEX SD: DISTRITO COMEDIA
+#EXTINF:-1 xui-id="177463" tvg-id="DISTCOM" tvg-name="MEX SD: DISTRITO COMEDIA" tvg-logo="http://odenfull.co:2086/images/9704c78cc0e70224f1891d0c6534ce7a.png" group-title="CH | MEXICO",MEX SD: DISTRITO COMEDIA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-T-LqScKah9lKKZFPFPUObt/ts
 #EXTINF:-1 xui-id="177464" tvg-id="" tvg-name="MEX: Gala TV" tvg-logo="http://odenfull.co:2086/images/52a43bc4333b63e5cd9e952357795054.png" group-title="CH | MEXICO",MEX: Gala TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-Tg4hB29-a_KEanEJo8euro/ts
-#EXTINF:-1 xui-id="177465" tvg-id="" tvg-name="MEX:UNIMAS HD" tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQHaH5?w=176&h=187&c=7&r=0&o=5&pid=1.7" group-title="CH | MEXICO",MEX:UNIMAS HD
+#EXTINF:-1 xui-id="177465" tvg-id="UNIMAS" tvg-name="MEX:UNIMAS HD" tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQHaH5?w=176&h=187&c=7&r=0&o=5&pid=1.7" group-title="CH | MEXICO",MEX:UNIMAS HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-SrdhmC1ywKO17CMdjdbfBG/ts
-#EXTINF:-1 xui-id="177466" tvg-id="" tvg-name="Mex: Bitme HD" tvg-logo="http://odenfull.co:2086/images/625d12d6a2dc707359306eebe02e5533.png" group-title="CH | MEXICO",Mex: Bitme HD
+#EXTINF:-1 xui-id="177466" tvg-id="BITMEH" tvg-name="Mex: Bitme HD" tvg-logo="http://odenfull.co:2086/images/625d12d6a2dc707359306eebe02e5533.png" group-title="CH | MEXICO",Mex: Bitme HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-S-9v4dFw-tvw2Pg7E7CFfc/ts
-#EXTINF:-1 xui-id="177467" tvg-id="" tvg-name="Mex: Bitme SD" tvg-logo="http://odenfull.co:2086/images/625d12d6a2dc707359306eebe02e5533.png" group-title="CH | MEXICO",Mex: Bitme SD
+#EXTINF:-1 xui-id="177467" tvg-id="BITMEH" tvg-name="Mex: Bitme SD" tvg-logo="http://odenfull.co:2086/images/625d12d6a2dc707359306eebe02e5533.png" group-title="CH | MEXICO",Mex: Bitme SD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-Q03wC69tHEXI3QqUIq4Eu-/ts
 #EXTINF:-1 xui-id="177468" tvg-id="" tvg-name="MEX HD: AZTECA CORAZON" tvg-logo="https://i.ibb.co/N9MZ0Qw/cora.png" group-title="CH | MEXICO",MEX HD: AZTECA CORAZON
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-RFFaXT6JHMWggbGqDaD6ot/ts
 #EXTINF:-1 xui-id="177469" tvg-id="" tvg-name="MEX HD: AZTECA MUNDO" tvg-logo="http://odenfull.co:2086/images/e299fd60a29fe046164ca1650894d769.png" group-title="CH | MEXICO",MEX HD: AZTECA MUNDO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcu9wIybmAG0oElqKDgKP-QfqYHXZIU6-DEizIBZPEsK/ts
-#EXTINF:-1 xui-id="177470" tvg-id="" tvg-name="MEX HD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX HD: AZTECA 7
+#EXTINF:-1 xui-id="177470" tvg-id="XHIMID2" tvg-name="MEX HD: AZTECA 7" tvg-logo="http://odenfull.co:2086/images/2d1909b6aad687b7a3b6cd148a5b6db2.png" group-title="CH | MEXICO",MEX HD: AZTECA 7
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVTwfM9jrIAqbdhmFSqZsZ8F-WopXovSoFBCbI3NLGxd/ts
-#EXTINF:-1 xui-id="177471" tvg-id="" tvg-name="MEX: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX: CANAL 4
+#EXTINF:-1 xui-id="177471" tvg-id="MONTTV" tvg-name="MEX: CANAL 4" tvg-logo="http://odenfull.co:2086/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CH | MEXICO",MEX: CANAL 4
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVTwfM9jrIAqbdhmFSqZsZ_bsC-_h132-RRh9QWxA2JB/ts
-#EXTINF:-1 xui-id="177472" tvg-id="" tvg-name="MEX: NU9VE" tvg-logo="http://odenfull.co:2086/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="CH | MEXICO",MEX: NU9VE
+#EXTINF:-1 xui-id="177472" tvg-id="XEQIZD" tvg-name="MEX: NU9VE" tvg-logo="http://odenfull.co:2086/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="CH | MEXICO",MEX: NU9VE
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVTwfM9jrIAqbdhmFSqZsZ81uGGXNwhy4_GVn-7tGZpb/ts
-#EXTINF:-1 xui-id="177473" tvg-id="" tvg-name="MEX :CANAL DE LAS ESTRELLAS HD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX :CANAL DE LAS ESTRELLAS HD
+#EXTINF:-1 xui-id="177473" tvg-id="CANESTR" tvg-name="MEX :CANAL DE LAS ESTRELLAS HD" tvg-logo="http://odenfull.co:2086/images/aa87ddc5b4c24406d26ddad771ef44b0.png" group-title="CH | MEXICO",MEX :CANAL DE LAS ESTRELLAS HD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzVTwfM9jrIAqbdhmFSqZsZ9SNj0I4fndb2jT-WtO8dJe/ts
-#EXTINF:-1 xui-id="177869" tvg-id="" tvg-name="HD | AZTECA 7" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JPqYSu-S-eCzfIBs-cOe4E0g7euasZhCx7e2cCwfr0A3.png" group-title="CH | MEXICO",HD | AZTECA 7
+#EXTINF:-1 xui-id="177869" tvg-id="XHIMID2" tvg-name="HD | AZTECA 7" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JPqYSu-S-eCzfIBs-cOe4E0g7euasZhCx7e2cCwfr0A3.png" group-title="CH | MEXICO",HD | AZTECA 7
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzUCu9uNA_RLkB_Kr6JkknZDmbxI_Q8sx1R-0pVog5edq/ts
 #EXTINF:-1 xui-id="177870" tvg-id="" tvg-name="HD | AZTECA CINEMA" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JEcAJ3FugxZZYMs2sOySxzBYORUcn_c6wNm1Hd3k39DA.png" group-title="CH | MEXICO",HD | AZTECA CINEMA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMpkU7t9v7BL2t0XJQOIZ3FA/ts
@@ -4542,17 +4618,17 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMr9EXo
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMr7L_kJn-LY7ozKxJShm8WA/ts
 #EXTINF:-1 xui-id="177875" tvg-id="" tvg-name="HD | AZTECA CLIC" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JBdDLCW45k4Bw4Dw1SDsKyh7Ut0wkf21JxO5XM1SLGJg.png" group-title="CH | MEXICO",HD | AZTECA CLIC
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMpS4C6LNi7h0x9k3nuVQZx2/ts
-#EXTINF:-1 xui-id="177876" tvg-id="" tvg-name="HD | AZTECA UNO" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JIeCFV3aR1mjzC52_6XX8evUV7JC0QICuCmbZQpMiaVQ.png" group-title="CH | MEXICO",HD | AZTECA UNO
+#EXTINF:-1 xui-id="177876" tvg-id="XHDFID2" tvg-name="HD | AZTECA UNO" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JIeCFV3aR1mjzC52_6XX8evUV7JC0QICuCmbZQpMiaVQ.png" group-title="CH | MEXICO",HD | AZTECA UNO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMrt0ivoCwkVFmvuhNNFpDE3/ts
-#EXTINF:-1 xui-id="177877" tvg-id="" tvg-name="MX | CANAL 11" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JKZgFOzJlhwr-C-k2sRPDCQcXQ1ZDHyxJDMQxOpuuf3d.png" group-title="CH | MEXICO",MX | CANAL 11
+#EXTINF:-1 xui-id="177877" tvg-id="CAN11" tvg-name="MX | CANAL 11" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JKZgFOzJlhwr-C-k2sRPDCQcXQ1ZDHyxJDMQxOpuuf3d.png" group-title="CH | MEXICO",MX | CANAL 11
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMpvR2HaZvQthBwo5WOrtyb7/ts
-#EXTINF:-1 xui-id="177878" tvg-id="" tvg-name="HD | CANAL 5" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JLOQxIOU9oBJBHTUpUoje09Ct0SaOl2-ngGoTJY3ktIV.png" group-title="CH | MEXICO",HD | CANAL 5
+#EXTINF:-1 xui-id="177878" tvg-id="XHGCIZD" tvg-name="HD | CANAL 5" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JLOQxIOU9oBJBHTUpUoje09Ct0SaOl2-ngGoTJY3ktIV.png" group-title="CH | MEXICO",HD | CANAL 5
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMqSY5uKiJJPkDOP5ApGzZ1V/ts
 #EXTINF:-1 xui-id="177879" tvg-id="" tvg-name="HD | A MAS +" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JOpa_SRWhH27R1ER_t9Kr3ZhlhcuqumKuEYUYo5vrAO_.png" group-title="CH | MEXICO",HD | A MAS +
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzV9QHmDlQUPRJAQkfDftwMqg7P7vybeGTiPTMXZxL6ZQ/ts
-#EXTINF:-1 xui-id="177880" tvg-id="" tvg-name="HD | IMAGEN TV" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JIOSK4kdHeyL-8rVSWN46YwbB4skVjTcSuKf3Jmyp2K2.png" group-title="CH | MEXICO",HD | IMAGEN TV
+#EXTINF:-1 xui-id="177880" tvg-id="IMAGTV" tvg-name="HD | IMAGEN TV" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JIOSK4kdHeyL-8rVSWN46YwbB4skVjTcSuKf3Jmyp2K2.png" group-title="CH | MEXICO",HD | IMAGEN TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcDDGoUbdngfMfhbYCxpXuItKk9aVCNlg7lrAdn2qoYk/ts
-#EXTINF:-1 xui-id="177881" tvg-id="" tvg-name="HD | LAS ESTRELLAS" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JF5-p02XmqTqgtAFph15bhn_FDDX_GfiGG9Ca-mE6TET.png" group-title="CH | MEXICO",HD | LAS ESTRELLAS
+#EXTINF:-1 xui-id="177881" tvg-id="XEWIZD2" tvg-name="HD | LAS ESTRELLAS" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JF5-p02XmqTqgtAFph15bhn_FDDX_GfiGG9Ca-mE6TET.png" group-title="CH | MEXICO",HD | LAS ESTRELLAS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcDDGoUbdngfMfhbYCxpXuIHEDf9GLFWdhxHZrDB4Rj7/ts
 #EXTINF:-1 xui-id="177882" tvg-id="" tvg-name="HD | MEXIQUENSE" tvg-logo="http://51.81.83.189:80/images/QCqX5p5x3Y181Q8jwb82JMLO0vZrvpYiQ0s9AYr7fHgKZTeozICCpVBgTavZ2s-c.png" group-title="CH | MEXICO",HD | MEXIQUENSE
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzcDDGoUbdngfMfhbYCxpXuLQNRfM9s3S64uD1xg4k0Se/ts
@@ -4854,8 +4930,6 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbINmHfoXv_iaM_9RxqdK_PEeFv
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbINmHfoXv_iaM_9RxqdK_OuCXeb0d1gUPQZ_xhbxHdO/ts
 #EXTINF:-1 xui-id="172644" tvg-id="" tvg-name="Antena 7* RD" tvg-logo="http://daleplaypro.com:8080/images/b7493f7d8744b33d9ae55bc3a0e487e4.png" group-title="CH | REPUBLICA DOMINICANA",Antena 7* RD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbINmHfoXv_iaM_9RxqdK_NR6b1nWKxFwiv777di4fxU/ts
-#EXTINF:-1 xui-id="172645" tvg-id="TELANTL" tvg-name="Tele Antillas * RD" tvg-logo="http://fanc.tmsimg.com/assets/s60668_ll_h3_aa.png" group-title="CH | REPUBLICA DOMINICANA",Tele Antillas * RD
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbINmHfoXv_iaM_9RxqdK_PliofcFY2AufXWCcKjuMGc/ts
 #EXTINF:-1 xui-id="172646" tvg-id="" tvg-name="Telesistema * RD" tvg-logo="http://daleplaypro.com:8080/images/56e8889d64ed466ac8063fc4beabb6aa.png" group-title="CH | REPUBLICA DOMINICANA",Telesistema * RD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzbINmHfoXv_iaM_9RxqdK_NMlnS7nMsKJtAx1yWTw7pU/ts
 #EXTINF:-1 xui-id="172647" tvg-id="" tvg-name="RD | ANTENA LATINA" tvg-logo="http://daleplaypro.com:8080/images/b7493f7d8744b33d9ae55bc3a0e487e4.png" group-title="CH | REPUBLICA DOMINICANA",RD | ANTENA LATINA
@@ -4926,8 +5000,6 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzeM1dtS2nCCU-Ahit7JA5YKCqoO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzeM1dtS2nCCU-Ahit7JA5YJQA6KUsfgwAAyybqXJsJD1/ts
 #EXTINF:-1 xui-id="177659" tvg-id="" tvg-name="RD | DIGITAL 15" tvg-logo="http://tvglobals.xyz/logo/repdom/quince-rd" group-title="CH | REPUBLICA DOMINICANA",RD | DIGITAL 15
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzeM1dtS2nCCU-Ahit7JA5YJinaNUx6tAotjg-2FkOqz9/ts
-#EXTINF:-1 xui-id="180466" tvg-id="TELANTL" tvg-name="TELEANTILLAS" tvg-logo="http://fanc.tmsimg.com/assets/s60668_ll_h3_aa.png" group-title="CH | REPUBLICA DOMINICANA",TELEANTILLAS
-http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXeNqfW3FbhGB6zD0EgenBfwx3ptiZzHwFTwEuNS4sRI/ts
 #EXTINF:-1 xui-id="181282" tvg-id="" tvg-name="LUNA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/luna-tv-en-vivo.jpg" group-title="CH | REPUBLICA DOMINICANA",LUNA TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX9xPJWi1pAnAOALBo8NerDzeK-SfpZD3FiHgnLYLVpf/ts
 #EXTINF:-1 xui-id="180470" tvg-id="" tvg-name="LAT USA | Telemundo 51 Miami" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JBS5kFNG_TL68c2896p3P61nRqso6PsrmxAVN4HCQb4R.png" group-title="CH | TELEMUNDO",LAT USA | Telemundo 51 Miami
@@ -4982,103 +5054,103 @@ http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfx2Jkek5bnOZUUNvQGU8sUi5t0
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzfx2Jkek5bnOZUUNvQGU8sV_CLIwD_MZKHeL96vbcha9/ts
 #EXTINF:-1 xui-id="180832" tvg-id="" tvg-name="SD | TUDN US" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JEsmKQ2QX95ubPXj72VTu_dlpLgoDRmB_gWAGhj806_Y.png" group-title="CH | CANALES 2-3 MB",SD | TUDN US
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrsOX3aldR8KYWfODc0joOYO/ts
-#EXTINF:-1 xui-id="180833" tvg-id="" tvg-name="SD | DISTRITO COMEDIA" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54D-wx8fPuyf92H9-8ImiXpdX10VF5J4UIDPEoB74E6H7.png" group-title="CH | CANALES 2-3 MB",SD | DISTRITO COMEDIA
+#EXTINF:-1 xui-id="180833" tvg-id="DISTCOM" tvg-name="SD | DISTRITO COMEDIA" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54D-wx8fPuyf92H9-8ImiXpdX10VF5J4UIDPEoB74E6H7.png" group-title="CH | CANALES 2-3 MB",SD | DISTRITO COMEDIA
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrvz0QOu9x6qbQAJZmJbtPEy/ts
-#EXTINF:-1 xui-id="180834" tvg-id="" tvg-name="SD | HISTORY 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmz6BqqqRDqDPecNfF6IZtg.png" group-title="CH | CANALES 2-3 MB",SD | HISTORY 2
+#EXTINF:-1 xui-id="180834" tvg-id="H2LAHD" tvg-name="SD | HISTORY 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmz6BqqqRDqDPecNfF6IZtg.png" group-title="CH | CANALES 2-3 MB",SD | HISTORY 2
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrspve2065q6RNu5Q0abaDo3/ts
-#EXTINF:-1 xui-id="180835" tvg-id="" tvg-name="SD | GOLDEN PREMIER" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Balklg3J8AVtuiImHRU9dQ5qs3oUpmjQX-YzvPmrxwZ.png" group-title="CH | CANALES 2-3 MB",SD | GOLDEN PREMIER
+#EXTINF:-1 xui-id="180835" tvg-id="GLDPREM" tvg-name="SD | GOLDEN PREMIER" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Balklg3J8AVtuiImHRU9dQ5qs3oUpmjQX-YzvPmrxwZ.png" group-title="CH | CANALES 2-3 MB",SD | GOLDEN PREMIER
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrveaJtQbnalVaDTomzhuD1Z/ts
 #EXTINF:-1 xui-id="180836" tvg-id="" tvg-name="SD | A&E" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpm_YwrrE6ilGQnwnKTB7bje.png" group-title="CH | CANALES 2-3 MB",SD | A&E
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrvk7wXINU8bUOcwnAqVzaSI/ts
-#EXTINF:-1 xui-id="180837" tvg-id="" tvg-name="SD | Disney Junior" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvt9TW6Ob3uJjXPLl4hMsK6U-ckpxKtHrAp5JlEc6VXbT.png" group-title="CH | CANALES 2-3 MB",SD | Disney Junior
+#EXTINF:-1 xui-id="180837" tvg-id="DIJRSAP" tvg-name="SD | Disney Junior" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvt9TW6Ob3uJjXPLl4hMsK6U-ckpxKtHrAp5JlEc6VXbT.png" group-title="CH | CANALES 2-3 MB",SD | Disney Junior
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrtvef8aOsFg5SB_PdaG55LL/ts
-#EXTINF:-1 xui-id="180838" tvg-id="" tvg-name="SD | Disney XD" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvt9TW6Ob3uJjXPLl4hMsK6Xoj5l5nX4Ti_qfjSohccBT.png" group-title="CH | CANALES 2-3 MB",SD | Disney XD
+#EXTINF:-1 xui-id="180838" tvg-id="DXDME" tvg-name="SD | Disney XD" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvt9TW6Ob3uJjXPLl4hMsK6Xoj5l5nX4Ti_qfjSohccBT.png" group-title="CH | CANALES 2-3 MB",SD | Disney XD
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrtaWi5DxOl5ieS1sJR95HPL/ts
-#EXTINF:-1 xui-id="180839" tvg-id="" tvg-name="SD | ISAT" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDviHRSMic4r61q_N8-qv5lqzNPTpSIYq0d9gyOvyjGHzZ.png" group-title="CH | CANALES 2-3 MB",SD | ISAT
+#EXTINF:-1 xui-id="180839" tvg-id="ISATS" tvg-name="SD | ISAT" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDviHRSMic4r61q_N8-qv5lqzNPTpSIYq0d9gyOvyjGHzZ.png" group-title="CH | CANALES 2-3 MB",SD | ISAT
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzf57NYqLX_3QQK7hpRrLdrsLNSaJ2Pp74vvqCorqvGhL/ts
-#EXTINF:-1 xui-id="180840" tvg-id="" tvg-name="SD | Sony" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplqrT-VhHaAKU_nb3KFnvoUDd9fMV88np8XMS11wdyVxg.png" group-title="CH | CANALES 2-3 MB",SD | Sony
+#EXTINF:-1 xui-id="180840" tvg-id="SONYCAE" tvg-name="SD | Sony" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplqrT-VhHaAKU_nb3KFnvoUDd9fMV88np8XMS11wdyVxg.png" group-title="CH | CANALES 2-3 MB",SD | Sony
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8WMhsaHIzp9JkvRFbrQ0Tlz/ts
 #EXTINF:-1 xui-id="180841" tvg-id="" tvg-name="SD | Baby First" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvlq3Dijuzng1FoDj-6D_xv7fF4f-tKe5zfrXvKlK7MYp.png" group-title="CH | CANALES 2-3 MB",SD | Baby First
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8WcODDqzAy5nk9uWkcNyLjt/ts
-#EXTINF:-1 xui-id="180842" tvg-id="" tvg-name="SD | BeIN Sports Ñ" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD_8COjE1RnEOLF4PtEOyZz9gGSfvPPQfg96Y94dBuTUJA.png" group-title="CH | CANALES 2-3 MB",SD | BeIN Sports Ñ
+#EXTINF:-1 xui-id="180842" tvg-id="BEINS1" tvg-name="SD | BeIN Sports Ñ" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD_8COjE1RnEOLF4PtEOyZz9gGSfvPPQfg96Y94dBuTUJA.png" group-title="CH | CANALES 2-3 MB",SD | BeIN Sports Ñ
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8UvgCBCWAFDKQ_jMbctria2/ts
 #EXTINF:-1 xui-id="180843" tvg-id="" tvg-name="SD | Gamavision" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvgBfeBNTbmuKzbc7MCMnj1ZEhPJKY_VPSWFE58vHgdT3.png" group-title="CH | CANALES 2-3 MB",SD | Gamavision
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8WJMhPcFE-5tp5c-Qy4vRKV/ts
 #EXTINF:-1 xui-id="180844" tvg-id="" tvg-name="SD | Ecuavisa Gquil" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvvkp0FVjghcguYJZOwHde2pMAZ8x_ecfz5Y0uOB0rv6H.png" group-title="CH | CANALES 2-3 MB",SD | Ecuavisa Gquil
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8U8Rrikzw37L74BpY5tLuUG/ts
-#EXTINF:-1 xui-id="180845" tvg-id="" tvg-name="SD | Directv Sports" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvo2XIg754zNWnKjJxm_mq23SSBlOv5B409KwkokkDaxs.png" group-title="CH | CANALES 2-3 MB",SD | Directv Sports
+#EXTINF:-1 xui-id="180845" tvg-id="DT2SPT" tvg-name="SD | Directv Sports" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvo2XIg754zNWnKjJxm_mq23SSBlOv5B409KwkokkDaxs.png" group-title="CH | CANALES 2-3 MB",SD | Directv Sports
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8W3v2koX4k4Uo-tpiwW2q4e/ts
 #EXTINF:-1 xui-id="180846" tvg-id="" tvg-name="SD | Canela TV" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvqezwIVNNkn28XCKeYep3C5KEuOGJmQg7fgUZ17Qf5m6.png" group-title="CH | CANALES 2-3 MB",SD | Canela TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8Xhktis7jv6YaJI9DOs7WRk/ts
-#EXTINF:-1 xui-id="180847" tvg-id="" tvg-name="SD | RTS" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvmQIyIGif3ZjdJBzJ5PYFw78G_98NBsFMTS3X-wZkSdJ.png" group-title="CH | CANALES 2-3 MB",SD | RTS
+#EXTINF:-1 xui-id="180847" tvg-id="RTS11" tvg-name="SD | RTS" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvmQIyIGif3ZjdJBzJ5PYFw78G_98NBsFMTS3X-wZkSdJ.png" group-title="CH | CANALES 2-3 MB",SD | RTS
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8VX0U2nz0kwLykExSyFj4NU/ts
-#EXTINF:-1 xui-id="180848" tvg-id="" tvg-name="SD | TVC" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvtuN5kF8M5MoV1aHuow--SSOoCprRWKyLVQcVWU3btjc.png" group-title="CH | CANALES 2-3 MB",SD | TVC
+#EXTINF:-1 xui-id="180848" tvg-id="TVCRUS" tvg-name="SD | TVC" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvtuN5kF8M5MoV1aHuow--SSOoCprRWKyLVQcVWU3btjc.png" group-title="CH | CANALES 2-3 MB",SD | TVC
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8V5yI6LEZa-mjsSVDX6nmf1/ts
-#EXTINF:-1 xui-id="180849" tvg-id="" tvg-name="SD |  GOL TV" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvr2p7qmbdT5MzzVWWu-wNT6luhTIjYLQImdNbWSspqu0.png" group-title="CH | CANALES 2-3 MB",SD |  GOL TV
+#EXTINF:-1 xui-id="180849" tvg-id="GOLTV" tvg-name="SD |  GOL TV" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvr2p7qmbdT5MzzVWWu-wNT6luhTIjYLQImdNbWSspqu0.png" group-title="CH | CANALES 2-3 MB",SD |  GOL TV
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzb80uKLGRGDBa0RkVLjZB8XfN62phqJFPM04OROFZV9T/ts
-#EXTINF:-1 xui-id="180850" tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JENfLy7OE_hp5NgQMOlxcokJTv1mWX15dprU9V0m7Y3m.png" group-title="CH | CANALES 2-3 MB",SD | Las Estrellas
+#EXTINF:-1 xui-id="180850" tvg-id="XEWIZD2" tvg-name="SD | Las Estrellas" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JENfLy7OE_hp5NgQMOlxcokJTv1mWX15dprU9V0m7Y3m.png" group-title="CH | CANALES 2-3 MB",SD | Las Estrellas
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriVDLZYlNePMxjB5Arpzs9IL/ts
 #EXTINF:-1 xui-id="180851" tvg-id="" tvg-name="SD | Az corazón" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JMnYlD5dah85LXHlgt0MdsPLEIFHhzzhvhCrvOi6yIt_.png" group-title="CH | CANALES 2-3 MB",SD | Az corazón
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriU5xVvJzX2Rzjl6-Ur0Eqe9/ts
-#EXTINF:-1 xui-id="180852" tvg-id="" tvg-name="SD | AXN" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54IQC853bIBO6M48ZyTsv8YAfY1VejanpqIq1yQD3Gxbu.png" group-title="CH | CANALES 2-3 MB",SD | AXN
+#EXTINF:-1 xui-id="180852" tvg-id="AXNKDG" tvg-name="SD | AXN" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54IQC853bIBO6M48ZyTsv8YAfY1VejanpqIq1yQD3Gxbu.png" group-title="CH | CANALES 2-3 MB",SD | AXN
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriV3-NFQ7mxGsti7E8CJz3az/ts
-#EXTINF:-1 xui-id="180853" tvg-id="" tvg-name="SD | Food Network" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmJ0rosCOJ_vwy2iR1gi5xMmo8W0lv3bl288VuxOHeFlQ.png" group-title="CH | CANALES 2-3 MB",SD | Food Network
+#EXTINF:-1 xui-id="180853" tvg-id="FOODIT" tvg-name="SD | Food Network" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmJ0rosCOJ_vwy2iR1gi5xMmo8W0lv3bl288VuxOHeFlQ.png" group-title="CH | CANALES 2-3 MB",SD | Food Network
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriWQ8JyMv77mJShg2FADPpl_/ts
 #EXTINF:-1 xui-id="180854" tvg-id="" tvg-name="SD | FX" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpklO7qEM7RNVXmNB8EL6IRt.png" group-title="CH | CANALES 2-3 MB",SD | FX
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriX-xncRJFfEXQcb_o5QGDrL/ts
 #EXTINF:-1 xui-id="180855" tvg-id="" tvg-name="SD | Gourmet" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JC8O9Q3i7S0gouQYwG7aqov7hGbqHgCn8tLlP3v2rUiK.png" group-title="CH | CANALES 2-3 MB",SD | Gourmet
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriVAsUgtk_EidfJYfDbHwBf9/ts
-#EXTINF:-1 xui-id="180856" tvg-id="" tvg-name="SD | Glitz" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JISzVkk9MBmX54UPOkTvl-YPOZIUkSGNgZYnmQ-EW8FJ.jpg" group-title="CH | CANALES 2-3 MB",SD | Glitz
+#EXTINF:-1 xui-id="180856" tvg-id="GLITZS" tvg-name="SD | Glitz" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JISzVkk9MBmX54UPOkTvl-YPOZIUkSGNgZYnmQ-EW8FJ.jpg" group-title="CH | CANALES 2-3 MB",SD | Glitz
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriX4UG7V6k3d_XccByJi_ZNb/ts
-#EXTINF:-1 xui-id="180857" tvg-id="" tvg-name="SD | Lifetime" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmKoX-XY0Mx1cRGhueqGQFc.png" group-title="CH | CANALES 2-3 MB",SD | Lifetime
+#EXTINF:-1 xui-id="180857" tvg-id="LIFELAH" tvg-name="SD | Lifetime" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmKoX-XY0Mx1cRGhueqGQFc.png" group-title="CH | CANALES 2-3 MB",SD | Lifetime
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriUDWc0PVoMIB_QRxnSmN7uX/ts
-#EXTINF:-1 xui-id="180858" tvg-id="" tvg-name="SD | Mas Chic" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JKyivc8_DkaKpK6abtqJ60ksMMc9ZgXYjT0Sg97--zrS.png" group-title="CH | CANALES 2-3 MB",SD | Mas Chic
+#EXTINF:-1 xui-id="180858" tvg-id="MASCHEH" tvg-name="SD | Mas Chic" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JKyivc8_DkaKpK6abtqJ60ksMMc9ZgXYjT0Sg97--zrS.png" group-title="CH | CANALES 2-3 MB",SD | Mas Chic
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriUaW-xrXamBtSQeJ-ak1Hok/ts
-#EXTINF:-1 xui-id="180859" tvg-id="" tvg-name="SD | SYFY" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpksmhHM02HGioRrVrzND5iw.png" group-title="CH | CANALES 2-3 MB",SD | SYFY
+#EXTINF:-1 xui-id="180859" tvg-id="SYFYLAH" tvg-name="SD | SYFY" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpksmhHM02HGioRrVrzND5iw.png" group-title="CH | CANALES 2-3 MB",SD | SYFY
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzR5Cb_uU_cikLJw-1ctyriViG204m_HfzXnwCg2OjG3_/ts
-#EXTINF:-1 xui-id="180860" tvg-id="" tvg-name="SD | Animal planet" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpnHFzjgC08cKK1t6Z3a7raatdcGax-gUv5bN4HPe1l4CA.png" group-title="CH | CANALES 2-3 MB",SD | Animal planet
+#EXTINF:-1 xui-id="180860" tvg-id="APLANZ" tvg-name="SD | Animal planet" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpnHFzjgC08cKK1t6Z3a7raatdcGax-gUv5bN4HPe1l4CA.png" group-title="CH | CANALES 2-3 MB",SD | Animal planet
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb9O1VS9COF23o36s2rNtkm4/ts
-#EXTINF:-1 xui-id="180861" tvg-id="" tvg-name="SD | History" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplWeug9hoWZ7WCFwnXlsH7IUfLOIXsEWEzrEmvlAui49A.png" group-title="CH | CANALES 2-3 MB",SD | History
+#EXTINF:-1 xui-id="180861" tvg-id="HCLCHD" tvg-name="SD | History" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplWeug9hoWZ7WCFwnXlsH7IUfLOIXsEWEzrEmvlAui49A.png" group-title="CH | CANALES 2-3 MB",SD | History
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb90NI5lknuZUWXEQqtHEGOM/ts
-#EXTINF:-1 xui-id="180862" tvg-id="" tvg-name="SD | Discovery science" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplR-t5wrwzNTPWPo-mO8wYiv7Hm2xSEqdMSpIOXj4NnHw.png" group-title="CH | CANALES 2-3 MB",SD | Discovery science
+#EXTINF:-1 xui-id="180862" tvg-id="DSCISA" tvg-name="SD | Discovery science" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplR-t5wrwzNTPWPo-mO8wYiv7Hm2xSEqdMSpIOXj4NnHw.png" group-title="CH | CANALES 2-3 MB",SD | Discovery science
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb_kNt7_g-xH7k8FB9J5j5rs/ts
 #EXTINF:-1 xui-id="180863" tvg-id="" tvg-name="SD | Discovery H&H" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZwSm1YewGnlwcntiR9K3Q4j.png" group-title="CH | CANALES 2-3 MB",SD | Discovery H&H
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb_ApqwJSxbPzD1QbXHoxOdd/ts
-#EXTINF:-1 xui-id="180864" tvg-id="" tvg-name="SD | Discovery Turbo" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JOAhvg94qkx7e4ucmwzvuBbXkyvgICH9oU8LdFkvJXKj.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Turbo
+#EXTINF:-1 xui-id="180864" tvg-id="DTURANZ" tvg-name="SD | Discovery Turbo" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JOAhvg94qkx7e4ucmwzvuBbXkyvgICH9oU8LdFkvJXKj.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Turbo
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb9hAQYka_YVDhY3tZRcs9Ij/ts
-#EXTINF:-1 xui-id="180865" tvg-id="" tvg-name="SD | Discovery Theater" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JCpkuofWRNqbwEma2-F4oQYIANekiYEiTOf7HIBtAty_.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Theater
+#EXTINF:-1 xui-id="180865" tvg-id="DTHLAM" tvg-name="SD | Discovery Theater" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JCpkuofWRNqbwEma2-F4oQYIANekiYEiTOf7HIBtAty_.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Theater
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb-7vrdG1C-kzxIMFy-1IdS3/ts
-#EXTINF:-1 xui-id="180866" tvg-id="" tvg-name="SD | Discovery world" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JPJHcaHs9f8Ihe0eqk4BLlKm4EbOG8ErHAGKtsOAPOcF.png" group-title="CH | CANALES 2-3 MB",SD | Discovery world
+#EXTINF:-1 xui-id="180866" tvg-id="DWRLDHD" tvg-name="SD | Discovery world" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JPJHcaHs9f8Ihe0eqk4BLlKm4EbOG8ErHAGKtsOAPOcF.png" group-title="CH | CANALES 2-3 MB",SD | Discovery world
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb-WoOJa_oiXFk4iy_JVXdVA/ts
-#EXTINF:-1 xui-id="180867" tvg-id="" tvg-name="SD | Boomerang" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvghCfGqus_0fYdJWqDj5Ub5-rji2YinS3Pk7MUN53GqG.png" group-title="CH | CANALES 2-3 MB",SD | Boomerang
+#EXTINF:-1 xui-id="180867" tvg-id="BOOMANZ" tvg-name="SD | Boomerang" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvghCfGqus_0fYdJWqDj5Ub5-rji2YinS3Pk7MUN53GqG.png" group-title="CH | CANALES 2-3 MB",SD | Boomerang
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb916hICvnD1vTVbCz2lQALu/ts
-#EXTINF:-1 xui-id="180868" tvg-id="" tvg-name="SD | Cartoon network" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsHCB_wSbYEBZIzoa7_6S_4jDHGWREvDzsnWKtYRptLJ.png" group-title="CH | CANALES 2-3 MB",SD | Cartoon network
+#EXTINF:-1 xui-id="180868" tvg-id="TOONLSE" tvg-name="SD | Cartoon network" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsHCB_wSbYEBZIzoa7_6S_4jDHGWREvDzsnWKtYRptLJ.png" group-title="CH | CANALES 2-3 MB",SD | Cartoon network
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb8k-ftzgerZCDwbGVUO4hOC/ts
-#EXTINF:-1 xui-id="180869" tvg-id="" tvg-name="SD | Discovery Kids" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZyXLu_anatLkV8lpNMqHdtT.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Kids
+#EXTINF:-1 xui-id="180869" tvg-id="DKNCHL" tvg-name="SD | Discovery Kids" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZyXLu_anatLkV8lpNMqHdtT.png" group-title="CH | CANALES 2-3 MB",SD | Discovery Kids
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzemWPfWUo1De_AYe996pnb_GqOt5_vQCxw6e6W_chpeK/ts
-#EXTINF:-1 xui-id="180870" tvg-id="" tvg-name="SD | Nick 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvjcHs6-pgVjJ-q3SssnVwD1dSDp73kpSYp1XEIiF7ksy.png" group-title="CH | CANALES 2-3 MB",SD | Nick 2
+#EXTINF:-1 xui-id="180870" tvg-id="NIKLAHD" tvg-name="SD | Nick 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvjcHs6-pgVjJ-q3SssnVwD1dSDp73kpSYp1XEIiF7ksy.png" group-title="CH | CANALES 2-3 MB",SD | Nick 2
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-wUnmciUkWOP66VyV1nwN1_/ts
-#EXTINF:-1 xui-id="180871" tvg-id="" tvg-name="SD | Nickelodeon" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsXA4fJ7BZtg0dpEaRP_wFssk_7FSVi-gIOZqmfcuoUJ.png" group-title="CH | CANALES 2-3 MB",SD | Nickelodeon
+#EXTINF:-1 xui-id="180871" tvg-id="NICKLMC" tvg-name="SD | Nickelodeon" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsXA4fJ7BZtg0dpEaRP_wFssk_7FSVi-gIOZqmfcuoUJ.png" group-title="CH | CANALES 2-3 MB",SD | Nickelodeon
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-xh06KqgaLClQMgR3XaQVht/ts
-#EXTINF:-1 xui-id="180872" tvg-id="" tvg-name="SD | Cinecanal" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54ELwhHUGoEHvZSJPEbLsO6NkjN3UWdl9Sgf090npCgId.png" group-title="CH | CANALES 2-3 MB",SD | Cinecanal
+#EXTINF:-1 xui-id="180872" tvg-id="CCANAL" tvg-name="SD | Cinecanal" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54ELwhHUGoEHvZSJPEbLsO6NkjN3UWdl9Sgf090npCgId.png" group-title="CH | CANALES 2-3 MB",SD | Cinecanal
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-ywj3-iI9GFEx1Wa8aBk3Aw/ts
-#EXTINF:-1 xui-id="180873" tvg-id="" tvg-name="SD | Cinemax" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpl4jeXtxqPDOQECS8f3J-4H.png" group-title="CH | CANALES 2-3 MB",SD | Cinemax
+#EXTINF:-1 xui-id="180873" tvg-id="MAX" tvg-name="SD | Cinemax" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpl4jeXtxqPDOQECS8f3J-4H.png" group-title="CH | CANALES 2-3 MB",SD | Cinemax
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-yCXO7rTP43PAtsIse32QBT/ts
-#EXTINF:-1 xui-id="180874" tvg-id="" tvg-name="SD | Golden Edge" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Balklg3J8AVtuiImHRU9dQ5qs3oUpmjQX-YzvPmrxwZ.png" group-title="CH | CANALES 2-3 MB",SD | Golden Edge
+#EXTINF:-1 xui-id="180874" tvg-id="GOLDAMC" tvg-name="SD | Golden Edge" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54Balklg3J8AVtuiImHRU9dQ5qs3oUpmjQX-YzvPmrxwZ.png" group-title="CH | CANALES 2-3 MB",SD | Golden Edge
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-y0FWFKqTkRpHamtLC7cUXc/ts
-#EXTINF:-1 xui-id="180875" tvg-id="" tvg-name="SD | HBO" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZwRTt1tWb4kKWnrTBzkQjAT.png" group-title="CH | CANALES 2-3 MB",SD | HBO
+#EXTINF:-1 xui-id="180875" tvg-id="HBOCHIL" tvg-name="SD | HBO" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZwRTt1tWb4kKWnrTBzkQjAT.png" group-title="CH | CANALES 2-3 MB",SD | HBO
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-zNOQN789nV6H_n9dCgRh8m/ts
-#EXTINF:-1 xui-id="180876" tvg-id="" tvg-name="SD | HBO 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpkmekyVE4BiEtlvS68YAy4N.png" group-title="CH | CANALES 2-3 MB",SD | HBO 2
+#EXTINF:-1 xui-id="180876" tvg-id="GHB2DLY" tvg-name="SD | HBO 2" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpkmekyVE4BiEtlvS68YAy4N.png" group-title="CH | CANALES 2-3 MB",SD | HBO 2
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-wkJezl7M6QJ1cESYxCghZc/ts
-#EXTINF:-1 xui-id="180877" tvg-id="" tvg-name="SD | HBO Family" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpnAqutHf-LVRNEZbn3GGMFI0JB4BwXlWDn9s_a-5H19hg.png" group-title="CH | CANALES 2-3 MB",SD | HBO Family
+#EXTINF:-1 xui-id="180877" tvg-id="HBOHDA" tvg-name="SD | HBO Family" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpnAqutHf-LVRNEZbn3GGMFI0JB4BwXlWDn9s_a-5H19hg.png" group-title="CH | CANALES 2-3 MB",SD | HBO Family
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-ywsRjruwHiyEKHIn1U5pZv/ts
-#EXTINF:-1 xui-id="180878" tvg-id="" tvg-name="SD | HBO Mundi" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZx2_05l7VXFiIIYxg-DPLeI.png" group-title="CH | CANALES 2-3 MB",SD | HBO Mundi
+#EXTINF:-1 xui-id="180878" tvg-id="MUNLEH" tvg-name="SD | HBO Mundi" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZx2_05l7VXFiIIYxg-DPLeI.png" group-title="CH | CANALES 2-3 MB",SD | HBO Mundi
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-x_iYcIxMbfj6ypHjcYqcSl/ts
-#EXTINF:-1 xui-id="180879" tvg-id="" tvg-name="SD | HBO Plus" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmP4DIIeryde344tvfAWmfC.png" group-title="CH | CANALES 2-3 MB",SD | HBO Plus
+#EXTINF:-1 xui-id="180879" tvg-id="HBODA" tvg-name="SD | HBO Plus" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirpmP4DIIeryde344tvfAWmfC.png" group-title="CH | CANALES 2-3 MB",SD | HBO Plus
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzX3pGOclddIQIiZPPyG9Z-z3Es_BtSRXe7eo2DuMBNFa/ts
-#EXTINF:-1 xui-id="180880" tvg-id="" tvg-name="SD | HBO Signature" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplvqh7mulvpmhmvUpzRu9dA.png" group-title="CH | CANALES 2-3 MB",SD | HBO Signature
+#EXTINF:-1 xui-id="180880" tvg-id="HBOSIG" tvg-name="SD | HBO Signature" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsUbwPEb-GT35pJ5RiKirplvqh7mulvpmhmvUpzRu9dA.png" group-title="CH | CANALES 2-3 MB",SD | HBO Signature
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXFqnN9qZYE_S62-laxPSvUO0-cgAv-ATTX1kA1xWL5K/ts
-#EXTINF:-1 xui-id="180881" tvg-id="" tvg-name="SD | Space" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZzd32sPMwMWUQMRxm96XvJi.png" group-title="CH | CANALES 2-3 MB",SD | Space
+#EXTINF:-1 xui-id="180881" tvg-id="SPACECH" tvg-name="SD | Space" tvg-logo="http://15.204.172.102:80/images/6Io6LstbmQQ6wZdIMoCDvsqVBw8NEJCztPLJY0ekhZzd32sPMwMWUQMRxm96XvJi.png" group-title="CH | CANALES 2-3 MB",SD | Space
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXFqnN9qZYE_S62-laxPSvUAN3ytFHnnwVNOf-0BhqB5/ts
 #EXTINF:-1 xui-id="180882" tvg-id="" tvg-name="SD | TNT Series" tvg-logo="http://15.204.172.102:80/images/z_hDjAnw98TyytvGkDE54FMze7A6S0IPMajgXqBKt9tLZ3zY4nRFXdA04uBtntUO.png" group-title="CH | CANALES 2-3 MB",SD | TNT Series
 http://fastvplayer.com:8080/play/2g22ZtdGDXJBUuZVl0nuzXFqnN9qZYE_S62-laxPSvURpchRG190qzSKjCSnRjMv/ts
