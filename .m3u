@@ -194,12 +194,18 @@ http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/124503
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/124507
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS TENNIS" tvg-logo="http://streamgo.vip:8008/images/4a9702f7ffe84ee7fc40d587e191c45c.png" group-title="⭐️ Eventos Exclusivos",EVENTOS TENNIS
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/124509
-#EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS HD" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia",LAT | WIN SPORTS HD
-http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/149896
-#EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS + SD" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia",LAT | WIN SPORTS + SD
-http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/149898
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS + HD" tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia",CO | WIN SPORTS + HD
-http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/149901
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia", (ONLINE) CO | Win Sports + HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287807
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia", (ONLINE) CO | Win Sports + SD.
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287808
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia", (OFFLINE) CO | Win Sports + FHD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287809
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia", (ONLINE) CO | Win Sports  HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287810
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia", (ONLINE) CO | Win Sports SD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287811
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⭐️ Deporte Colombia", (ONLINE) ESPN (CO) HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/287812
 #EXTINF:-1 tvg-id="" tvg-name="EC | CANAL DEL FUTBOL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mYHGPv9uH0egH7UZWEV3CCUutF92C0ztRQ&usqp=CAU" group-title="⭐️ Deporte Ecuador",EC | CANAL DEL FUTBOL HD
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/104110
 #EXTINF:-1 tvg-id="" tvg-name="EC | CANAL DEL FUTBOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mYHGPv9uH0egH7UZWEV3CCUutF92C0ztRQ&usqp=CAU" group-title="⭐️ Deporte Ecuador",EC | CANAL DEL FUTBOL SD
